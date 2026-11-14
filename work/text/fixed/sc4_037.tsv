@@ -1,0 +1,360 @@
+번호	위치	겹침	JP	KO
+07624	tectext/waza_0b#676	1	夜来たる異聖（ホールド）	밤이 찾아오는 이성（홀드）
+07625	tectext/waza_0b#680	1	剣状態で$Q29/$Q33/+$Q34/	검 상태에서 $Q29/$Q33/+$Q34/
+07626	tectext/waza_0b#681	1	罪深き宣誓	죄 깊은 서약
+07627	tectext/waza_0b#684	1	ギルティプレッジ	길티 플레지
+07628	tectext/waza_0b#685	1	剣状態で$Q25/$Q33/+$Q34/	검 상태에서 $Q25/$Q33/+$Q34/
+07629	tectext/waza_0b#686	1	地を刺す刺蔓	땅을 찌르는 가시덩굴
+07630	tectext/waza_0b#689	1	クローリー ランブラー	크롤리 램블러
+07631	tectext/waza_0b#690	1	剣状態で立ち途中$Q33/+$Q34/	검 상태에서 서는 도중 $Q33/+$Q34/
+07632	tectext/waza_0b#695	1	剣状態で背向け$Q33/+$Q34/	검 상태에서 뒤돌아서 $Q33/+$Q34/
+07633	tectext/waza_0b#700	2	剣状態で$Q34/+$Q35/	검 상태에서 $Q34/+$Q35/
+07634	tectext/waza_0b#701	2	素霊が交代する（気）	소령이 교대한다（기）
+07635	tectext/waza_0b#704	2	メタエレム・ジルフェ	메타엘렘·질페
+07636	tectext/waza_0b#705	1	剣状態で$Q24/or$Q25/or$Q26/$Q34/+$Q35/	검 상태에서 $Q24/or$Q25/or$Q26/$Q34/+$Q35/
+07637	tectext/waza_0b#706	1	恐れ無き地霊	두려움 없는 지령
+07638	tectext/waza_0b#709	1	フィアレス ノーム	피어리스 놈
+07639	tectext/waza_0b#710	1	剣状態で$Q26/$Q47/+$Q48/	검 상태에서 $Q26/$Q47/+$Q48/
+07640	tectext/waza_0b#711	1	剣持つ地霊	검 든 지령
+07641	tectext/waza_0b#714	1	ノーム フェンサー	놈 펜서
+07642	tectext/waza_0b#715	1	剣状態で$Q31/$Q34/+$Q35/	검 상태에서 $Q31/$Q34/+$Q35/
+07643	tectext/waza_0b#720	1	剣状態で$Q31/$Q34/+$Q35/.$Q35/	검 상태에서 $Q31/$Q34/+$Q35/.$Q35/
+07644	tectext/waza_0b#725	1	剣状態で$Q33/+$Q35/	검 상태에서 $Q33/+$Q35/
+07645	tectext/waza_0b#735	1	鞭状態で$Q33/+$Q34/	채찍 상태에서 $Q33/+$Q34/
+07646	tectext/waza_0b#736	1	燃ゆる炎の唄い手	타오르는 불꽃의 노래꾼
+07647	tectext/waza_0b#739	1	コーリング テジャス	콜링 테자스
+07648	tectext/waza_0b#740	1	鞭状態で$Q29/$Q33/+$Q34/	채찍 상태에서 $Q29/$Q33/+$Q34/
+07649	tectext/waza_0b#741	1	地霊は踊る	지령은 춤춘다
+07650	tectext/waza_0b#744	2	ノーム ロンド	놈 론도
+07651	tectext/waza_0b#745	1	鞭状態で$Q29/$Q46/+$Q47/	채찍 상태에서 $Q29/$Q46/+$Q47/
+07652	tectext/waza_0b#746	1	地霊は踊る（ホールド）	지령은 춤춘다（홀드）
+07653	tectext/waza_0b#750	1	鞭状態で$Q26/$Q33/+$Q34/	채찍 상태에서 $Q26/$Q33/+$Q34/
+07654	tectext/waza_0b#751	1	黙する地霊	침묵하는 지령
+07655	tectext/waza_0b#754	1	タシット ノーム	태싯 놈
+07656	tectext/waza_0b#755	1	鞭状態で$Q26/$Q33/+$Q34/.$Q33/+$Q34/	채찍 상태에서 $Q26/$Q33/+$Q34/.$Q33/+$Q34/
+07657	tectext/waza_0b#756	1	悦び踊る地霊	기뻐 춤추는 지령
+07658	tectext/waza_0b#759	1	リープ ノーム	리프 놈
+07659	tectext/waza_0b#760	1	鞭状態で$Q27/$Q33/+$Q34/.$Q34/	채찍 상태에서 $Q27/$Q33/+$Q34/.$Q34/
+07660	tectext/waza_0b#761	1	生れ出ずる螺旋	태어나는 나선
+07661	tectext/waza_0b#762	8	$Q121/×７	$Q121/×７
+07662	tectext/waza_0b#764	1	スパイラル キャスト	스파이럴 캐스트
+07663	tectext/waza_0b#765	1	鞭状態で立ち途中$Q33/+$Q34/	채찍 상태에서 서는 도중 $Q33/+$Q34/
+07664	tectext/waza_0b#770	1	鞭状態で背向け$Q33/+$Q34/	채찍 상태에서 뒤돌아서 $Q33/+$Q34/
+07665	tectext/waza_0b#775	1	鞭状態で$Q34/+$Q35/	채찍 상태에서 $Q34/+$Q35/
+07666	tectext/waza_0b#780	1	鞭状態で$Q29/$Q34/+$Q35/	채찍 상태에서 $Q29/$Q34/+$Q35/
+07667	tectext/waza_0b#781	1	刺蔓の如く	가시덩굴처럼
+07668	tectext/waza_0b#784	1	カインド ランブラー	카인드 램블러
+07669	tectext/waza_0b#785	1	鞭状態で$Q29/$Q34/+$Q35/.$Q25/or$Q31/	채찍 상태에서 $Q29/$Q34/+$Q35/.$Q25/or$Q31/
+07670	tectext/waza_0b#786	1	生れ落ちる火霊	태어나 떨어지는 화령
+07671	tectext/waza_0b#789	1	テジャス イェルド	테자스 일드
+07672	tectext/waza_0b#790	1	鞭状態で$Q24/or$Q25/or$Q26/$Q34/+$Q35/	채찍 상태에서 $Q24/or$Q25/or$Q26/$Q34/+$Q35/
+07673	tectext/waza_0b#791	4	剣持つ風精	검 든 바람의 정령
+07674	tectext/waza_0b#794	4	ジルフェ フェンサー	질페 펜서
+07675	tectext/waza_0b#800	1	環状態で$Q42/$Q33/	환 상태에서 $Q42/$Q33/
+07676	tectext/waza_0b#801	1	殻破りし黒翼	껍질을 깬 검은 날개
+07677	tectext/waza_0b#804	1	ハッチャー レイブン	해처 레이븐
+07678	tectext/waza_0b#805	1	環状態で$Q39/or$Q45/$Q33/	환 상태에서 $Q39/or$Q45/$Q33/
+07679	tectext/waza_0b#806	1	火霊の黒翼	화령의 검은 날개
+07680	tectext/waza_0b#809	2	テジャス レイブン	테자스 레이븐
+07681	tectext/waza_0b#810	1	環状態で$Q38/or$Q44/$Q33/	환 상태에서 $Q38/or$Q44/$Q33/
+07682	tectext/waza_0b#811	1	纏わる火霊	휘감기는 화령
+07683	tectext/waza_0b#814	1	コーティング テジャス	코팅 테자스
+07684	tectext/waza_0b#815	1	環状態で$Q40/or$Q37/or$Q43/$Q33/	환 상태에서 $Q40/or$Q37/or$Q43/$Q33/
+07685	tectext/waza_0b#816	1	失われし刻印	잃어버린 각인
+07686	tectext/waza_0b#819	1	エンシェント サイン	에인션트 사인
+07687	tectext/waza_0b#820	1	環状態で$Q42/$Q34/.$Q33/	환 상태에서 $Q42/$Q34/.$Q33/
+07688	tectext/waza_0b#821	1	凍りつく眼差し	얼어붙는 눈빛
+07689	tectext/waza_0b#824	1	フリージー ゲイズ	프리지 게이즈
+07690	tectext/waza_0b#825	1	環状態で$Q39/or$Q45/$Q34/	환 상태에서 $Q39/or$Q45/$Q34/
+07691	tectext/waza_0b#826	1	強いられた宣告	강요된 선고
+07692	tectext/waza_0b#835	1	環状態で$Q38/or$Q44/$Q34/	환 상태에서 $Q38/or$Q44/$Q34/
+07693	tectext/waza_0b#836	1	舞い降りる風精	내려앉는 바람의 정령
+07694	tectext/waza_0b#839	1	ランディング ジルフェ	랜딩 질페
+07695	tectext/waza_0b#840	1	環状態で$Q40/or$Q37/or$Q43/$Q34/.$Q34/	환 상태에서 $Q40/or$Q37/or$Q43/$Q34/.$Q34/
+07696	tectext/waza_0b#841	1	交錯する軌跡 γ-１（陽炎立つ二剣士）	교차하는 궤적 γ-1（아지랑이 피어오르는 두 검사）
+07697	tectext/waza_0b#844	1	エレムパスクロス　γ-１	엘렘 패스 크로스　γ-1
+07698	tectext/waza_0b#845	1	環状態で$Q42/or$Q39/or$Q45/$Q35/	환 상태에서 $Q42/or$Q39/or$Q45/$Q35/
+07699	tectext/waza_0b#846	2	女刀師	여도사
+07700	tectext/waza_0b#849	2	カトレス	커트리스
+07701	tectext/waza_0b#850	1	環状態で$Q38/or$Q44/$Q35/	환 상태에서 $Q38/or$Q44/$Q35/
+07702	tectext/waza_0b#851	2	鎚打つ女刀師	망치질하는 여도사
+07703	tectext/waza_0b#854	2	スミスカトレス	스미스 커트리스
+07704	tectext/waza_0b#855	1	環状態で$Q40/or$Q37/or$Q43/$Q35/	환 상태에서 $Q40/or$Q37/or$Q43/$Q35/
+07705	tectext/waza_0b#856	2	姿消しの外套	모습을 감추는 외투
+07706	tectext/waza_0b#859	2	ミストラル ケープ	미스트랄 케이프
+07707	tectext/waza_0b#865	1	剣状態で$Q38/or$Q44/$Q33/	검 상태에서 $Q38/or$Q44/$Q33/
+07708	tectext/waza_0b#866	1	霊刻の灯	영각의 등불
+07709	tectext/waza_0b#869	1	プロミスカンテラ	프로미스 칸델라
+07710	tectext/waza_0b#870	1	剣状態で$Q40/or$Q37/or$Q43/$Q33/	검 상태에서 $Q40/or$Q37/or$Q43/$Q33/
+07711	tectext/waza_0b#871	1	反失われし刻印	역 잃어버린 각인
+07712	tectext/waza_0b#874	1	アンチ エンシェント サイン	안티 에인션트 사인
+07713	tectext/waza_0b#875	1	剣状態で$Q42/$Q34/	검 상태에서 $Q42/$Q34/
+07714	tectext/waza_0b#876	1	葬られし宣告	묻힌 선고
+07715	tectext/waza_0b#879	1	ロスト プレッジ	로스트 플레지
+07716	tectext/waza_0b#880	1	剣状態で$Q39/or$Q45/$Q34/	검 상태에서 $Q39/or$Q45/$Q34/
+07717	tectext/waza_0b#885	1	剣状態で$Q38/or$Q44/$Q34/	검 상태에서 $Q38/or$Q44/$Q34/
+07718	tectext/waza_0b#886	1	夜の為の鎮魂歌	밤을 위한 진혼가
+07719	tectext/waza_0b#889	1	ミッドナイト レクイエム	미드나이트 레퀴엠
+07720	tectext/waza_0b#890	1	剣状態で$Q37/or$Q43/$Q34/	검 상태에서 $Q37/or$Q43/$Q34/
+07721	tectext/waza_0b#895	1	剣状態で$Q40/$Q34/	검 상태에서 $Q40/$Q34/
+07722	tectext/waza_0b#896	1	嗚咽する刻銘	오열하는 각명
+07723	tectext/waza_0b#899	1	クライング オートグラフ	크라잉 오토그래프
+07724	tectext/waza_0b#900	1	剣状態で$Q42/or$Q39/or$Q45/$Q35/	검 상태에서 $Q42/or$Q39/or$Q45/$Q35/
+07725	tectext/waza_0b#901	1	束縛されぬ留金	속박되지 않는 걸쇠
+07726	tectext/waza_0b#904	1	ワンダラー ジェイル	원더러 제일
+07727	tectext/waza_0b#905	1	剣状態で$Q38/or$Q44/$Q35/	검 상태에서 $Q38/or$Q44/$Q35/
+07728	tectext/waza_0b#909	1	レストレス シルエット	레스트리스 실루엣
+07729	tectext/waza_0b#910	1	剣状態で$Q40/or$Q37/or$Q43/$Q35/	검 상태에서 $Q40/or$Q37/or$Q43/$Q35/
+07730	tectext/waza_0b#911	1	鐘鳴らす女刀師	종 울리는 여도사
+07731	tectext/waza_0b#914	1	ワーナー カトレス	워너 커트리스
+07732	tectext/waza_0b#915	1	鞭状態で$Q42/or$Q39/or$Q45/$Q33/	채찍 상태에서 $Q42/or$Q39/or$Q45/$Q33/
+07733	tectext/waza_0b#916	1	燃ゆる黒翼	타오르는 검은 날개
+07734	tectext/waza_0b#920	1	鞭状態で$Q38/or$Q44/$Q33/	채찍 상태에서 $Q38/or$Q44/$Q33/
+07735	tectext/waza_0b#921	1	狂い霊の灯	미친 영혼의 등불
+07736	tectext/waza_0b#924	1	レイヴナーズ カンテラ	레이버너스 칸델라
+07737	tectext/waza_0b#925	1	鞭状態で$Q38/or$Q44/$Q33/.$Q27/	채찍 상태에서 $Q38/or$Q44/$Q33/.$Q27/
+07738	tectext/waza_0b#926	1	狂い霊の燭台	미친 영혼의 촛대
+07739	tectext/waza_0b#929	1	レイヴナーズ フェロス	레이버너스 페로스
+07740	tectext/waza_0b#930	1	鞭状態で$Q37/or$Q43/$Q33/	채찍 상태에서 $Q37/or$Q43/$Q33/
+07741	tectext/waza_0b#931	2	嘆き霊の誘惑	탄식하는 영혼의 유혹
+07742	tectext/waza_0b#934	2	ラメンターズ イグニス	라멘터스 이그니스
+07743	tectext/waza_0b#935	1	鞭状態で$Q40/$Q33/	채찍 상태에서 $Q40/$Q33/
+07744	tectext/waza_0b#936	1	大気の集い、合	대기의 모임, 합
+07745	tectext/waza_0b#939	2	シュークラッド	슈클라드
+07746	tectext/waza_0b#940	1	鞭状態で$Q40/$Q46/	채찍 상태에서 $Q40/$Q46/
+07747	tectext/waza_0b#941	1	大気の集い、合～素霊が交代する（気）	대기의 모임, 합~소령이 교대한다（기）
+07748	tectext/waza_0b#945	1	鞭状態で$Q42/$Q34/	채찍 상태에서 $Q42/$Q34/
+07749	tectext/waza_0b#946	1	濡れし髪盗み	젖은 머리칼을 훔치는 자
+07750	tectext/waza_0b#949	1	アクア クリーパー	아쿠아 크리퍼
+07751	tectext/waza_0b#950	1	鞭状態で$Q39/or$Q45/$Q34/	채찍 상태에서 $Q39/or$Q45/$Q34/
+07752	tectext/waza_0b#955	1	鞭状態で$Q39/or$Q45/$Q47/	채찍 상태에서 $Q39/or$Q45/$Q47/
+07753	tectext/waza_0b#960	1	鞭状態で$Q38/or$Q44/$Q34/	채찍 상태에서 $Q38/or$Q44/$Q34/
+07754	tectext/waza_0b#961	1	水精の如く	물의 정령처럼
+07755	tectext/waza_0b#964	1	カインド アパス	카인드 아파스
+07756	tectext/waza_0b#965	2	鞭状態で$Q40/or$Q37/or$Q43/$Q34/.$Q34/	채찍 상태에서 $Q40/or$Q37/or$Q43/$Q34/.$Q34/
+07757	tectext/waza_0b#966	1	交錯する軌跡 γ-２（沸き上る二剣士）	교차하는 궤적 γ-2（끓어오르는 두 검사）
+07758	tectext/waza_0b#969	2	エレムパスクロス　γ-２	엘렘 패스 크로스　γ-2
+07759	tectext/waza_0b#971	1	交錯する軌跡 γ-２（沸き上る二剣士）（ディレイ）	교차하는 궤적 γ-2（끓어오르는 두 검사）（딜레이）
+07760	tectext/waza_0b#975	1	鞭状態で$Q42/or$Q39/or$Q45/$Q35/	채찍 상태에서 $Q42/or$Q39/or$Q45/$Q35/
+07761	tectext/waza_0b#980	1	鞭状態で$Q38/or$Q44/$Q35/	채찍 상태에서 $Q38/or$Q44/$Q35/
+07762	tectext/waza_0b#985	1	鞭状態で$Q40/or$Q37/or$Q43/$Q35/	채찍 상태에서 $Q40/or$Q37/or$Q43/$Q35/
+07763	tectext/waza_0b#995	1	鞭状態で$Q40/$Q33/+$Q34/	채찍 상태에서 $Q40/$Q33/+$Q34/
+07764	tectext/waza_0b#996	1	水精の時間軸～黙する地霊	물의 정령의 시간축~침묵하는 지령
+07765	tectext/waza_0b#999	2	アパス アクシズ	아파스 액시스
+07766	tectext/waza_0b#1000	1	鞭状態で$Q40/$Q33/+$Q34/.$Q33/+$Q34/	채찍 상태에서 $Q40/$Q33/+$Q34/.$Q33/+$Q34/
+07767	tectext/waza_0b#1001	1	水精の時間軸～悦び踊る地霊	물의 정령의 시간축~기뻐 춤추는 지령
+07768	tectext/waza_0b#1006	1	揺らぐ影法師	일렁이는 그림자
+07769	tectext/waza_0b#1009	1	ヴァシレイト シルエット	배실레이트 실루엣
+07770	tectext/waza_0b#1011	1	本質たる原動	본질인 원동력
+07771	tectext/waza_0b#1014	1	プライマル ドゥナミス	프라이멀 두나미스
+07772	tectext/waza_0b#1016	1	支配の王座	지배의 왕좌
+07773	tectext/waza_0b#1019	1	ドミニオン スゥローン	도미니언 스론
+07774	tectext/waza_0b#1021	1	無慈悲な導き手	무자비한 인도자
+07775	tectext/waza_0b#1024	1	ハートレス ガイド	하트리스 가이드
+07776	tectext/waza_0b#1026	1	黄昏に散る揺篭	황혼에 흩어지는 요람
+07777	tectext/waza_0b#1029	1	サンセット クレイドル	선셋 크레이들
+07778	tectext/waza_0b#1031	1	高潔ゆえ、烙印	고결하기에, 낙인
+07779	tectext/waza_0b#1034	1	タルシシスム ブランド	타르시시즘 브랜드
+07780	tectext/waza_0b#1035	1	剣状態で$Q26/$Q25/$Q24/$Q27/$Q26/$Q32/$Q24/$Q33/+$Q36/	검 상태에서 $Q26/$Q25/$Q24/$Q27/$Q26/$Q32/$Q24/$Q33/+$Q36/
+07781	tectext/waza_0b#1036	1	罪人の響き	죄인의 울림
+07782	tectext/waza_0b#1039	1	クリミナル シンフォニー	크리미널 심포니
+07783	tectext/waza_0b#1050	1	素霊が交代する（気）中$Q33/ヒット時$Q25/$Q26/$Q29/$Q33/	소령이 교대한다（기） 중 $Q33/히트 시 $Q25/$Q26/$Q29/$Q33/
+07784	tectext/waza_0b#1051	1	抱擁せし風精王	포옹하는 바람의 정령왕
+07785	tectext/waza_0b#1054	1	トワイニング ジルフェ	트와이닝 질페
+07786	tectext/waza_0b#1055	1	素霊が交代する（気）中$Q34/.$Q34/.$Q34/	소령이 교대한다（기） 중 $Q34/.$Q34/.$Q34/
+07787	tectext/waza_0b#1056	1	狂乱する火霊	광란하는 화령
+07788	tectext/waza_0b#1059	1	ルナティック テジャス	루나틱 테자스
+07789	tectext/waza_0b#1060	1	素霊が交代する（気）中$Q34/.$Q29/$Q34/.$Q27/$Q34/.$Q29/$Q34/.$Q27/$Q34/（ジャスト）	소령이 교대한다（기） 중 $Q34/.$Q29/$Q34/.$Q27/$Q34/.$Q29/$Q34/.$Q27/$Q34/（저스트）
+07790	tectext/waza_0b#1061	1	狂い旺る火霊王	미친 듯 타오르는 화령왕
+07791	tectext/waza_0b#1064	1	テジャス フラックス	테자스 플럭스
+07792	tectext/waza_0b#1065	1	素霊が交代する（気）中$Q35/or$Q29/$Q42/$Q35/	소령이 교대한다（기） 중 $Q35/or$Q29/$Q42/$Q35/
+07793	tectext/waza_0b#1066	1	捕えられた留金	붙잡힌 걸쇠
+07794	tectext/waza_0b#1069	1	キーパー ジェイル	키퍼 제일
+07795	tectext/waza_0b#1070	1	素霊が交代する（気）中$Q33/+$Q34/	소령이 교대한다（기） 중 $Q33/+$Q34/
+07796	tectext/waza_0b#1071	1	解放されし素霊	해방된 소령
+07797	tectext/waza_0b#1074	1	バーニング メタエレム	버닝 메타엘렘
+07798	tectext/waza_0b#1075	1	素霊が交代する（気）中$Q34/+$Q35/	소령이 교대한다（기） 중 $Q34/+$Q35/
+07799	tectext/waza_0b#1080	1	素霊が交代する（気）中$Q29/$Q34/+$Q35/	소령이 교대한다（기） 중 $Q29/$Q34/+$Q35/
+07800	tectext/waza_0b#1085	1	素霊が交代する（気）中$Q27/$Q34/+$Q35/	소령이 교대한다（기） 중 $Q27/$Q34/+$Q35/
+07801	tectext/waza_0b#1090	1	素霊が交代する（気）中$Q33/+$Q35/	소령이 교대한다（기） 중 $Q33/+$Q35/
+07802	tectext/waza_0c#1	2	流渓翼	유계익
+07803	tectext/waza_0c#4	2	リュウケイヨク	류케요쿠
+07804	tectext/waza_0c#6	2	風侯	풍후
+07805	tectext/waza_0c#9	2	フウコウ	후코
+07806	tectext/waza_0c#11	2	紅鋒	홍봉
+07807	tectext/waza_0c#14	3	コウホウ	코호
+07808	tectext/waza_0c#16	2	降龍棍	강룡곤
+07809	tectext/waza_0c#19	2	コウリュウコン	코류콘
+07810	tectext/waza_0c#21	2	天覇	천패
+07811	tectext/waza_0c#24	2	テンパ	텐파
+07812	tectext/waza_0c#26	2	滅法蒼生～準封師	멸법창생~준봉사
+07813	tectext/waza_0c#29	2	メッポウソウセイ～ジュンフウシ	멧포소세~준후시
+07814	tectext/waza_0c#31	2	準封師	준봉사
+07815	tectext/waza_0c#34	3	ジュンフウシ	준후시
+07816	tectext/waza_0c#35	2	準封師中$Q33/	준봉사 중 $Q33/
+07817	tectext/waza_0c#36	2	封練乎	봉련호
+07818	tectext/waza_0c#39	2	フウレンコ	후렌코
+07819	tectext/waza_0c#40	2	準封師中$Q34/	준봉사 중 $Q34/
+07820	tectext/waza_0c#41	2	封蛇額	봉사액
+07821	tectext/waza_0c#44	2	フウジャガク	후자가쿠
+07822	tectext/waza_0c#45	1	立ち途中$Q34/~$Q29/$Q42/$Q34/	서는 도중 $Q34/~$Q29/$Q42/$Q34/
+07823	tectext/waza_0c#50	1	準封師中$Q33/~$Q27/$Q29/$Q34/~$Q29/$Q33/.$Q33/.$Q33/	준봉사 중 $Q33/~$Q27/$Q29/$Q34/~$Q29/$Q33/.$Q33/.$Q33/
+07824	tectext/waza_0c#61	1	双殴棍～軸移動	쌍구곤~축 이동
+07825	tectext/waza_0c#64	1	ソウオウコン	소오콘
+07826	tectext/waza_0c#66	1	崩穿	붕천
+07827	tectext/waza_0c#69	1	ホウセン	호센
+07828	tectext/waza_0c#76	1	桂棘掃	계극소
+07829	tectext/waza_0c#79	1	ケイキョクソウ	케쿄쿠소
+07830	tectext/waza_0c#81	1	凛乎	늠호
+07831	tectext/waza_0c#84	1	リンコ	린코
+07832	tectext/waza_0c#86	2	掃襲棍	소습곤
+07833	tectext/waza_0c#89	2	ソウシュウコン	소슈콘
+07834	tectext/waza_0c#91	1	杲乎	고호
+07835	tectext/waza_0c#94	1	コウコ	코코
+07836	tectext/waza_0c#101	1	凛撃棍	늠격곤
+07837	tectext/waza_0c#104	1	リンゲキコン	린게키콘
+07838	tectext/waza_0c#106	1	散夜棍	산야곤
+07839	tectext/waza_0c#109	1	サンヤコン	산야콘
+07840	tectext/waza_0c#111	1	殴背棍	구배곤
+07841	tectext/waza_0c#114	1	オウハイコン	오하이콘
+07842	tectext/waza_0c#116	1	掃背棍	소배곤
+07843	tectext/waza_0c#119	1	ソウハイコン	소하이콘
+07844	tectext/waza_0c#121	1	連瀑棍	연폭곤
+07845	tectext/waza_0c#124	2	レンバクコン	렌바쿠콘
+07846	tectext/waza_0c#126	1	連瀑棍～軸移動	연폭곤~축 이동
+07847	tectext/waza_0c#131	1	瑞牙	서아
+07848	tectext/waza_0c#134	1	ズイガ	즈이가
+07849	tectext/waza_0c#136	1	夜魄	야백
+07850	tectext/waza_0c#139	1	ヤハク	야하쿠
+07851	tectext/waza_0c#141	1	砦牙	채아
+07852	tectext/waza_0c#144	1	サイガ	사이가
+07853	tectext/waza_0c#151	1	紅鋒（ディレイ）	홍봉（딜레이）
+07854	tectext/waza_0c#156	2	割襲棍	할습곤
+07855	tectext/waza_0c#159	2	カッシュウコン	캇슈콘
+07856	tectext/waza_0c#161	1	散霞穿	산하천
+07857	tectext/waza_0c#164	1	サンカセン	산카센
+07858	tectext/waza_0c#166	1	捻刺棍	염자곤
+07859	tectext/waza_0c#169	1	ネンシコン	넨시콘
+07860	tectext/waza_0c#171	1	箒星	추성
+07861	tectext/waza_0c#174	1	ソウセイ	소세
+07862	tectext/waza_0c#176	1	紡糸勁	방사경
+07863	tectext/waza_0c#179	1	ボウシケイ	보시케
+07864	tectext/waza_0c#181	1	戟砕貫	극쇄관
+07865	tectext/waza_0c#184	1	ゲキサイカン	게키사이칸
+07866	tectext/waza_0c#191	1	浮惑泉	부혹천
+07867	tectext/waza_0c#194	1	フワクセン	후와쿠센
+07868	tectext/waza_0c#196	1	蛟顎棍	교악곤
+07869	tectext/waza_0c#199	1	コウガクコン	코가쿠콘
+07870	tectext/waza_0c#201	1	砕覇	쇄패
+07871	tectext/waza_0c#204	1	サイハ	사이하
+07872	tectext/waza_0c#206	1	陽墜棍	양추곤
+07873	tectext/waza_0c#209	1	ヨウツイコン	요츠이콘
+07874	tectext/waza_0c#211	1	落背棍	낙배곤
+07875	tectext/waza_0c#214	1	ラクハイコン	라쿠하이콘
+07876	tectext/waza_0c#216	1	割背棍	할배곤
+07877	tectext/waza_0c#219	1	カツハイコン	카츠하이콘
+07878	tectext/waza_0c#221	1	刈撃蹴	예격축
+07879	tectext/waza_0c#224	1	ガイゲキシュウ	가이게키슈
+07880	tectext/waza_0c#226	1	尸穿	시천
+07881	tectext/waza_0c#229	1	シセン	시센
+07882	tectext/waza_0c#231	1	戒猜蹴	계시축
+07883	tectext/waza_0c#234	1	カイサイシュウ	카이사이슈
+07884	tectext/waza_0c#236	1	帥穿	수천
+07885	tectext/waza_0c#239	1	スイセン	스이센
+07886	tectext/waza_0c#241	2	薙撃蹴	치격축
+07887	tectext/waza_0c#244	2	テイゲキシュウ	테게키슈
+07888	tectext/waza_0c#246	1	戒錐蹴	계추축
+07889	tectext/waza_0c#249	1	カイスイシュウ	카이스이슈
+07890	tectext/waza_0c#251	1	鷺啄穿	노탁천
+07891	tectext/waza_0c#254	2	ロタクセン	로타쿠센
+07892	tectext/waza_0c#256	1	鷺啄穿（ディレイ）	노탁천（딜레이）
+07893	tectext/waza_0c#266	1	登陽蹴	등양축
+07894	tectext/waza_0c#269	1	トウヨウシュウ	토요슈
+07895	tectext/waza_0c#271	1	翔開蹴	상개축
+07896	tectext/waza_0c#274	1	ショウカイシュウ	쇼카이슈
+07897	tectext/waza_0c#276	1	刈背蹴	예배축
+07898	tectext/waza_0c#279	1	ガイハイシュウ	가이하이슈
+07899	tectext/waza_0c#281	1	薙背蹴	치배축
+07900	tectext/waza_0c#284	1	テイハイシュウ	테하이슈
+07901	tectext/waza_0c#286	1	幾喝	기갈
+07902	tectext/waza_0c#287	1	$Q120/×６	$Q120/×６
+07903	tectext/waza_0c#289	1	キカツ	키카츠
+07904	tectext/waza_0c#291	1	衆轟陣（中段）	중굉진（중단）
+07905	tectext/waza_0c#294	2	シュウゴウジン	슈고진
+07906	tectext/waza_0c#296	1	開三宝	개삼보
+07907	tectext/waza_0c#299	1	カイサンポウ	카이산포
+07908	tectext/waza_0c#301	1	衆轟陣（下段）	중굉진（하단）
+07909	tectext/waza_0c#306	1	捧三宝	봉삼보
+07910	tectext/waza_0c#309	1	ホウサンポウ	호산포
+07911	tectext/waza_0c#311	1	龍吼	용후
+07912	tectext/waza_0c#312	15	$Q121/×６	$Q121/×６
+07913	tectext/waza_0c#314	1	リュウコウ	류코
+07914	tectext/waza_0c#315	6	しゃがみ$Q33/+$Q34/	앉기 $Q33/+$Q34/
+07915	tectext/waza_0c#316	1	輝扇	휘선
+07916	tectext/waza_0c#319	1	キセン	키센
+07917	tectext/waza_0c#320	1	ダウン中$Q33/+$Q34/	다운 중 $Q33/+$Q34/
+07918	tectext/waza_0c#321	2	煌雷火	황뢰화
+07919	tectext/waza_0c#324	4	コウライカ	코라이카
+07920	tectext/waza_0c#325	1	ダウン中$Q33/+$Q34/.$Q36/	다운 중 $Q33/+$Q34/.$Q36/
+07921	tectext/waza_0c#326	2	煌雷火（キャンセル）	황뢰화（캔슬）
+07922	tectext/waza_0c#330	1	ダウン中$Q33/+$Q34/.$Q35/	다운 중 $Q33/+$Q34/.$Q35/
+07923	tectext/waza_0c#331	2	駆雷	구뢰
+07924	tectext/waza_0c#334	2	クライ	쿠라이
+07925	tectext/waza_0c#336	1	散颱羅漢靠	산태나한고
+07926	tectext/waza_0c#339	1	サンタイラカンコウ	산타이라칸코
+07927	tectext/waza_0c#341	1	戒越蹴	계월축
+07928	tectext/waza_0c#344	1	カイエツシュウ	카이에츠슈
+07929	tectext/waza_0c#346	1	虚牙	허아
+07930	tectext/waza_0c#349	3	キョガ	쿄가
+07931	tectext/waza_0c#351	1	虚牙～うつ伏せダウン	허아~엎드린 다운
+07932	tectext/waza_0c#356	1	虚牙～仰向けダウン	허아~위로 누운 다운
+07933	tectext/waza_0c#361	1	滅法蒼生	멸법창생
+07934	tectext/waza_0c#364	1	メッポウソウセイ	멧포소세
+07935	tectext/waza_0c#371	1	鷹爪棍	응조곤
+07936	tectext/waza_0c#374	1	ヨウソウコン	요소콘
+07937	tectext/waza_0c#375	1	背向け$Q34/+$Q35/.$Q29/$Q34/.$Q27/$Q24/$Q25/$Q26/$Q29/$Q34/	뒤돌아서 $Q34/+$Q35/.$Q29/$Q34/.$Q27/$Q24/$Q25/$Q26/$Q29/$Q34/
+07938	tectext/waza_0c#376	1	掴雷羅漢靠	괵뢰나한고
+07939	tectext/waza_0c#379	1	カクライラカンコウ	카쿠라이라칸코
+07940	tectext/waza_0c#381	1	翔双棍	상쌍곤
+07941	tectext/waza_0c#384	1	ショウソウコン	쇼소콘
+07942	tectext/waza_0c#386	1	飛廉	비렴
+07943	tectext/waza_0c#389	1	ヒレン	히렌
+07944	tectext/waza_0c#391	1	沛乎	패호
+07945	tectext/waza_0c#394	1	ハイコ	하이코
+07946	tectext/waza_0c#396	1	山斗杯	산두배
+07947	tectext/waza_0c#399	1	サントハイ	산토하이
+07948	tectext/waza_0c#400	1	ダウン中$Q33/+$Q35/	다운 중 $Q33/+$Q35/
+07949	tectext/waza_0c#401	1	煌翼閃	황익섬
+07950	tectext/waza_0c#404	1	コウヨクセン	코요쿠센
+07951	tectext/waza_0c#416	1	麟掌	인장
+07952	tectext/waza_0c#419	1	リンショウ	린쇼
+07953	tectext/waza_0c#421	1	玄武	현무
+07954	tectext/waza_0c#424	1	ゲンブ	겐부
+07955	tectext/waza_0c#426	1	玄翼	현익
+07956	tectext/waza_0c#429	1	ゲンヨク	겐요쿠
+07957	tectext/waza_0c#431	1	耀乎	요호
+07958	tectext/waza_0c#434	1	ヨウコ	요코
+07959	tectext/waza_0c#436	1	糾乎	규호
+07960	tectext/waza_0c#439	2	キュウコ	큐코
+07961	tectext/waza_0c#441	1	糾乎（ディレイ）	규호（딜레이）
+07962	tectext/waza_0c#446	1	輪廻	윤회
+07963	tectext/waza_0c#449	1	リンネ	린네
+07964	tectext/waza_0c#451	1	巌衝棍	암충곤
+07965	tectext/waza_0c#454	2	ガンショウコン	간쇼콘
+07966	tectext/waza_0c#456	1	巌衝棍（カウンター）	암충곤（카운터）
+07967	tectext/waza_0c#466	1	白穿牙	백천아
+07968	tectext/waza_0c#469	1	ハクセンガ	하쿠센가
+07969	tectext/waza_0c#471	1	蛇顎棍	사악곤
+07970	tectext/waza_0c#474	1	ジャガクコン	자가쿠콘
+07971	tectext/waza_0c#476	1	雷侯	뇌후
+07972	tectext/waza_0c#479	1	ライコウ	라이코
+07973	tectext/waza_0c#481	1	蛇渦泉	사와천
+07974	tectext/waza_0c#484	1	ジャカセン	자카센
+07975	tectext/waza_0c#491	1	胡沙蹴	호사축
+07976	tectext/waza_0c#494	1	コサシュウ	코사슈
+07977	tectext/waza_0c#496	1	梟首	효수
+07978	tectext/waza_0c#499	1	キョウシュ	쿄슈
+07979	tectext/waza_0c#501	1	紂鼎	주정
+07980	tectext/waza_0c#504	1	チュウテイ	추테
+07981	tectext/waza_0c#506	1	夏楚	하초
+07982	tectext/waza_0c#509	1	カソ	카소

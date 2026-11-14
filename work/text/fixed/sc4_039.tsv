@@ -1,0 +1,376 @@
+번호	위치	겹침	JP	KO
+08347	tectext/waza_0e#341	1	サンドランドプレデター（追加攻撃）	샌드랜드 프레데터（추가 공격）
+08348	tectext/waza_0e#345	1	$Q39/or$Q45/$Q34/ヒット時$Q47/	$Q39/or$Q45/$Q34/히트 시 $Q47/
+08349	tectext/waza_0e#346	1	サンドランドプレデター（追加攻撃）～クリーピング	샌드랜드 프레데터（추가 공격）~크리핑
+08350	tectext/waza_0e#351	1	メゼ式・アイギスジョルト	메제식·이지스 졸트
+08351	tectext/waza_0e#356	1	メゼ式・カノンアイギス	메제식·캐넌 이지스
+08352	tectext/waza_0e#361	1	ランブリングアッズ	럼블링 애즈
+08353	tectext/waza_0e#366	1	メゼ式・グリットブラスト	메제식·그릿 블라스트
+08354	tectext/waza_0e#371	1	メゼ式・スケイルツイスター	메제식·스케일 트위스터
+08355	tectext/waza_0e#376	1	キリングバイト	킬링 바이트
+08356	tectext/waza_0e#380	1	頭側ダウン中の相手に$Q40/or$Q37/or$Q43/$Q35/	머리 쪽 다운 중인 상대에게 $Q40/or$Q37/or$Q43/$Q35/
+08357	tectext/waza_0e#381	1	キリングバイト（打撃投げ）	킬링 바이트（타격 잡기）
+08358	tectext/waza_0e#391	1	トゥルヌ式・スクリューショット	투르누식·스크루 샷
+08359	tectext/waza_0e#396	1	トゥルヌ式・ダブルライジングビート	투르누식·더블 라이징 비트
+08360	tectext/waza_0e#401	1	メゼ式・アイギスミニスター	메제식·이지스 미니스터
+08361	tectext/waza_0e#406	1	メゼ式・アイギスミニスター（ディレイ）	메제식·이지스 미니스터（딜레이）
+08362	tectext/waza_0e#411	1	サンドスレッド	샌드 스레드
+08363	tectext/waza_0e#416	1	メゼ式・サンドコフィン	메제식·샌드 코핀
+08364	tectext/waza_0e#421	1	メゼ式・スローベンバリィ	메제식·스로벤 밸리
+08365	tectext/waza_0e#426	1	メゼ式・サンタナストーム	메제식·산타나 스톰
+08366	tectext/waza_0e#431	1	メゼ式・ダスティクラッシュリフト	메제식·더스티 크래시 리프트
+08367	tectext/waza_0e#436	1	メゼ式・スケイルプレッシャー	메제식·스케일 프레셔
+08368	tectext/waza_0e#446	1	クリーピング	크리핑
+08369	tectext/waza_0e#450	1	クリーピング中$Q33/	크리핑 중 $Q33/
+08370	tectext/waza_0e#451	1	サンドワインダー	샌드 와인더
+08371	tectext/waza_0e#460	1	クリーピング中$Q35/	크리핑 중 $Q35/
+08372	tectext/waza_0e#461	1	スケイルブラスト	스케일 블라스트
+08373	tectext/waza_0e#465	1	クリーピング中$Q33/+$Q34/	크리핑 중 $Q33/+$Q34/
+08374	tectext/waza_0e#466	1	クリーピングシールド	크리핑 실드
+08375	tectext/waza_0e#470	1	クリーピング中$Q34/+$Q35/	크리핑 중 $Q34/+$Q35/
+08376	tectext/waza_0e#471	1	スレッドリベンジャー	스레드 리벤저
+08377	tectext/waza_0f#1	2	金子社	금자사
+08378	tectext/waza_0f#4	3	きんすやしろ	킨스야시로
+08379	tectext/waza_0f#6	2	鬼薊	귀계
+08380	tectext/waza_0f#9	2	おにあざみ	오니아자미
+08381	tectext/waza_0f#11	2	重ね脇差	겹 와키자시
+08382	tectext/waza_0f#14	2	かさねわきざし	카사네와키자시
+08383	tectext/waza_0f#16	2	露払い	이슬털이
+08384	tectext/waza_0f#19	2	つゆばらい	츠유바라이
+08385	tectext/waza_0f#21	2	外法閃～金打	외법섬~금타
+08386	tectext/waza_0f#24	3	げほうせん	게호센
+08387	tectext/waza_0f#26	4	金打	금타
+08388	tectext/waza_0f#29	4	きんちょう	킨초
+08389	tectext/waza_0f#30	2	金打中$Q33/	금타 중 $Q33/
+08390	tectext/waza_0f#31	2	無明十字剣	무명십자검
+08391	tectext/waza_0f#34	2	むみょうじゅうじけん	무묘주지켄
+08392	tectext/waza_0f#35	2	金打中$Q34/	금타 중 $Q34/
+08393	tectext/waza_0f#36	2	阿修羅斬	아수라참
+08394	tectext/waza_0f#39	2	あしゅらざん	아슈라잔
+08395	tectext/waza_0f#40	1	$Q29/$Q42/$Q47/~金打中$Q34/	$Q29/$Q42/$Q47/~금타 중 $Q34/
+08396	tectext/waza_0f#45	1	万字蜻蛉中$Q33/（カウンター）~万字蜻蛉中$Q34/~$Q26/$Q34/~$Q29/$Q35/	만자청령 중 $Q33/（카운터）~만자청령 중 $Q34/~$Q26/$Q34/~$Q29/$Q35/
+08397	tectext/waza_0f#51	1	連ね笹	이어진 조릿대
+08398	tectext/waza_0f#54	1	つらねざさ	츠라네자사
+08399	tectext/waza_0f#56	1	閂込め	빗장 걸기
+08400	tectext/waza_0f#59	1	かんぬきごめ	칸누키고메
+08401	tectext/waza_0f#61	1	悟桐	오동
+08402	tectext/waza_0f#64	1	ごとう	고토
+08403	tectext/waza_0f#71	1	金子社（ディレイ）	금자사（딜레이）
+08404	tectext/waza_0f#76	2	葎草	환삼덩굴
+08405	tectext/waza_0f#79	2	むぐらぐさ	무구라구사
+08406	tectext/waza_0f#81	1	忍法万字菊～ダウン	인법 만자국~다운
+08407	tectext/waza_0f#84	1	にんぽうまんじぎく	닌포만지기쿠
+08408	tectext/waza_0f#86	1	忍法万字葛～ダウン	인법 만자갈~다운
+08409	tectext/waza_0f#89	1	にんぽうまんじかずら	닌포만지카즈라
+08410	tectext/waza_0f#91	1	華厳	화엄
+08411	tectext/waza_0f#94	1	けごん	케곤
+08412	tectext/waza_0f#100	1	しゃがみ<s$Q33/s>$Q34/	앉기 <s$Q33/s>$Q34/
+08413	tectext/waza_0f#101	1	万字座正拳	만자좌정권
+08414	tectext/waza_0f#104	1	まんじざせいけん	만지자세켄
+08415	tectext/waza_0f#106	1	厄払い	액막이
+08416	tectext/waza_0f#109	1	やくばらい	야쿠바라이
+08417	tectext/waza_0f#111	1	鞍馬一刀	안마일도
+08418	tectext/waza_0f#114	1	くらまいっとう	쿠라마잇토
+08419	tectext/waza_0f#116	1	裏笹刈り	뒷 조릿대 베기
+08420	tectext/waza_0f#119	1	うらささかり	우라사사카리
+08421	tectext/waza_0f#121	1	裏葎	뒷 환삼덩굴
+08422	tectext/waza_0f#124	1	うらむぐら	우라무구라
+08423	tectext/waza_0f#126	1	連華	연화
+08424	tectext/waza_0f#129	1	れんげ	렌게
+08425	tectext/waza_0f#131	1	黄泉駆け	황천 질주
+08426	tectext/waza_0f#134	2	よみがけ	요미가케
+08427	tectext/waza_0f#136	1	黄泉駆け（カウンター）	황천 질주（카운터）
+08428	tectext/waza_0f#141	1	逢魔刻	봉마각
+08429	tectext/waza_0f#144	1	おうまこく	오마코쿠
+08430	tectext/waza_0f#146	1	社	사
+08431	tectext/waza_0f#149	1	やしろ	야시로
+08432	tectext/waza_0f#151	1	時雨	시우
+08433	tectext/waza_0f#154	1	しぐれ	시구레
+08434	tectext/waza_0f#156	1	斬哭剣	참곡검
+08435	tectext/waza_0f#159	2	ざんこくけん	잔코쿠켄
+08436	tectext/waza_0f#161	1	斬哭剣（ホールド）	참곡검（홀드）
+08437	tectext/waza_0f#166	1	拓き華道	열리는 꽃길
+08438	tectext/waza_0f#169	1	ひらきはなみち	히라키하나미치
+08439	tectext/waza_0f#171	1	朧車	농차
+08440	tectext/waza_0f#174	1	おぼろぐるま	오보로구루마
+08441	tectext/waza_0f#176	1	牡丹	모단
+08442	tectext/waza_0f#179	1	ぼたん	보탄
+08443	tectext/waza_0f#181	1	緋道剣	비도검
+08444	tectext/waza_0f#184	1	ひどうけん	히도켄
+08445	tectext/waza_0f#186	1	嶺月	영월
+08446	tectext/waza_0f#189	1	みねつき	미네츠키
+08447	tectext/waza_0f#191	1	裏氷雨	뒷 얼음비
+08448	tectext/waza_0f#194	1	うらひさめ	우라히사메
+08449	tectext/waza_0f#196	1	裏牡丹	뒷 모란
+08450	tectext/waza_0f#199	1	うらぼたん	우라보탄
+08451	tectext/waza_0f#201	1	散華	산화
+08452	tectext/waza_0f#204	1	さんげ	산게
+08453	tectext/waza_0f#206	1	稲妻	번개
+08454	tectext/waza_0f#209	1	いなずま	이나즈마
+08455	tectext/waza_0f#211	1	舞姫二連	무희 2연
+08456	tectext/waza_0f#214	1	まいひめにれん	마이히메니렌
+08457	tectext/waza_0f#216	1	中ッ蹴	중단 발차기
+08458	tectext/waza_0f#219	1	なかつけり	나카츠케리
+08459	tectext/waza_0f#221	2	払い蹴	쓸어차기
+08460	tectext/waza_0f#224	2	はらいけり	하라이케리
+08461	tectext/waza_0f#226	1	日向砲	일향포
+08462	tectext/waza_0f#229	1	ひゅうがほう	휴가호
+08463	tectext/waza_0f#231	2	弾割り	탄환 쪼개기
+08464	tectext/waza_0f#236	2	弾割り（ホールド）	탄환 쪼개기（홀드）
+08465	tectext/waza_0f#250	1	しゃがみ$Q24/$Q35/.$Q35/.$Q35/.$Q35/.$Q35/	앉기 $Q24/$Q35/.$Q35/.$Q35/.$Q35/.$Q35/
+08466	tectext/waza_0f#251	1	忍法万字芟～ダウン	인법 만자삼~다운
+08467	tectext/waza_0f#254	1	にんぽうまんじそう	닌포만지소
+08468	tectext/waza_0f#256	1	巻風	권풍
+08469	tectext/waza_0f#259	1	まきかぜ	마키카제
+08470	tectext/waza_0f#261	1	万字裏跳蹴り	만자 뒤 뛰어차기
+08471	tectext/waza_0f#264	1	まんじうらとびげり	만지우라토비게리
+08472	tectext/waza_0f#266	1	裏凩	뒷 겨울바람
+08473	tectext/waza_0f#269	1	うらこがらし	우라코가라시
+08474	tectext/waza_0f#271	1	裏塵払い	뒷 먼지떨이
+08475	tectext/waza_0f#274	1	うらちりばらい	우라치리바라이
+08476	tectext/waza_0f#276	2	毒霧	독무
+08477	tectext/waza_0f#279	2	どくぎり	도쿠기리
+08478	tectext/waza_0f#281	2	毒溜め	독 모으기
+08479	tectext/waza_0f#284	2	どくだめ	도쿠다메
+08480	tectext/waza_0f#285	1	$Q46/+$Q47/ホールド中$Q35/	$Q46/+$Q47/홀드 중 $Q35/
+08481	tectext/waza_0f#286	2	解毒	해독
+08482	tectext/waza_0f#289	2	げどく	게도쿠
+08483	tectext/waza_0f#296	1	突衝	돌충
+08484	tectext/waza_0f#299	1	とっしょう	톳쇼
+08485	tectext/waza_0f#301	1	突衝～地雷猛馬～地雷刃	돌충~지뢰맹마~지뢰인
+08486	tectext/waza_0f#304	1	とっしょう～じらいたけうま	톳쇼~지라이타케우마
+08487	tectext/waza_0f#306	1	血炎慈～無想	혈염자~무상
+08488	tectext/waza_0f#309	1	ちぇんじ	첸지
+08489	tectext/waza_0f#311	1	一輪堀り	일륜 파기
+08490	tectext/waza_0f#314	2	いちりんぼり	이치린보리
+08491	tectext/waza_0f#316	1	一輪堀り～地雷刃	일륜 파기~지뢰인
+08492	tectext/waza_0f#321	1	華輪～ダウン	화륜~다운
+08493	tectext/waza_0f#324	1	かりん	카린
+08494	tectext/waza_0f#326	5	飛空剣	비공검
+08495	tectext/waza_0f#329	6	ひくうけん	히쿠켄
+08496	tectext/waza_0f#330	1	飛空剣中$Q25/or$Q36/	비공검 중 $Q25/or$Q36/
+08497	tectext/waza_0f#331	1	飛空襲剣	비공습검
+08498	tectext/waza_0f#334	1	ひくうしゅうけん	히쿠슈켄
+08499	tectext/waza_0f#335	1	飛空剣中$Q27/	비공검 중 $Q27/
+08500	tectext/waza_0f#336	1	虚空襲剣	허공습검
+08501	tectext/waza_0f#339	1	こくうしゅうけん	코쿠슈켄
+08502	tectext/waza_0f#340	1	飛空剣中$Q34/+$Q35/	비공검 중 $Q34/+$Q35/
+08503	tectext/waza_0f#341	1	飛空剣～万字蜻蛉	비공검~만자청령
+08504	tectext/waza_0f#350	1	背向け$Q46/+$Q47/	뒤돌아서 $Q46/+$Q47/
+08505	tectext/waza_0f#355	1	背向け$Q46/+$Q47/ホールド中$Q35/	뒤돌아서 $Q46/+$Q47/홀드 중 $Q35/
+08506	tectext/waza_0f#361	7	地雷刃	지뢰인
+08507	tectext/waza_0f#364	7	じらいば	지라이바
+08508	tectext/waza_0f#376	7	万字あぐら	만자 책상다리
+08509	tectext/waza_0f#379	7	まんじあぐら	만지아구라
+08510	tectext/waza_0f#381	2	土竜掘り	두더지 파기
+08511	tectext/waza_0f#384	2	もぐらぼり	모구라보리
+08512	tectext/waza_0f#386	2	無想	무상
+08513	tectext/waza_0f#389	2	むそう	무소
+08514	tectext/waza_0f#391	2	極・万字車	극·만자차
+08515	tectext/waza_0f#394	3	ごく・まんじぐるま	고쿠·만지구루마
+08516	tectext/waza_0f#396	1	極・万字車（ディレイ）	극·만자차（딜레이）
+08517	tectext/waza_0f#400	1	$Q32/$Q34/+$Q35/$Q27/（ヒット時のみ）	$Q32/$Q34/+$Q35/$Q27/（히트 시에만）
+08518	tectext/waza_0f#406	1	蜻蛉返り～万字蜻蛉	공중제비~만자청령
+08519	tectext/waza_0f#409	1	とんぼがえり	톤보가에리
+08520	tectext/waza_0f#411	8	万字蜻蛉	만자청령
+08521	tectext/waza_0f#414	10	まんじとんぼ	만지톤보
+08522	tectext/waza_0f#415	1	しゃがみ$Q34/+$Q35/	앉기 $Q34/+$Q35/
+08523	tectext/waza_0f#430	1	背向け$Q31/$Q34/+$Q35/	뒤돌아서 $Q31/$Q34/+$Q35/
+08524	tectext/waza_0f#436	1	千覚～万字あぐら	천각~만자 책상다리
+08525	tectext/waza_0f#439	2	せんがく	센가쿠
+08526	tectext/waza_0f#441	1	吉光武礼道	길광무례도
+08527	tectext/waza_0f#444	1	よしみつぶれいどう	요시미츠부레도
+08528	tectext/waza_0f#446	1	万字裏拳	만자 뒷주먹
+08529	tectext/waza_0f#449	1	まんじうらけん	만지우라켄
+08530	tectext/waza_0f#451	2	御霊削り	어령 깎기
+08531	tectext/waza_0f#454	2	みたまけずり	미타마케즈리
+08532	tectext/waza_0f#456	2	御霊返し	어령 되돌리기
+08533	tectext/waza_0f#459	2	みたまがえし	미타마가에시
+08534	tectext/waza_0f#461	2	不憂	불우
+08535	tectext/waza_0f#464	2	うれいなし	우레나시
+08536	tectext/waza_0f#466	4	万字血桜	만자혈앵
+08537	tectext/waza_0f#469	4	まんじちざくら	만지치자쿠라
+08538	tectext/waza_0f#471	1	忍法鉄魄降し	인법 철백 내리기
+08539	tectext/waza_0f#474	1	にんぽうてっぱくおろし	닌포텟파쿠오로시
+08540	tectext/waza_0f#476	2	昇り曼荼羅～万字極楽蜻蛉	오르는 만다라~만자 극락청령
+08541	tectext/waza_0f#479	2	のぼりまんだら	노보리만다라
+08542	tectext/waza_0f#480	1	背向け$Q25/$Q33/+$Q35/	뒤돌아서 $Q25/$Q33/+$Q35/
+08543	tectext/waza_0f#485	1	背向け$Q25/$Q33/+$Q35/.$Q33/.$Q33/.$Q33/.$Q33/.$Q33/	뒤돌아서 $Q25/$Q33/+$Q35/.$Q33/.$Q33/.$Q33/.$Q33/.$Q33/
+08544	tectext/waza_0f#490	1	背向け$Q31/$Q33/+$Q35/	뒤돌아서 $Q31/$Q33/+$Q35/
+08545	tectext/waza_0f#496	1	挑発　	도발　
+08546	tectext/waza_0f#501	1	見得刀	미에도
+08547	tectext/waza_0f#504	1	みえがたな	미에가타나
+08548	tectext/waza_0f#506	1	靡き旗	나부끼는 깃발
+08549	tectext/waza_0f#509	1	なびきばた	나비키바타
+08550	tectext/waza_0f#511	1	祟羅払い	수라 털이
+08551	tectext/waza_0f#514	1	たたらばらい	타타라바라이
+08552	tectext/waza_0f#516	1	逸閃	일섬
+08553	tectext/waza_0f#519	1	いっせん	잇센
+08554	tectext/waza_0f#521	1	外法閃	외법섬
+08555	tectext/waza_0f#531	4	草薙砲	초치포
+08556	tectext/waza_0f#534	4	くさなぎほう	쿠사나기호
+08557	tectext/waza_0f#551	1	打払い	쳐내기
+08558	tectext/waza_0f#554	2	うちはらい	우치하라이
+08559	tectext/waza_0f#556	1	打払い～金打	쳐내기~금타
+08560	tectext/waza_0f#561	1	獄門	옥문
+08561	tectext/waza_0f#564	1	ごくもん	고쿠몬
+08562	tectext/waza_0f#566	1	絶鳴剣	절명검
+08563	tectext/waza_0f#569	1	ぜつめいけん	제츠메켄
+08564	tectext/waza_0f#571	1	旋風剣	선풍검
+08565	tectext/waza_0f#574	2	せんぷうけん	센푸켄
+08566	tectext/waza_0f#576	1	旋風剣（キャンセル）	선풍검（캔슬）
+08567	tectext/waza_0f#581	1	兜割り	투구 쪼개기
+08568	tectext/waza_0f#584	1	かぶとわり	카부토와리
+08569	tectext/waza_0f#586	1	吹雪	취설
+08570	tectext/waza_0f#589	1	ふぶき	후부키
+08571	tectext/waza_0f#591	1	隼	송골매
+08572	tectext/waza_0f#594	1	はやぶさ	하야부사
+08573	tectext/waza_0f#596	1	岩礫	돌팔매
+08574	tectext/waza_0f#599	1	いわつぶて	이와츠부테
+08575	tectext/waza_0f#611	1	火炎寿	화염수
+08576	tectext/waza_0f#614	4	かえんじゅ	카엔주
+08577	tectext/waza_0f#616	1	火炎寿（キャンセル）	화염수（캔슬）
+08578	tectext/waza_0f#620	1	全方向走り中<s$Q33/s>+<s$Q34/s>$Q34/+$Q35/	전방향 달리기 중 <s$Q33/s>+<s$Q34/s>$Q34/+$Q35/
+08579	tectext/waza_0f#621	1	火炎寿～地雷刃	화염수~지뢰인
+08580	tectext/waza_0f#625	1	全方向走り中<s$Q33/s>+<s$Q34/s>$Q25/$Q34/+$Q35/	전방향 달리기 중 <s$Q33/s>+<s$Q34/s>$Q25/$Q34/+$Q35/
+08581	tectext/waza_0f#626	1	火炎寿～万字あぐら	화염수~만자 책상다리
+08582	tectext/waza_0f#630	1	全方向走り中<s$Q33/s>+<s$Q34/s>$Q25/$Q34/	전방향 달리기 중 <s$Q33/s>+<s$Q34/s>$Q25/$Q34/
+08583	tectext/waza_0f#631	1	霊哭剣・死	영곡검·사
+08584	tectext/waza_0f#634	1	れいこくけん・し	레코쿠켄·시
+08585	tectext/waza_0f#661	1	刮目	괄목
+08586	tectext/waza_0f#664	4	かつもく	카츠모쿠
+08587	tectext/waza_0f#666	1	刮目（キャンセル）	괄목（캔슬）
+08588	tectext/waza_0f#671	1	刮目～地雷刃	괄목~지뢰인
+08589	tectext/waza_0f#676	1	刮目～万字あぐら	괄목~만자 책상다리
+08590	tectext/waza_0f#681	1	惑	혹
+08591	tectext/waza_0f#684	1	まどい	마도이
+08592	tectext/waza_0f#686	1	不惑	불혹
+08593	tectext/waza_0f#689	1	まどいなし	마도이나시
+08594	tectext/waza_0f#696	1	極・不惑	극·불혹
+08595	tectext/waza_0f#699	1	ごく・まどいなし	고쿠·마도이나시
+08596	tectext/waza_0f#701	1	地煙	흙먼지
+08597	tectext/waza_0f#704	1	ちけむり	치케무리
+08598	tectext/waza_0f#706	1	雫	물방울
+08599	tectext/waza_0f#709	1	しずく	시즈쿠
+08600	tectext/waza_0f#711	1	双破	쌍파
+08601	tectext/waza_0f#714	1	ふたば	후타바
+08602	tectext/waza_0f#716	1	楽華霰	낙화산
+08603	tectext/waza_0f#719	1	らっかさん	랏카산
+08604	tectext/waza_0f#721	1	地獄車	지옥차
+08605	tectext/waza_0f#724	1	じごくぐるま	지고쿠구루마
+08606	tectext/waza_0f#726	1	忍法風塵	인법풍진
+08607	tectext/waza_0f#729	1	にんぽうふうじん	닌포후진
+08608	tectext/waza_0f#731	1	忍法櫓落とし	인법 망루 떨구기
+08609	tectext/waza_0f#734	1	にんぽうやぐらおとし	닌포야구라오토시
+08610	tectext/waza_0f#750	1	地雷刃中$Q33/	지뢰인 중 $Q33/
+08611	tectext/waza_0f#751	1	地雷転輪	지뢰전륜
+08612	tectext/waza_0f#754	1	じらいてんりん	지라이텐린
+08613	tectext/waza_0f#755	1	地雷刃中$Q34/	지뢰인 중 $Q34/
+08614	tectext/waza_0f#756	1	頭蓋	두개
+08615	tectext/waza_0f#759	2	ずがい	즈가이
+08616	tectext/waza_0f#760	1	地雷刃中$Q47/	지뢰인 중 $Q47/
+08617	tectext/waza_0f#761	1	頭蓋（ホールド）	두개（홀드）
+08618	tectext/waza_0f#765	1	地雷刃中$Q35/	지뢰인 중 $Q35/
+08619	tectext/waza_0f#766	1	逆昇り～万字蜻蛉	거꾸로 오르기~만자청령
+08620	tectext/waza_0f#769	1	さかのぼり	사카노보리
+08621	tectext/waza_0f#770	1	地雷刃中$Q48/	지뢰인 중 $Q48/
+08622	tectext/waza_0f#771	1	釣瓶火～ダウン	두레박불~다운
+08623	tectext/waza_0f#774	1	つるべび	츠루베비
+08624	tectext/waza_0f#775	1	地雷刃中$Q33/+$Q34/	지뢰인 중 $Q33/+$Q34/
+08625	tectext/waza_0f#776	1	爆ぜ地雷	터지는 지뢰
+08626	tectext/waza_0f#779	1	はぜじらい	하제지라이
+08627	tectext/waza_0f#780	1	地雷刃中$Q34/+$Q35/	지뢰인 중 $Q34/+$Q35/
+08628	tectext/waza_0f#781	1	流転	유전
+08629	tectext/waza_0f#784	1	るてん	루텐
+08630	tectext/waza_0f#785	1	地雷刃中$Q25/$Q34/+$Q35/	지뢰인 중 $Q25/$Q34/+$Q35/
+08631	tectext/waza_0f#790	1	地雷刃中$Q31/$Q34/+$Q35/	지뢰인 중 $Q31/$Q34/+$Q35/
+08632	tectext/waza_0f#795	1	地雷刃中$Q25/$Q33/+$Q35/	지뢰인 중 $Q25/$Q33/+$Q35/
+08633	tectext/waza_0f#796	1	地雷潜り	지뢰 잠행
+08634	tectext/waza_0f#799	1	じらいもぐり	지라이모구리
+08635	tectext/waza_0f#800	1	地雷刃中$Q30/or$Q31/or$Q32/$Q33/+$Q35/	지뢰인 중 $Q30/or$Q31/or$Q32/$Q33/+$Q35/
+08636	tectext/waza_0f#801	1	跳ね地雷（高）	뛰는 지뢰（상）
+08637	tectext/waza_0f#804	2	はねじらい	하네지라이
+08638	tectext/waza_0f#805	1	地雷刃中（$Q27/or$Q29/）$Q33/+$Q35/	지뢰인 중 （$Q27/or$Q29/）$Q33/+$Q35/
+08639	tectext/waza_0f#806	1	跳ね地雷（低）	뛰는 지뢰（하）
+08640	tectext/waza_0f#810	1	地雷刃中$Q29/$Q29/or$Q29/$Q42/	지뢰인 중 $Q29/$Q29/or$Q29/$Q42/
+08641	tectext/waza_0f#811	1	地雷走り	지뢰 달리기
+08642	tectext/waza_0f#814	1	じらいばしり	지라이바시리
+08643	tectext/waza_0f#815	1	地雷刃中$Q36/.$Q33/+$Q36/	지뢰인 중 $Q36/.$Q33/+$Q36/
+08644	tectext/waza_0f#816	5	意匠惨憺	의장참담
+08645	tectext/waza_0f#819	5	いしょうさんたん	이쇼산탄
+08646	tectext/waza_0f#820	1	地雷刃中$Q36/.$Q34/+$Q36/	지뢰인 중 $Q36/.$Q34/+$Q36/
+08647	tectext/waza_0f#821	5	飛雲	비운
+08648	tectext/waza_0f#824	5	とびぐも	토비구모
+08649	tectext/waza_0f#840	1	金打中$Q35/	금타 중 $Q35/
+08650	tectext/waza_0f#841	1	流雪	유설
+08651	tectext/waza_0f#844	2	りゅうせつ	류세츠
+08652	tectext/waza_0f#845	1	金打中$Q48/	금타 중 $Q48/
+08653	tectext/waza_0f#846	1	流雪～無想	유설~무상
+08654	tectext/waza_0f#850	1	金打中$Q34/+$Q35/	금타 중 $Q34/+$Q35/
+08655	tectext/waza_0f#855	1	金打中$Q31/$Q34/+$Q35/	금타 중 $Q31/$Q34/+$Q35/
+08656	tectext/waza_0f#865	1	無想中$Q33/	무상 중 $Q33/
+08657	tectext/waza_0f#866	1	指切拳万	손가락 걸고 약속
+08658	tectext/waza_0f#869	1	しせつげんまん	시세츠겐만
+08659	tectext/waza_0f#870	1	無想中$Q34/.$Q35/	무상 중 $Q34/.$Q35/
+08660	tectext/waza_0f#871	1	飛天狗	비천구
+08661	tectext/waza_0f#874	1	とびてんぐ	토비텐구
+08662	tectext/waza_0f#875	1	無想中$Q35/	무상 중 $Q35/
+08663	tectext/waza_0f#876	1	伽藍	가람
+08664	tectext/waza_0f#879	1	がらん	가란
+08665	tectext/waza_0f#880	1	無想中$Q33/+$Q34/.$Q33/or$Q34/	무상 중 $Q33/+$Q34/.$Q33/or$Q34/
+08666	tectext/waza_0f#881	1	奉醍	봉제
+08667	tectext/waza_0f#884	1	ほうだい	호다이
+08668	tectext/waza_0f#885	1	無想中$Q34/+$Q35/	무상 중 $Q34/+$Q35/
+08669	tectext/waza_0f#890	1	無想中$Q29/$Q34/+$Q35/	무상 중 $Q29/$Q34/+$Q35/
+08670	tectext/waza_0f#891	1	転生～無想	전생~무상
+08671	tectext/waza_0f#894	1	てんせい	텐세
+08672	tectext/waza_0f#895	1	無想中$Q25/$Q34/+$Q35/	무상 중 $Q25/$Q34/+$Q35/
+08673	tectext/waza_0f#900	1	無想中$Q27/$Q34/+$Q35/	무상 중 $Q27/$Q34/+$Q35/
+08674	tectext/waza_0f#905	1	無想中$Q31/$Q34/+$Q35/	무상 중 $Q31/$Q34/+$Q35/
+08675	tectext/waza_0f#910	1	無想中$Q33/+$Q35/	무상 중 $Q33/+$Q35/
+08676	tectext/waza_0f#911	1	夢想不憂	몽상불우
+08677	tectext/waza_0f#914	1	むそううれいなし	무소우레나시
+08678	tectext/waza_0f#915	1	無想中$Q33/+$Q35/.$Q33/.$Q33/.$Q33/.$Q33/.$Q33/	무상 중 $Q33/+$Q35/.$Q33/.$Q33/.$Q33/.$Q33/.$Q33/
+08679	tectext/waza_0f#920	1	無想中$Q36/.$Q33/+$Q36/	무상 중 $Q36/.$Q33/+$Q36/
+08680	tectext/waza_0f#925	1	無想中$Q36/.$Q34/+$Q36/	무상 중 $Q36/.$Q34/+$Q36/
+08681	tectext/waza_0f#935	1	万字あぐら中$Q33/	만자아구라 중 $Q33/
+08682	tectext/waza_0f#936	1	千覚転輪	천각전륜
+08683	tectext/waza_0f#939	1	せんがくてんりん	센가쿠텐린
+08684	tectext/waza_0f#940	1	万字あぐら中$Q34/	만자아구라 중 $Q34/
+08685	tectext/waza_0f#941	1	千覚朧車	천각롱차
+08686	tectext/waza_0f#944	1	せんがくおぼろぐるま	센가쿠오보로구루마
+08687	tectext/waza_0f#945	1	万字あぐら中$Q35/	만자아구라 중 $Q35/
+08688	tectext/waza_0f#946	1	千覚日向砲	천각일향포
+08689	tectext/waza_0f#949	1	せんがくひゅうがほう	센가쿠휴가호
+08690	tectext/waza_0f#950	1	万字あぐら中$Q33/+$Q34/	만자아구라 중 $Q33/+$Q34/
+08691	tectext/waza_0f#951	1	絶刃	절인
+08692	tectext/waza_0f#954	1	たつじん	타츠진
+08693	tectext/waza_0f#955	1	万字あぐら中$Q29/$Q33/+$Q34/or$Q27/$Q33/+$Q34/.$Q33/+$Q34/	만자아구라 중 $Q29/$Q33/+$Q34/or$Q27/$Q33/+$Q34/.$Q33/+$Q34/
+08694	tectext/waza_0f#956	1	怒外座頭蓋	노외좌두개
+08695	tectext/waza_0f#959	1	どげざずがい	도게자즈가이
+08696	tectext/waza_0f#960	1	万字あぐら中$Q25/$Q33/+$Q34/	만자아구라 중 $Q25/$Q33/+$Q34/
+08697	tectext/waza_0f#961	1	千覚無空舞	천각무공무
+08698	tectext/waza_0f#964	1	せんがくぶくうぶ	센가쿠부쿠부
+08699	tectext/waza_0f#965	1	万字あぐら中$Q34/+$Q35/	만자아구라 중 $Q34/+$Q35/
+08700	tectext/waza_0f#970	1	万字あぐら中$Q38/$Q47/+$Q48/	만자아구라 중 $Q38/$Q47/+$Q48/
+08701	tectext/waza_0f#971	1	千覚	천각
+08702	tectext/waza_0f#975	1	万字あぐら中$Q31/$Q34/+$Q35/	만자아구라 중 $Q31/$Q34/+$Q35/
+08703	tectext/waza_0f#980	1	万字あぐら中$Q33/+$Q35/	만자아구라 중 $Q33/+$Q35/
+08704	tectext/waza_0f#981	1	不恐	불공
+08705	tectext/waza_0f#984	2	おそれなし	오소레나시
+08706	tectext/waza_0f#985	1	万字あぐら中$Q46/+$Q48/	만자아구라 중 $Q46/+$Q48/
+08707	tectext/waza_0f#986	1	不恐（ホールド）	불공（홀드）
+08708	tectext/waza_0f#990	1	万字あぐら中$Q33/+$Q35/.$Q33/	만자아구라 중 $Q33/+$Q35/.$Q33/
+08709	tectext/waza_0f#991	1	万字血星	만자혈성
+08710	tectext/waza_0f#994	1	まんじちぼし	만지치보시
+08711	tectext/waza_0f#995	1	万字あぐら中$Q36/.$Q33/+$Q36/	만자아구라 중 $Q36/.$Q33/+$Q36/
+08712	tectext/waza_0f#1000	1	万字あぐら中$Q36/.$Q34/+$Q36/	만자아구라 중 $Q36/.$Q34/+$Q36/
+08713	tectext/waza_0f#1010	1	万字蜻蛉中$Q33/	만자청령 중 $Q33/
+08714	tectext/waza_0f#1011	1	打羽山魔～万字蜻蛉	타우산마~만자청령
+08715	tectext/waza_0f#1014	1	うちわやんま	우치와얀마
+08716	tectext/waza_0f#1015	1	万字蜻蛉中$Q34/	만자청령 중 $Q34/
+08717	tectext/waza_0f#1016	1	鬼山魔	귀산마
+08718	tectext/waza_0f#1019	1	おにやんま	오니얀마
+08719	tectext/waza_0f#1020	1	万字蜻蛉中$Q35/	만자청령 중 $Q35/
+08720	tectext/waza_0f#1021	1	秋茜	추천
+08721	tectext/waza_0f#1024	1	あきあかね	아키아카네

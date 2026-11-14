@@ -1,0 +1,242 @@
+번호	위치	겹침	JP	KO
+03984	text/subtitle_aplwin#54	1	$P1/何度やっても同じことよ	$P1/몇 번을 해도 똑같아
+03985	text/subtitle_aplwin#55	1	$P1/よしっ いい感じ	$P1/좋아, 느낌 좋은데
+03986	text/subtitle_aplwin#56	1	$P1/はぁ～　すっきりしたわ	$P1/하아~ 속이 시원하네
+03987	text/subtitle_aplwin#57	1	$P1/何でこんなに出てくるのかしら？	$P1/왜 이렇게 많이 나오는 걸까?
+03988	text/subtitle_aplwin#58	1	$P1/さてと…　急がなきゃ！	$P1/자, 그럼… 서둘러야지!
+03989	text/subtitle_aplwin#59	1	$P1/ユンスン 早まらないで…！	$P1/윤성, 서두르지 마…!
+03990	text/subtitle_aplwin#60	1	$P1/か 勝てた…！　勝てたわ！	$P1/이, 이겼어…! 이겼어!
+03991	text/subtitle_aplwin#61	1	$P1/成家式大刀術 見たかっ！	$P1/성가식 대도술, 봤느냐!
+03992	text/subtitle_aplwin#62	1	$P1/覚悟はいいか？	$P1/각오는 됐나?
+03993	text/subtitle_aplwin#63	1	$P1/恨みはないが 消えてもらおう！	$P1/원한은 없다만 사라져 줘야겠다!
+03994	text/subtitle_aplwin#64	1	$P1/時間が惜しい…　行くぞ！	$P1/시간이 아깝군… 간다!
+03995	text/subtitle_aplwin#65	1	$P1/いざ！	$P1/자, 덤벼라!
+03996	text/subtitle_aplwin#66	1	$P1/構えだけは一人前だな	$P1/자세만큼은 제법이군
+03997	text/subtitle_aplwin#67	1	$P1/貴様の善悪に 興味はない…	$P1/네놈의 선악 따윈 관심 없다…
+03998	text/subtitle_aplwin#68	2	$P1/問答無用！	$P1/문답무용!
+03999	text/subtitle_aplwin#69	1	$P1/命が惜しくば 本気でくることだ	$P1/목숨이 아깝다면 진심으로 덤벼라
+04000	text/subtitle_aplwin#70	1	$P1/何が起きているというのだ…？	$P1/대체 무슨 일이 벌어지고 있는 거지…?
+04001	text/subtitle_aplwin#71	1	$P1/ふん 面妖な…	$P1/흥, 괴이한 일이로군…
+04002	text/subtitle_aplwin#72	1	$P1/つくづく こりん男だ	$P1/정말이지 질리지도 않는 사내로군
+04003	text/subtitle_aplwin#73	1	$P1/貴様らを この先へやるわけにはいかん！	$P1/네놈들을 이 너머로 보낼 수는 없다!
+04004	text/subtitle_aplwin#74	1	$P1/邪なるものよ 覚悟！	$P1/사악한 자여, 각오하라!
+04005	text/subtitle_aplwin#75	1	$P1/人として 見過ごすわけにはいかん！	$P1/사람으로서 못 본 체할 수는 없다!
+04006	text/subtitle_aplwin#76	1	$P1/血は争えんか！	$P1/피는 속일 수 없는 건가!
+04007	text/subtitle_aplwin#77	1	$P1/退け！　貴様では死ぬだけだ！	$P1/물러서라! 네놈으로는 죽을 뿐이다!
+04008	text/subtitle_aplwin#78	1	$P1/かすりもせんな それで本気か？	$P1/스치지도 않는군. 그게 진심이냐?
+04009	text/subtitle_aplwin#79	1	$P1/これだけの 差があるということだ	$P1/이만큼의 차이가 있다는 거다
+04010	text/subtitle_aplwin#80	1	$P1/まだやるか？　	$P1/아직도 하겠나?
+04011	text/subtitle_aplwin#81	1	$P1/やってくれる	$P1/해 주는군
+04012	text/subtitle_aplwin#82	1	$P1/消えるんだな	$P1/사라지는 게 좋을 거다
+04013	text/subtitle_aplwin#83	1	$P1/口ほどにもない	$P1/말만 번지르르하군
+04014	text/subtitle_aplwin#84	1	$P1/哀れな…	$P1/가련하군…
+04015	text/subtitle_aplwin#85	1	$P1/少し黙っていろ	$P1/잠시 입 다물고 있어라
+04016	text/subtitle_aplwin#86	1	$P1/さらば！	$P1/잘 가라!
+04017	text/subtitle_aplwin#87	1	$P1/これしきで私を倒せると思ったか…	$P1/이 정도로 나를 쓰러뜨릴 수 있다고 생각했나…
+04018	text/subtitle_aplwin#88	1	$P1/迷わず 彼岸へ向かうがいい	$P1/망설이지 말고 피안으로 가거라
+04019	text/subtitle_aplwin#89	1	$P1/邪剣に魅せられたか…　哀れな　	$P1/사검에 홀렸나… 가련하군
+04020	text/subtitle_aplwin#90	1	$P1/封魔完了！\n…だが まだやるべき事がある　	$P1/봉마 완료!\n…하지만 아직 해야 할 일이 있다
+04021	text/subtitle_aplwin#91	1	$P1/これで…　終わりだ…！	$P1/이걸로… 끝이다…!
+04022	text/subtitle_aplwin#92	1	$P1/散魔滅殺！	$P1/산마멸살!
+04023	text/subtitle_aplwin#93	1	$P1/俺の 邪魔をするな	$P1/내 앞길을 막지 마
+04024	text/subtitle_aplwin#94	1	$P1/どうなっても知らないぜ	$P1/어떻게 되든 난 모른다
+04025	text/subtitle_aplwin#95	1	$P1/消えるのは お前か俺か…？	$P1/사라지는 건 너냐, 나냐…?
+04026	text/subtitle_aplwin#96	1	$P1/俺の技に ついてこれるか？	$P1/내 기술을 따라올 수 있겠어?
+04027	text/subtitle_aplwin#97	1	$P1/穏やかじゃねぇな	$P1/심상치 않군
+04028	text/subtitle_aplwin#98	1	$P1/口だけは達者だな！	$P1/입만 살았군!
+04029	text/subtitle_aplwin#99	1	$P1/どいつもこいつも	$P1/하나같이 다
+04030	text/subtitle_aplwin#100	1	$P1/いいだろう 来な	$P1/좋아, 와 봐
+04031	text/subtitle_aplwin#101	1	$P1/こんなところで 終われねぇよな！	$P1/이런 데서 끝낼 순 없지!
+04032	text/subtitle_aplwin#102	1	$P1/妖しい奴だな	$P1/수상한 놈이군
+04033	text/subtitle_aplwin#103	1	$P1/お前らを許すわけには\nいかねぇんだよっ！	$P1/너희를 용서할 수는\n없단 말이다!
+04034	text/subtitle_aplwin#104	1	$P1/ふん 大層な出迎えじゃねぇか…	$P1/흥, 거창한 환영이군…
+04035	text/subtitle_aplwin#105	1	$P1/今更何をしに来た…？　	$P1/이제 와서 뭘 하러 왔지…?
+04036	text/subtitle_aplwin#106	1	$P1/ここまで来て 引き返せるかっ！	$P1/여기까지 와서 돌아갈 수 있겠냐!
+04037	text/subtitle_aplwin#107	1	$P1/お前を倒すために！\n全てを捨ててきたぜ…	$P1/너를 쓰러뜨리기 위해!\n모든 걸 버리고 왔다…
+04038	text/subtitle_aplwin#108	1	$P1/俺を止めようたって 無駄だぜ！	$P1/날 막으려 해도 소용없다!
+04039	text/subtitle_aplwin#109	1	$P1/命を無駄にしやがって…	$P1/목숨을 헛되이 버리다니…
+04040	text/subtitle_aplwin#110	1	$P1/どうだ！　圧倒的って奴さ！	$P1/어때! 압도적이라는 거지!
+04041	text/subtitle_aplwin#111	1	$P1/帰んな　二度目はないぜ…	$P1/돌아가라. 두 번째는 없다…
+04042	text/subtitle_aplwin#112	1	$P1/誰にも俺の邪魔はさせねぇ！	$P1/누구도 날 방해하게 두지 않아!
+04043	text/subtitle_aplwin#113	1	$P1/イカれた野郎だ	$P1/미친 놈이군
+04044	text/subtitle_aplwin#114	1	$P1/死にたくねえなら ここまでだ	$P1/죽기 싫으면 여기까지다
+04045	text/subtitle_aplwin#115	1	$P1/たいした意地だが…　高くついたな！	$P1/대단한 고집이지만… 값비싸게 치렀군!
+04046	text/subtitle_aplwin#116	1	$P1/じたばたすんな みっともねぇ	$P1/버둥대지 마. 꼴사납다
+04047	text/subtitle_aplwin#117	1	$P1/それで勝てりゃぁ世話ねぇな！	$P1/그걸로 이길 수 있으면 고생도 안 하지!
+04048	text/subtitle_aplwin#118	1	$P1/俺に関わったのが 運の尽きさ	$P1/나랑 엮인 게 운이 다한 거다
+04049	text/subtitle_aplwin#119	1	$P1/何匹来ようと 関係ねぇよ	$P1/몇 마리가 오든 상관없어
+04050	text/subtitle_aplwin#120	1	$P1/邪魔する奴は 容赦しねぇ！	$P1/방해하는 놈은 봐주지 않는다!
+04051	text/subtitle_aplwin#121	1	$P1/もう俺にかまうな…	$P1/이제 나한테 신경 끄라고…
+04052	text/subtitle_aplwin#122	1	$P1/かたきを討つまで…\nくたばれねぇんだよ！	$P1/원수를 갚을 때까지…\n뒈질 순 없단 말이다!
+04053	text/subtitle_aplwin#123	1	$P1/恨むなよ まだ死ねねぇんだ	$P1/원망하지 마. 아직 죽을 수 없어
+04054	text/subtitle_aplwin#124	1	$P1/悪いけど 譲れないの	$P1/미안하지만 양보할 수 없어
+04055	text/subtitle_aplwin#125	1	$P1/あなたには…　分からないわ	$P1/당신은… 모를 거야
+04056	text/subtitle_aplwin#126	1	$P1/手放すことは…　できないの	$P1/놓을 수는… 없어
+04057	text/subtitle_aplwin#127	1	$P1/私は信じる道を…　行くわ	$P1/나는 믿는 길을… 가겠어
+04058	text/subtitle_aplwin#128	1	$P1/何故 　あなたは剣を取るの？	$P1/왜 당신은 검을 드는 거야?
+04059	text/subtitle_aplwin#129	1	$P1/覚悟なら…　できてるわ	$P1/각오라면… 되어 있어
+04060	text/subtitle_aplwin#130	1	$P1/今 屈するわけにはいかないっ！	$P1/지금 굴복할 수는 없어!
+04061	text/subtitle_aplwin#131	1	$P1/負けることは…　ゆるされない…	$P1/지는 건… 용납되지 않아…
+04062	text/subtitle_aplwin#132	1	$P1/おぉ…　神よ…	$P1/오오… 신이시여…
+04063	text/subtitle_aplwin#133	1	$P1/もう 何が起きても驚かないわ	$P1/이제 무슨 일이 일어나도 놀라지 않아
+04064	text/subtitle_aplwin#134	1	$P1/ここは既に邪剣の領土\n引き返しなさい！	$P1/이곳은 이미 사검의 영토야\n돌아가!
+04065	text/subtitle_aplwin#135	1	$P1/ソウルエッジがお腹を空かせてるわ…	$P1/소울엣지가 배고파하고 있어…
+04066	text/subtitle_aplwin#136	1	$P1/もう引き返せないの…！\nたとえあなたが相手でも！	$P1/더는 돌아갈 수 없어…!\n설령 상대가 당신이라도!
+04067	text/subtitle_aplwin#137	1	$P1/ソウルエッジは…　返してもらうわ！	$P1/소울엣지는… 돌려받겠어!
+04068	text/subtitle_aplwin#138	1	$P1/…最後の忠告よ\nこの地から立ち去りなさい！	$P1/…마지막 충고야\n이 땅에서 떠나!
+04069	text/subtitle_aplwin#139	1	$P1/あなたは…　まだ彷徨っているのね…	$P1/당신은… 아직도 방황하고 있구나…
+04070	text/subtitle_aplwin#140	1	$P1/私は…　もう決めたの…！	$P1/나는… 이미 결심했어…!
+04071	text/subtitle_aplwin#141	1	$P1/私は…　振り返らない！	$P1/나는… 돌아보지 않아!
+04072	text/subtitle_aplwin#142	1	$P1/退きなさい！　それがあなたのためよ…	$P1/물러나! 그게 당신을 위한 길이야…
+04073	text/subtitle_aplwin#143	1	$P1/命をそまつにしないで	$P1/목숨을 소홀히 하지 마
+04074	text/subtitle_aplwin#144	1	$P1/まだ倒れるわけにはいかない！　	$P1/아직 쓰러질 수는 없어!
+04075	text/subtitle_aplwin#145	1	$P1/約束…　したものね…	$P1/약속… 했었지…
+04076	text/subtitle_aplwin#146	1	$P1/力だけでは…　勝てないわ	$P1/힘만으로는… 이길 수 없어
+04077	text/subtitle_aplwin#147	1	$P1/私は 倒れるわけにはいかない	$P1/나는 쓰러질 수 없어
+04078	text/subtitle_aplwin#148	1	$P1/あなた…　守って…	$P1/당신… 지켜 줘…
+04079	text/subtitle_aplwin#149	1	$P1/神よ お許しください…	$P1/신이시여, 용서해 주세요…
+04080	text/subtitle_aplwin#150	1	$P1/あの子さえ無事なら…\n私はどうなっても……	$P1/그 아이만 무사하다면…\n나는 어떻게 되어도……
+04081	text/subtitle_aplwin#151	1	$P1/霊剣の男…　危険な存在…	$P1/영검의 사내… 위험한 존재…
+04082	text/subtitle_aplwin#152	1	$P1/ソウルエッジを守らなくては…	$P1/소울엣지를 지켜야 해…
+04083	text/subtitle_aplwin#153	1	$P1/カサンドラ…　何故ここに来たの…？	$P1/카산드라… 왜 여기 온 거야…?
+04084	text/subtitle_aplwin#154	1	$P1/あの子は…　私が守る！	$P1/그 아이는… 내가 지킬 거야!
+04085	text/subtitle_aplwin#155	1	$P1/罪を背負うべきは 私…	$P1/죄를 짊어져야 할 사람은 나…
+04086	text/subtitle_aplwin#156	1	$P1/どけ…　遊んでいる暇はない…	$P1/비켜라… 놀고 있을 틈 없다…
+04087	text/subtitle_aplwin#157	1	$P1/この命 くれてやるわけにはいかん！	$P1/이 목숨, 내줄 수는 없다!
+04088	text/subtitle_aplwin#158	1	$P1/やらねばならんことがある…！	$P1/해야 할 일이 있다…!
+04089	text/subtitle_aplwin#159	1	$P1/お前には 俺の道を阻むことは出来ん！	$P1/네가 내 길을 막는 건 불가능하다!
+04090	text/subtitle_aplwin#160	1	$P1/お前には分かるまいっ！	$P1/너는 모를 것이다!
+04091	text/subtitle_aplwin#161	1	$P1/迷いも 恐れも捨てたんだ	$P1/망설임도 두려움도 버렸다
+04092	text/subtitle_aplwin#162	1	$P1/死に急ぐのか！	$P1/죽음을 서두르는 거냐!
+04093	text/subtitle_aplwin#163	2	$P1/悪いが急いでいる…	$P1/미안하지만 서두르고 있다…
+04094	text/subtitle_aplwin#164	1	$P1/まやかしか…？　いや 違うな	$P1/허상인가…? 아니, 아니군
+04095	text/subtitle_aplwin#165	1	$P1/何者であろうと 俺は負けぬ！	$P1/누구든 나는 지지 않는다!
+04096	text/subtitle_aplwin#166	1	$P1/と 父さん…？\n…俺はだまされんぞ！	$P1/아, 아버지…?\n…나는 속지 않는다!
+04097	text/subtitle_aplwin#167	1	$P1/…邪剣のしもべか　１人とて逃がさん！	$P1/…사검의 하수인인가. 한 놈도 놓치지 않는다!
+04098	text/subtitle_aplwin#168	1	$P1/俺は 関わるなと言ったはずだ…	$P1/나는 상관하지 말라고 했을 텐데…
+04099	text/subtitle_aplwin#169	1	$P1/いくぞ！　俺の許されざる過去よ！	$P1/간다! 용서받지 못할 내 과거여!
+04100	text/subtitle_aplwin#170	1	$P1/命が惜しいなら\nこの戦いに首をつっこむな！	$P1/목숨이 아깝다면\n이 싸움에 끼어들지 마라!
+04101	text/subtitle_aplwin#171	1	$P1/俺の邪魔をする気か…　失せろ！	$P1/날 방해할 셈이냐… 꺼져라!
+04102	text/subtitle_aplwin#172	1	$P1/違う！　この剣は…　断罪の刃だっ！	$P1/아니다! 이 검은… 단죄의 칼날이다!
+04103	text/subtitle_aplwin#173	1	$P1/何も言うまい…　去れ！	$P1/아무 말도 않겠다… 떠나라!
+04104	text/subtitle_aplwin#174	1	$P1/お前では無理だ…　	$P1/너로는 무리다…
+04105	text/subtitle_aplwin#175	1	$P1/許せ…	$P1/용서해라…
+04106	text/subtitle_aplwin#176	1	$P1/命拾いしたな…　勝手にするがいい	$P1/목숨을 건졌군… 마음대로 해라
+04107	text/subtitle_aplwin#177	1	$P1/死に場所はここじゃない…	$P1/죽을 곳은 여기가 아니다…
+04108	text/subtitle_aplwin#178	1	$P1/消えろ！　…二度と現れるな　	$P1/꺼져라! …다시는 나타나지 마라
+04109	text/subtitle_aplwin#180	1	$P1/やってみせる！　命枯れ果てようとも！	$P1/해내고 말겠다! 목숨이 다하더라도!
+04110	text/subtitle_aplwin#181	1	$P1/あと少し あと少しなんだ…	$P1/조금만 더, 조금만 더 하면 돼…
+04111	text/subtitle_aplwin#182	1	$P1/命知らずが…！	$P1/겁 없는 놈이…!
+04112	text/subtitle_aplwin#183	1	$P1/偽りの救いなど求めはしない…	$P1/거짓된 구원 따윈 바라지 않는다…
+04113	text/subtitle_aplwin#184	1	$P1/よくも！　よくもこんな…！　許さん！	$P1/감히! 감히 이런…! 용서 못 한다!
+04114	text/subtitle_aplwin#185	1	$P1/俺も…　許されようとは思わん…	$P1/나도… 용서받으려 하진 않는다…
+04115	text/subtitle_aplwin#186	1	$P1/この痛み…　忘れはしない…	$P1/이 고통… 잊지 않겠다…
+04116	text/subtitle_aplwin#188	1	$P1/もう少しで 終わるんだ…	$P1/조금만 더 하면 끝나…
+04117	text/subtitle_aplwin#189	1	$P1/大地よ 俺に力を！	$P1/대지여, 내게 힘을!
+04118	text/subtitle_aplwin#190	1	$P1/お前の勇気を 示してみろ！	$P1/너의 용기를 보여 봐라!
+04119	text/subtitle_aplwin#191	1	$P1/戦う勇気がないなら 失せろ！	$P1/싸울 용기가 없다면 꺼져라!
+04120	text/subtitle_aplwin#192	1	$P1/全力で来いっ	$P1/전력으로 와라!
+04121	text/subtitle_aplwin#193	1	$P1/挑んだことを後悔するなよ！	$P1/도전한 걸 후회하지 마라!
+04122	text/subtitle_aplwin#194	1	$P1/お前の牙を試してみるか？	$P1/네 송곳니를 시험해 볼까?
+04123	text/subtitle_aplwin#195	1	$P1/こい！　相手になってやる！	$P1/와라! 상대해 주마!
+04124	text/subtitle_aplwin#196	1	$P1/邪魔するなら 叩き潰す！	$P1/방해한다면 때려 부순다!
+04125	text/subtitle_aplwin#197	2	$P1/…俺は戦いに集中するだけだ	$P1/…나는 싸움에 집중할 뿐이다
+04126	text/subtitle_aplwin#198	2	$P1/何者かは知らんが 恨むな	$P1/누군지는 모르지만 원망 마라
+04127	text/subtitle_aplwin#199	1	$P1/これ以上は無駄だ！	$P1/더는 소용없다!
+04128	text/subtitle_aplwin#200	1	$P1/引き際も知らん 獣以下だな	$P1/물러설 때도 모르다니 짐승만도 못하군
+04129	text/subtitle_aplwin#201	1	$P1/負けを認めろ それも勇気だ！	$P1/패배를 인정해라. 그것도 용기다!
+04130	text/subtitle_aplwin#202	1	$P1/お前には 勇者の資格がある…	$P1/너에게는 용자의 자격이 있다…
+04131	text/subtitle_aplwin#203	1	$P1/恐ろしい敵だった…	$P1/무서운 적이었다…
+04132	text/subtitle_aplwin#204	1	$P1/立ち上がるな！　次はないぞ！	$P1/일어서지 마라! 다음은 없다!
+04133	text/subtitle_aplwin#205	1	$P1/無駄だ！　諦めろ！	$P1/소용없다! 포기해라!
+04134	text/subtitle_aplwin#206	1	$P1/バングー 見ててくれ！	$P1/반구, 지켜봐 줘!
+04135	text/subtitle_aplwin#207	1	$P1/まだ 倒れるわけにはいかんのだ！	$P1/아직 쓰러질 수는 없단 말이다!
+04136	text/subtitle_aplwin#208	1	$P1/お前に 俺の道は阻めぬ！	$P1/네가 내 길을 막을 순 없다!
+04137	text/subtitle_aplwin#209	1	$P1/バングー 俺はやり遂げてみせるぞ	$P1/반구, 난 반드시 해내겠어
+04138	text/subtitle_aplwin#210	1	$P1/少しだけ構ってあげる…	$P1/조금만 상대해 줄게…
+04139	text/subtitle_aplwin#211	1	$P1/次は 貴様の番だ！	$P1/다음은 네놈 차례다!
+04140	text/subtitle_aplwin#212	1	$P1/楽に死なせてあげるわ	$P1/편하게 죽여 줄게
+04141	text/subtitle_aplwin#213	1	$P1/ここが…　貴様の墓場だ！	$P1/여기가… 네놈의 무덤이다!
+04142	text/subtitle_aplwin#214	1	$P1/ふん おめでたい奴だ	$P1/흥, 속 편한 놈이군
+04143	text/subtitle_aplwin#215	1	$P1/私と出会ったこと 後悔するがいい！	$P1/나와 만난 걸 후회하게 될 거다!
+04144	text/subtitle_aplwin#216	1	$P1/貴様の都合など 私の知ったことではない\n…消えろ！	$P1/네놈 사정 따윈 내 알 바 아니다\n…사라져라!
+04145	text/subtitle_aplwin#217	1	$P1/威勢がいいわね…　気に入ったわ	$P1/기세가 좋네… 마음에 들어
+04146	text/subtitle_aplwin#218	1	$P1/世界は広いな	$P1/세상은 넓군
+04147	text/subtitle_aplwin#219	1	$P1/邪気に呼ばれたか…？　何者だ！？	$P1/사기에 이끌려 왔나…? 넌 누구냐!?
+04148	text/subtitle_aplwin#220	1	$P1/邪気に侵されているな…！	$P1/사기에 침식당했군…!
+04149	text/subtitle_aplwin#221	1	$P1/貴様だけは この手で倒す！	$P1/네놈만큼은 이 손으로 쓰러뜨린다!
+04150	text/subtitle_aplwin#222	1	$P1/罪を重ねすぎた…　お前も 私も	$P1/죄를 너무 많이 쌓았군… 너도, 나도
+04151	text/subtitle_aplwin#223	1	$P1/…貴様だけは許せんっ！	$P1/…네놈만큼은 용서 못 한다!
+04152	text/subtitle_aplwin#224	1	$P1/貴様は…　どいてもらおうか！	$P1/네놈은… 비켜 주셔야겠다!
+04153	text/subtitle_aplwin#225	1	$P1/後悔する暇も なかったようね	$P1/후회할 틈도 없었나 보네
+04154	text/subtitle_aplwin#226	1	$P1/貴様如きに 屈すると思ったか！	$P1/네놈 따위에게 굴복할 줄 알았나!
+04155	text/subtitle_aplwin#227	1	$P1/意気込みだけで勝てるなら\n苦労はないわ	$P1/의욕만으로 이길 수 있다면\n고생할 일도 없겠지
+04156	text/subtitle_aplwin#228	1	$P1/もう少しだ…　やり遂げなければ…！	$P1/조금만 더다… 해내야만 해…!
+04157	text/subtitle_aplwin#229	1	$P1/もう…　あのころには戻れない…	$P1/이제… 그때로는 돌아갈 수 없어…
+04158	text/subtitle_aplwin#230	1	$P1/情けない奴…	$P1/한심한 녀석…
+04159	text/subtitle_aplwin#231	1	$P1/剣よ！　唸れ！	$P1/검이여! 울부짖어라!
+04160	text/subtitle_aplwin#232	1	$P1/この剣こそ 私の宿命	$P1/이 검이야말로 나의 숙명
+04161	text/subtitle_aplwin#233	1	$P1/…随分と 痛がりね	$P1/…꽤나 엄살이 심하네
+04162	text/subtitle_aplwin#234	1	$P1/甘く見られたものね	$P1/얕보였나 보네
+04163	text/subtitle_aplwin#235	1	$P1/それで勝てると思った？　可愛いものね	$P1/그걸로 이길 줄 알았어? 귀엽네
+04164	text/subtitle_aplwin#236	1	$P1/消えろ！　歪んだ存在よ！	$P1/사라져라! 일그러진 존재여!
+04165	text/subtitle_aplwin#237	1	$P1/これが…　ソウルキャリバー…	$P1/이것이… 소울칼리버…
+04166	text/subtitle_aplwin#238	1	$P1/流れよ我が涙…	$P1/흘러라, 나의 눈물이여…
+04167	text/subtitle_aplwin#239	1	$P1/もう私は 何も恐れはしない…	$P1/이제 나는 아무것도 두렵지 않아…
+04168	text/subtitle_aplwin#240	1	$P1/臨勝寺の棍を見よ！	$P1/임승사의 곤을 보라!
+04169	text/subtitle_aplwin#241	1	$P1/いざ！　覚悟はいいか？	$P1/자! 각오는 됐나?
+04170	text/subtitle_aplwin#242	1	$P1/全力でいくぞ！　覚悟！	$P1/전력으로 간다! 각오해라!
+04171	text/subtitle_aplwin#243	1	$P1/我が行く道を貫くのみ！	$P1/내가 갈 길을 관철할 뿐이다!
+04172	text/subtitle_aplwin#244	1	$P1/退け！　君では相手にならない！	$P1/물러서라! 너로는 상대가 안 된다!
+04173	text/subtitle_aplwin#245	1	$P1/やるしかないんだな？	$P1/싸울 수밖에 없는 건가?
+04174	text/subtitle_aplwin#246	1	$P1/…力づくでも どいてもらおう	$P1/…힘으로라도 비켜 주셔야겠다
+04175	text/subtitle_aplwin#247	1	$P1/聞く耳持たぬ 　…というわけか	$P1/들을 귀가 없다… 이거로군
+04176	text/subtitle_aplwin#248	1	$P1/まさか 邪剣が…？　そんな！	$P1/설마 사검이…? 그럴 수가!
+04177	text/subtitle_aplwin#249	1	$P1/異質な者よ 君は何者だ？	$P1/이질적인 자여, 너는 누구냐?
+04178	text/subtitle_aplwin#250	1	$P1/忠告する！　この争いにかかわるなっ！	$P1/충고한다! 이 싸움에 관여하지 마라!
+04179	text/subtitle_aplwin#251	1	$P1/…お前は…　一体何者なんだっ？	$P1/…너는… 대체 누구냐?
+04180	text/subtitle_aplwin#252	1	$P1/くそっ…　そうはさせるか！	$P1/젠장… 그렇게 두진 않는다!
+04181	text/subtitle_aplwin#253	1	$P1/全てを終わらせなければ…！	$P1/모든 걸 끝내야 해…!
+04182	text/subtitle_aplwin#254	1	$P1/俺は 君を止めてみせるっ！	$P1/나는 너를 반드시 막겠다!
+04183	text/subtitle_aplwin#255	1	$P1/その暴走…　俺が 正してみせる！	$P1/그 폭주… 내가 바로잡겠다!
+04184	text/subtitle_aplwin#256	1	$P1/君も…　もう人じゃないんだな…	$P1/너도… 이제 사람이 아니구나…
+04185	text/subtitle_aplwin#257	1	$P1/その動き…！　まさか 我が極意を？	$P1/그 움직임…! 설마 내 극의를?
+04186	text/subtitle_aplwin#258	1	$P1/なんだ…？　この気の流れはっ！？	$P1/뭐지…? 이 기의 흐름은!?
+04187	text/subtitle_aplwin#259	1	$P1/大志なくして勝利なし！	$P1/큰 뜻 없이 승리 없다!
+04188	text/subtitle_aplwin#260	1	$P1/そう簡単に この一撃は止められん	$P1/이 일격은 그리 쉽게 막을 수 없다
+04189	text/subtitle_aplwin#261	1	$P1/いい腕だ…　だが 力に溺れたな　	$P1/좋은 솜씨다… 하지만 힘에 빠졌군
+04190	text/subtitle_aplwin#262	1	$P1/惜しいな…　だがこの差がでかいのさ	$P1/아깝군… 하지만 이 차이가 큰 법이지
+04191	text/subtitle_aplwin#263	1	$P1/まだまだ精進しなければ…	$P1/아직 더 정진해야 한다…
+04192	text/subtitle_aplwin#264	1	$P1/甘く見ないでもらおう	$P1/얕보지 말아 줬으면 한다
+04193	text/subtitle_aplwin#265	1	$P1/棍よ 俺を導いてくれ	$P1/곤이여, 나를 이끌어 다오
+04194	text/subtitle_aplwin#266	1	$P1/悪いが 寝ていてもらおう	$P1/미안하지만 잠시 자 줘야겠다
+04195	text/subtitle_aplwin#267	1	$P1/雑念に惑わされたな！	$P1/잡념에 휘둘렸군!
+04196	text/subtitle_aplwin#268	1	$P1/許せ！　これも天命だ	$P1/용서해라! 이 또한 천명이다
+04197	text/subtitle_aplwin#269	1	$P1/手荒になった　すまない　	$P1/거칠게 했군. 미안하다
+04198	text/subtitle_aplwin#270	1	$P1/シャンレン…	$P1/샹렌…
+04199	text/subtitle_aplwin#271	1	$P1/マキシ…　バカなことを…	$P1/맥시… 바보 같은 짓을…
+04200	text/subtitle_aplwin#272	1	$P1/貴方はもう 開放されるべきだ！	$P1/당신은 이제 해방되어야 한다!
+04201	text/subtitle_aplwin#273	1	$P1/聞け！　我が魂の鼓動を！	$P1/들어라! 내 영혼의 고동을!
+04202	text/subtitle_aplwin#274	1	$P1/覚悟してもらうわ	$P1/각오하는 게 좋을 거야
+04203	text/subtitle_aplwin#275	1	$P1/この手で切り拓いてみせる！	$P1/이 손으로 개척해 보이겠어!
+04204	text/subtitle_aplwin#276	1	$P1/後悔するのは嫌だから！	$P1/후회하는 건 싫으니까!
+04205	text/subtitle_aplwin#277	1	$P1/私の剣に ついて来れる？	$P1/내 검을 따라올 수 있겠어?
+04206	text/subtitle_aplwin#278	1	$P1/この決意 崩せるものか！	$P1/이 결의, 무너뜨릴 수 있을 것 같아!
+04207	text/subtitle_aplwin#279	1	$P1/悪いけど私も譲れないの！	$P1/미안하지만 나도 양보할 수 없어!
+04208	text/subtitle_aplwin#280	1	$P1/やるしかないわね	$P1/해야만 하겠네
+04209	text/subtitle_aplwin#281	1	$P1/ここで負けるわけにはいかないわ！	$P1/여기서 질 수는 없어!
+04210	text/subtitle_aplwin#282	1	$P1/今は進むしかないようね！	$P1/지금은 나아가는 수밖에 없나 봐!
+04211	text/subtitle_aplwin#283	1	$P1/怪しさこの上ないわね…	$P1/수상하기 짝이 없네…
+04212	text/subtitle_aplwin#284	1	$P1/うっ…　この気配は…！	$P1/윽… 이 기척은…!
+04213	text/subtitle_aplwin#285	1	$P1/いいえ…　私は見つけたわ！	$P1/아니… 난 찾았어!
+04214	text/subtitle_aplwin#286	1	$P1/私は…　運命を切り開く！	$P1/나는… 운명을 개척하겠어!
+04215	text/subtitle_aplwin#287	1	$P1/危険すぎる…！　なんとかしなきゃ	$P1/너무 위험해…! 어떻게든 해야 해
+04216	text/subtitle_aplwin#288	1	$P1/マキシ 馬鹿なことはやめて！	$P1/맥시, 바보 같은 짓은 그만둬!
+04217	text/subtitle_aplwin#289	1	$P1/ごちそうさまっ！　	$P1/잘 먹었습니다!
+04218	text/subtitle_aplwin#290	1	$P1/この思いがあれば 私は強くなれる！	$P1/이 마음만 있으면 나는 강해질 수 있어!
+04219	text/subtitle_aplwin#291	1	$P1/急いでるの 邪魔をしないで	$P1/급하니까 방해하지 마
+04220	text/subtitle_aplwin#292	1	$P1/流石に 無傷ってわけにはいかないか…	$P1/역시 무사히 넘어가긴 어렵네…
+04221	text/subtitle_aplwin#293	1	$P1/この剣は 伊達じゃないのよ	$P1/이 검은 장식이 아니라고
+04222	text/subtitle_aplwin#294	1	$P1/私のほうが わずかに強かったようね	$P1/내가 아주 조금 더 강했나 보네
+04223	text/subtitle_aplwin#295	1	$P1/ざっと こんなもんね	$P1/대충 이 정도지
+04224	text/subtitle_aplwin#296	1	$P1/運命なんて 自分で切り拓くものよ	$P1/운명이란 스스로 개척하는 거야

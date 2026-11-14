@@ -1,0 +1,342 @@
+번호	위치	겹침	JP	KO
+00877	regtext/6#45	1	$P1/$Q4/$Q3/情報表示OFF	$P1/$Q4/$Q3/정보 표시 OFF
+00878	regtext/6#46	1	$P1/$Q16/イラストの選択	$P1/$Q16/일러스트 선택
+00879	regtext/6#47	1	$P1/$Q6/イラストの移動	$P1/$Q6/일러스트 이동
+00880	regtext/6#48	1	$P1/$Q16/カメラの操作	$P1/$Q16/카메라 조작
+00881	regtext/6#49	1	$P1/$Q19/ページ送り	$P1/$Q19/페이지 넘기기
+00882	regtext/6#50	1	$P1/$Q20/次のバトルへ	$P1/$Q20/다음 배틀로
+00883	regtext/6#51	1	$P1/$Q2/カーソル高速移動	$P1/$Q2/커서 고속 이동
+00884	regtext/6#52	1	$P1/$Q3/ヘルプを開く	$P1/$Q3/도움말 열기
+00885	regtext/6#53	1	$P1/$Q3/表示物の切り替え	$P1/$Q3/표시물 전환
+00886	regtext/6#54	1	$P1/$Q4/$Q5/ページ切り替え	$P1/$Q4/$Q5/페이지 전환
+00887	regtext/6#55	1	$P1/$Q4/$Q5/注視点の切り替え	$P1/$Q4/$Q5/주시점 전환
+00888	regtext/6#56	1	$P1/$Q90/縮小　(仮)	$P1/$Q90/축소　(가)
+00889	regtext/6#57	1	$P1/$Q91/拡大　(仮)	$P1/$Q91/확대　(가)
+00890	regtext/6#58	1	$P1/$Q90/$Q91/拡大/縮小 (仮)	$P1/$Q90/$Q91/확대/축소 (가)
+00891	regtext/6#59	1	$P1/$Q94/メニューを開く (仮)	$P1/$Q94/메뉴 열기 (가)
+00892	regtext/6#60	1	$P1/$Q4/$Q5/技を切り替える	$P1/$Q4/$Q5/기술 전환
+00893	regtext/6#61	1	$P1/$Q11/内容の選択	$P1/$Q11/내용 선택
+00894	regtext/6#62	1	$P1/$Q4/$Q5/タブの移動	$P1/$Q4/$Q5/탭 이동
+00895	regtext/6#63	1	$P1/$Q3/ウィンドウの消去	$P1/$Q3/윈도우 지우기
+00896	regtext/6#64	1	$P1/<アナログスティック>カメラの移動（仮）	$P1/<아날로그 스틱>카메라 이동（가）
+00897	regtext/6#65	1	$P1/<FONT_NONE>サムネイルの選択	$P1/<FONT_NONE>썸네일 선택
+00898	regtext/6#66	1	$P1/$Q16/カメラの移動	$P1/$Q16/카메라 이동
+00899	regtext/6#67	1	$P1/$Q4/カメラの切り替え	$P1/$Q4/카메라 전환
+00900	regtext/6#68	1	$P1/$Q5/カメラの切り替え	$P1/$Q5/카메라 전환
+00901	regtext/6#69	1	$P1/$Q90/$Q91/拡大/縮小	$P1/$Q90/$Q91/확대/축소
+00902	regtext/6#70	1	$Q4/$Q3/スキルタブの移動	$Q4/$Q3/스킬 탭 이동
+00903	regtext/6#71	1	$Q4/$Q3/ポーズの変更	$Q4/$Q3/포즈 변경
+00904	regtext/6#72	1	$P1/$Q10/体格の調整	$P1/$Q10/체격 조정
+00905	regtext/6#73	1	$P1/$Q11/筋肉の調整	$P1/$Q11/근육 조정
+00906	regtext/6#74	2	$P1/$Q11/声の高さの調整	$P1/$Q11/목소리 높이 조정
+00907	regtext/6#75	1	$P1/©1995-2008 NBGI\nTM & © 2008 Lucasfilm Ltd. All rights reserved.	$P1/©1995-2008 NBGI\nTM & © 2008 Lucasfilm Ltd. All rights reserved.
+00908	regtext/6#77	1	$P1/SOULCALIBUR®$Q60/ & © 1995-2008 NAMCO BANDAI Games Inc.\nTM & © 2008 Lucasfilm Ltd. All rights reserved.	$P1/SOULCALIBUR®$Q60/ & © 1995-2008 NAMCO BANDAI Games Inc.\nTM & © 2008 Lucasfilm Ltd. All rights reserved.
+00909	regtext/6#79	1	$P1/$Q6/カーソルの移動	$P1/$Q6/커서 이동
+00910	regtext/6#80	1	$P1/$Q10/ページのスクロール	$P1/$Q10/페이지 스크롤
+00911	regtext/6#81	1	$P1/$Q10/イラストの移動	$P1/$Q10/일러스트 이동
+00912	regtext/6#82	1	$P1/$Q10/項目の選択	$P1/$Q10/항목 선택
+00913	regtext/6#83	1	$P1/$Q11/項目内容の変更	$P1/$Q11/항목 내용 변경
+00914	regtext/6#88	2	$P1/このパーツを購入します。よろしいですか？	$P1/이 파츠를 구입합니다. 계속하시겠습니까?
+00915	regtext/6#89	2	$P1/このイラストを購入します。よろしいですか？	$P1/이 일러스트를 구입합니다. 계속하시겠습니까?
+00916	regtext/6#90	2	$P1/所持金が足りません。	$P1/소지금이 부족합니다.
+00917	regtext/6#91	1	$P1/$Q15/ページ切り替え	$P1/$Q15/페이지 전환
+00918	regtext/6#92	1	$P1/$Q11/ページ切り替え	$P1/$Q11/페이지 전환
+00919	regtext/6#93	1	$P1/$Q14/ページ切り替え	$P1/$Q14/페이지 전환
+00920	regtext/6#94	1	$P1/$Q19/終了 $Q20/キャンセル	$P1/$Q19/종료 $Q20/취소
+00921	regtext/6#95	1	$P1/$Q1/イベントを終了する	$P1/$Q1/이벤트를 종료한다
+00922	regtext/6#96	1	$P1/<FONT A>プロフィールを開く	$P1/<FONT A>프로필 열기
+00923	regtext/6#97	1	$P1/$Q4/$Q5/イラストの切り替え	$P1/$Q4/$Q5/일러스트 전환
+00924	regtext/6#98	1	$P1/$Q19/技を再生する $Q20/戻る	$P1/$Q19/기술 재생 $Q20/뒤로
+00925	regtext/6#99	1	$P1/$Q3/情報表示ON/OFF $Q20/戻る	$P1/$Q3/정보 표시 ON/OFF $Q20/뒤로
+00926	regtext/6#110	2	$P1/勝利条件	$P1/승리 조건
+00927	regtext/6#111	2	$P1/ボス	$P1/보스
+00928	regtext/6#112	2	$P1/制限時間	$P1/제한 시간
+00929	regtext/6#113	2	$P1/%d秒	$P1/%d초
+00930	regtext/6#118	1	$P1/ボスを倒せ！	$P1/보스를 쓰러뜨려라!
+00931	regtext/6#119	1	$P1/敵を全滅させろ！	$P1/적을 전멸시켜라!
+00932	regtext/6#124	1	$P1/一定時間生き残れ！	$P1/일정 시간 동안 살아남아라!
+00933	regtext/6#125	1	$I5/◆$I0/	$I5/◆$I0/
+00934	regtext/6#126	1	$I6/●$I0/	$I6/●$I0/
+00935	regtext/6#127	1	$I4/▼$I0/	$I4/▼$I0/
+00936	regtext/6#128	1	$I11/■$I0/	$I11/■$I0/
+00937	regtext/6#133	1	$I11/●$I0/	$I11/●$I0/
+00938	regtext/6#134	2	$P1/スキルはありません	$P1/스킬이 없습니다
+00939	regtext/6#135	1	$P1/リリース発生	$P1/릴리스 발생
+00940	regtext/6#136	1	$P1/新しいパーツがリリースされました｡	$P1/새로운 파츠가 릴리스되었습니다.
+00941	regtext/6#137	1	$P1/クリエイションで購入できるパーツが増えました｡	$P1/크리에이션에서 구입할 수 있는 파츠가 늘었습니다.
+00942	regtext/6#138	1	$P1/ミュージアムで購入できるアイテムが増えました｡	$P1/뮤지엄에서 구입할 수 있는 아이템이 늘었습니다.
+00943	regtext/6#139	2	$P1/新たな名声を手に入れました	$P1/새로운 명성을 얻었습니다
+00944	regtext/6#140	1	$P1/歴史に名が刻まれた	$P1/역사에 이름이 새겨졌다
+00945	regtext/6#141	1	$P1/名声	$P1/명성
+00946	regtext/6#142	1	$P1/キャラクターランダム	$P1/캐릭터 랜덤
+00947	regtext/6#143	1	$P1/男性クリエイションランダム	$P1/남성 크리에이션 랜덤
+00948	regtext/6#144	1	$P1/女性クリエイションランダム	$P1/여성 크리에이션 랜덤
+00949	regtext/6#147	1	$P1/オプションのBGM設定で、購入したBGMを設定できます	$P1/옵션의 BGM 설정에서 구입한 BGM을 설정할 수 있습니다
+00950	regtext/6#148	2	$P1/「%s」が使用可能になりました	$P1/「%s」을(를) 사용할 수 있게 되었습니다
+00951	regtext/6#150	1	$P1/新たな武器が購入可能になりました	$P1/새로운 무기를 구입할 수 있게 되었습니다
+00952	regtext/6#151	1	$P1/「%s」用の新たな武器が購入可能になりました	$P1/「%s」용 새로운 무기를 구입할 수 있게 되었습니다
+00953	regtext/6#152	1	$P1/新たなパーツを手に入れました	$P1/새로운 파츠를 손에 넣었습니다
+00954	regtext/6#153	1	$P1/「%s」を手に入れました	$P1/「%s」을(를) 손에 넣었습니다
+00955	regtext/6#154	1	$P1/新たなパーツが購入可能になりました	$P1/새로운 파츠를 구입할 수 있게 되었습니다
+00956	regtext/6#155	1	$P1/「%s」のイラストが購入可能になりました	$P1/「%s」의 일러스트를 구입할 수 있게 되었습니다
+00957	regtext/6#156	1	$P1/宝箱を手に入れました	$P1/보물상자를 손에 넣었습니다
+00958	regtext/6#157	1	$P1/新たなステージが使用可能になりました	$P1/새로운 스테이지를 사용할 수 있게 되었습니다
+00959	regtext/6#158	1	$P1/全キャラクターのおまけ武器を手に入れました	$P1/전 캐릭터의 보너스 무기를 손에 넣었습니다
+00960	regtext/6#159	1	$P1/<パーツセット01>を手に入れました	$P1/<파츠 세트01>을(를) 손에 넣었습니다
+00961	regtext/6#160	1	$P1/<パーツセット02>を手に入れました	$P1/<파츠 세트02>을(를) 손에 넣었습니다
+00962	regtext/6#161	1	$P1/<パーツセット03>を手に入れました	$P1/<파츠 세트03>을(를) 손에 넣었습니다
+00963	regtext/6#162	1	$P1/<パーツセット04>を手に入れました	$P1/<파츠 세트04>을(를) 손에 넣었습니다
+00964	regtext/6#163	1	$P1/<パーツセット05>を手に入れました	$P1/<파츠 세트05>을(를) 손에 넣었습니다
+00965	regtext/6#164	1	$P1/<パーツセット06>を手に入れました	$P1/<파츠 세트06>을(를) 손에 넣었습니다
+00966	regtext/6#167	1	$P1/SOULCALIBUR™$Q60/ & © 1995-2008 NAMCO BANDAI Games Inc.\nTM & © 2008 Lucasfilm Ltd. All rights reserved.	$P1/SOULCALIBUR™$Q60/ & © 1995-2008 NAMCO BANDAI Games Inc.\nTM & © 2008 Lucasfilm Ltd. All rights reserved.
+00967	regtext/6#235	1	$P1/$Q3/情報切り替え $Q19/次へ	$P1/$Q3/정보 전환 $Q19/다음으로
+00968	regtext/6#236	1	$P1/$Q4/$Q5/情報表示OFF $Q20/戻る	$P1/$Q4/$Q5/정보 표시 OFF $Q20/뒤로
+00969	regtext/6#237	1	$P1/$Q10/カーソルの移動 $Q11/設定の変更	$P1/$Q10/커서 이동 $Q11/설정 변경
+00970	regtext/6#238	1	$P1/$Q3/ヘルプ表示 $Q19/プロフィール表示 $Q20/戻る	$P1/$Q3/도움말 표시 $Q19/프로필 표시 $Q20/뒤로
+00971	regtext/6#239	1	$P1/$Q90//$Q91/拡大/縮小 $Q2/カーソル高速移動	$P1/$Q90//$Q91/확대/축소 $Q2/커서 고속 이동
+00972	regtext/6#240	1	$P1/$Q4/$Q5/ページの切り替え $Q19/決定 $Q20/戻る	$P1/$Q4/$Q5/페이지 전환 $Q19/결정 $Q20/뒤로
+00973	regtext/6#241	1	$P1/$Q90//$Q91/拡大/縮小 $Q20/戻る	$P1/$Q90//$Q91/확대/축소 $Q20/뒤로
+00974	regtext/6#242	1	$P1/$Q4/$Q5/イラストの切り替え $Q3/表示物ON/OFF	$P1/$Q4/$Q5/일러스트 전환 $Q3/표시물 ON/OFF
+00975	regtext/6#244	1	$P1/$Q10/カーソルの移動 $Q11/内容の切り替え	$P1/$Q10/커서 이동 $Q11/내용 전환
+00976	regtext/6#245	1	$P1/$Q10/カーソルの移動 $Q11/タブの切り替え	$P1/$Q10/커서 이동 $Q11/탭 전환
+00977	regtext/6#246	1	$P1/$Q7/カメラの移動	$P1/$Q7/카메라 이동
+00978	regtext/6#247	1	$P1/$Q90/$Q91/カメラの拡大/縮小	$P1/$Q90/$Q91/카메라 확대/축소
+00979	regtext/6#248	1	$P1/$Q2/状態を一つ戻す $Q3/ウィンドウ消去	$P1/$Q2/상태를 하나 되돌리기 $Q3/윈도우 지우기
+00980	regtext/6#249	1	$P1/$Q11/スキルタブの切り替え	$P1/$Q11/스킬 탭 전환
+00981	regtext/6#250	1	$P1/$Q4/$Q5/鮮やかさの切り替え	$P1/$Q4/$Q5/선명도 전환
+00982	regtext/6#252	1	$P1/$Q11/体格の調整 $Q10/筋力の調整	$P1/$Q11/체격 조정 $Q10/근력 조정
+00983	regtext/6#253	1	$P1/$Q4/$Q5/モーションの切り替え	$P1/$Q4/$Q5/모션 전환
+00984	regtext/6#254	1	$P1/$Q0/$Q1/$Q2/$Q3/戻る	$P1/$Q0/$Q1/$Q2/$Q3/뒤로
+00985	regtext/6#255	1	$P1/$Q1/$Q0/$Q2/$Q3/戻る	$P1/$Q1/$Q0/$Q2/$Q3/뒤로
+00986	regtext/6#256	1	$P1/$Q19/購入する	$P1/$Q19/구입하기
+00987	regtext/6#257	1	$P1/$Q10/BGMの変更 $Q11/ステージ選択	$P1/$Q10/BGM 변경 $Q11/스테이지 선택
+00988	regtext/6#258	1	$P1/$Q3/試聴する $Q20/戻る	$P1/$Q3/시청하기 $Q20/뒤로
+00989	regtext/6#259	1	$P1/$Q3/試聴やめる $Q20/戻る	$P1/$Q3/시청 중지 $Q20/뒤로
+00990	regtext/6#260	1	$P1/$Q2/初期設定に戻す	$P1/$Q2/초기 설정으로 되돌리기
+00991	regtext/6#261	1	$P1/$Q2/データのロード $Q19/決定 $Q20/戻る	$P1/$Q2/데이터 로드 $Q19/결정 $Q20/뒤로
+00992	regtext/6#262	1	$P1/$Q19/決定 $Q20/キャンセル	$P1/$Q19/결정 $Q20/취소
+00993	regtext/6#263	2	$P1/$Q11/選択	$P1/$Q11/선택
+00994	regtext/6#264	1	$P1/$Q16/操作	$P1/$Q16/조작
+00995	regtext/6#265	1	$P1/$Q11/操作	$P1/$Q11/조작
+00996	regtext/6#266	1	$P1/$Q19/決定 $Q20/タイトルに戻る	$P1/$Q19/결정 $Q20/타이틀로 돌아가기
+00997	regtext/6#267	1	$P1/$Q19/決定 $Q20/閉じる	$P1/$Q19/결정 $Q20/닫기
+00998	regtext/6#270	1	$P1/$Q19/次へ $Q20/セッションを抜ける	$P1/$Q19/다음으로 $Q20/세션에서 나가기
+00999	regtext/6#271	2	$P1/$Q2/評価を送る $Q3/ゲーマー カードを見る	$P1/$Q2/평가 보내기 $Q3/게이머 카드 보기
+01000	regtext/6#272	1	$P1/$Q19/次へ $Q2/評価を送る $Q3/ゲーマー カードを見る	$P1/$Q19/다음으로 $Q2/평가 보내기 $Q3/게이머 카드 보기
+01001	regtext/6#273	1	$P1/$Q3/ヘルプを閉じる	$P1/$Q3/도움말 닫기
+01002	regtext/6#277	1	$P1/選択	$P1/선택
+01003	regtext/6#283	1	$P1/L1ボタン	$P1/L1 버튼
+01004	regtext/6#284	1	$P1/L2ボタン	$P1/L2 버튼
+01005	regtext/6#285	1	$P1/R1ボタン	$P1/R1 버튼
+01006	regtext/6#286	1	$P1/R2ボタン	$P1/R2 버튼
+01007	regtext/6#287	1	$P1/$Q90/＋$Q91/＋$Q7/モデル回転/上下移動	$P1/$Q90/＋$Q91/＋$Q7/모델 회전/상하 이동
+01008	regtext/6#288	1	$P1/$Q19/方針変更 $Q20/戻る	$P1/$Q19/방침 변경 $Q20/뒤로
+01009	regtext/6#290	1	$P1/$Q94/次へ	$P1/$Q94/다음으로
+01010	regtext/6#291	2	ソウルキャリバーⅣ	소울칼리버 IV
+01011	regtext/7#35	2	アタックカウンター	어택 카운터
+01012	regtext/7#36	4	サイドダッシュカウンター	사이드 대시 카운터
+01013	regtext/7#38	2	バックダッシュカウンター	백 대시 카운터
+01014	regtext/7#39	2	インパクトカウンター	임팩트 카운터
+01015	regtext/7#40	2	ブレイクカウンター	브레이크 카운터
+01016	regtext/7#41	2	スタンカウンター	스턴 카운터
+01017	regtext/7#42	2	ジャストインパクトカウンター	저스트 임팩트 카운터
+01018	regtext/7#43	2	%dヒットコンボ	%d히트 콤보
+01019	regtext/7#44	2	ソウルクラッシュ	소울 크러시
+01020	regtext/7#45	2	ガードブレイク	가드 브레이크
+01021	regtext/7#47	2	壁ヒット	벽 히트
+01022	regtext/7#48	2	ガードインパクト	가드 임팩트
+01023	regtext/7#49	2	リバースインパクト	리버스 임팩트
+01024	regtext/7#50	2	ジャストインパクト	저스트 임팩트
+01025	regtext/7#51	2	スタン	스턴
+01026	regtext/7#52	1	回復可能スタン	회복 가능 스턴
+01027	regtext/7#53	2	投げ抜け	던지기 풀기
+01028	regtext/7#54	2	受け身	낙법
+01029	regtext/7#55	2	ジャスト受け身	저스트 낙법
+01030	regtext/7#56	3	確定反撃	확정 반격
+01031	regtext/7#57	1	ソウルゲージ増加	소울 게이지 증가
+01032	regtext/7#58	1	ソウルゲージ減少	소울 게이지 감소
+01033	regtext/7#59	1	強制交代	강제 교대
+01034	regtext/7#60	1	全体攻撃	전체 공격
+01035	regtext/7#61	1	交代失敗	교대 실패
+01036	regtext/7#62	1	防具破壊	방어구 파괴
+01037	regtext/7#63	1	上段破壊	상단 파괴
+01038	regtext/7#64	1	中段破壊	중단 파괴
+01039	regtext/7#65	1	下段破壊	하단 파괴
+01040	regtext/7#67	2	リングアウト	링아웃
+01041	regtext/7#68	1	ファーストアタック	퍼스트 어택
+01042	regtext/7#69	1	ラストアタック	라스트 어택
+01043	regtext/7#70	1	オーバーキル	오버킬
+01044	regtext/7#91	2	差し込み	끼워 넣기
+01045	regtext/7#93	1	オートガード不能攻撃 	자동 가드 불능 공격 
+01046	regtext/7#94	1	ガードブレイカー	가드 브레이커
+01047	regtext/7#95	1	オートカウンター	자동 카운터
+01048	regtext/7#96	1	毒牙	독니
+01049	regtext/7#97	1	体力リカバリー	체력 리커버리
+01050	regtext/7#98	1	体力ドレイン	체력 드레인
+01051	regtext/7#99	1	ソウルゲージ吸収	소울 게이지 흡수
+01052	regtext/7#100	1	ライフバースト	라이프 버스트
+01053	regtext/7#101	1	ソウルゲージブースト	소울 게이지 부스트
+01054	regtext/7#102	1	インパクトエッジ	임팩트 엣지
+01055	regtext/7#103	1	オートインパクト 	자동 임팩트 
+01056	regtext/7#104	1	インパクトヒール	임팩트 힐
+01057	regtext/7#105	1	ストロングインパクト	스트롱 임팩트
+01058	regtext/7#106	1	ソウルリフレクト	소울 리플렉트
+01059	regtext/7#107	1	達人インパクト	달인 임팩트
+01060	regtext/7#108	1	リングアウト防止	링아웃 방지
+01061	regtext/7#109	1	オート投げ抜け	자동 던지기 풀기
+01062	regtext/7#110	1	カウンター防止	카운터 방지
+01063	regtext/7#111	1	強制交代防止	강제 교대 방지
+01064	regtext/7#112	1	スタートダッシュ	스타트 대시
+01065	regtext/7#113	1	根性	근성
+01066	regtext/7#114	1	ハイパーモード	하이퍼 모드
+01067	regtext/7#115	1	スキル能力アップ	스킬 능력 업
+01068	regtext/7#116	1	チャージキャンセル	차지 캔슬
+01069	regtext/7#117	1	インビジブル	인비저블
+01070	regtext/7#118	1	魔剣の暴走	마검의 폭주
+01071	regtext/7#119	1	$I4/♪IMMACULATE PLEDGE$I0/	$I4/♪IMMACULATE PLEDGE$I0/
+01072	regtext/7#120	1	$I4/♪TO THE WIND$I0/	$I4/♪TO THE WIND$I0/
+01073	regtext/7#121	1	$I4/♪TEMPERED SOUL$I0/	$I4/♪TEMPERED SOUL$I0/
+01074	regtext/7#122	1	$I4/♪DESTINY WILL TELL$I0/	$I4/♪DESTINY WILL TELL$I0/
+01075	regtext/7#123	1	$I4/♪THE SUPREME SWORD$I0/	$I4/♪THE SUPREME SWORD$I0/
+01076	regtext/7#124	1	$I4/♪BREAKTHROUGH$I0/	$I4/♪BREAKTHROUGH$I0/
+01077	regtext/7#125	1	$I4/♪GIGANTESQUE$I0/	$I4/♪GIGANTESQUE$I0/
+01078	regtext/7#126	1	$I4/♪INFERNAL OFFERING$I0/	$I4/♪INFERNAL OFFERING$I0/
+01079	regtext/7#127	1	$I4/♪INDOMITABLE WARRIOR$I0/	$I4/♪INDOMITABLE WARRIOR$I0/
+01080	regtext/7#128	1	$I4/♪TWILIGHT DWELLERS$I0/	$I4/♪TWILIGHT DWELLERS$I0/
+01081	regtext/7#129	1	$I4/♪INNOCENT VISION$I0/	$I4/♪INNOCENT VISION$I0/
+01082	regtext/7#130	1	$I4/♪LOST IN THE MIRAGE$I0/	$I4/♪LOST IN THE MIRAGE$I0/
+01083	regtext/7#131	1	$I4/♪HALCYON HARBOR$I0/	$I4/♪HALCYON HARBOR$I0/
+01084	regtext/7#132	1	$I4/♪PHANTASMAGORIA$I0/	$I4/♪PHANTASMAGORIA$I0/
+01085	regtext/7#133	1	$I4/♪VALIANT HEART$I0/	$I4/♪VALIANT HEART$I0/
+01086	regtext/7#134	1	$I4/♪GLACIAL COLOSSEUM$I0/	$I4/♪GLACIAL COLOSSEUM$I0/
+01087	regtext/7#135	1	$I4/♪REIGN OF DOOM$I0/	$I4/♪REIGN OF DOOM$I0/
+01088	regtext/7#136	1	$I4/♪SPARK OF FATE$I0/	$I4/♪SPARK OF FATE$I0/
+01089	regtext/7#137	1	$I4/♪THANATOS$I0/	$I4/♪THANATOS$I0/
+01090	regtext/7#138	1	$I4/♪DUEL OF THE FATES$I0/	$I4/♪DUEL OF THE FATES$I0/
+01091	regtext/7#139	1	$I4/♪THE IMPERIAL MARCH$I0/	$I4/♪THE IMPERIAL MARCH$I0/
+01092	regtext/7#140	1	$I4/♪QUI-GON'S NOBLE END$I0/	$I4/♪QUI-GON'S NOBLE END$I0/
+01093	regtext/7#141	1	$I4/♪THE NEW LEGEND$I0/	$I4/♪THE NEW LEGEND$I0/
+01094	regtext/7#142	1	$I4/♪BLOOM AND HARVEST$I0/	$I4/♪BLOOM AND HARVEST$I0/
+01095	regtext/7#143	1	$I4/♪SAIL OVER THE STORM$I0/	$I4/♪SAIL OVER THE STORM$I0/
+01096	regtext/7#144	1	$I4/♪DUELISTS$I0/	$I4/♪DUELISTS$I0/
+01097	regtext/7#145	1	$I4/♪THE CURSED IMAGE$I0/	$I4/♪THE CURSED IMAGE$I0/
+01098	regtext/7#146	1	$I4/♪SWEET ILLUSION$I0/	$I4/♪SWEET ILLUSION$I0/
+01099	regtext/7#147	1	$I4/♪WING OF FAITH$I0/	$I4/♪WING OF FAITH$I0/
+01100	regtext/7#148	1	$I4/♪IN THE NAME OF FATHER$I0/	$I4/♪IN THE NAME OF FATHER$I0/
+01101	regtext/7#149	1	$I4/♪BRED FROM THE GAP$I0/	$I4/♪BRED FROM THE GAP$I0/
+01102	regtext/7#150	1	$I4/♪UNBLESSED SOUL$I0/	$I4/♪UNBLESSED SOUL$I0/
+01103	regtext/7#151	1	$I4/♪CHASING DOWNSTREAM$I0/	$I4/♪CHASING DOWNSTREAM$I0/
+01104	regtext/7#152	1	$I4/♪WORTH DYING FOR$I0/	$I4/♪WORTH DYING FOR$I0/
+01105	regtext/7#153	1	$I4/♪GATHERING: FATAL GRAVITY$I0/	$I4/♪GATHERING: FATAL GRAVITY$I0/
+01106	regtext/7#154	1	$I4/♪EYE TO EYE, BLADE TO BLADE$I0/	$I4/♪EYE TO EYE, BLADE TO BLADE$I0/
+01107	regtext/7#155	1	$I4/♪LEAVING THE WORLD BEHIND$I0/	$I4/♪LEAVING THE WORLD BEHIND$I0/
+01108	regtext/7#156	1	$I4/♪IMMORTAL FLAME$I0/	$I4/♪IMMORTAL FLAME$I0/
+01109	regtext/7#157	1	$I4/♪BEYOND THE HORIZON$I0/	$I4/♪BEYOND THE HORIZON$I0/
+01110	regtext/7#158	1	$I4/♪MAIN TITLE/REBEL BLOCKADE RUNNER$I0/	$I4/♪MAIN TITLE/REBEL BLOCKADE RUNNER$I0/
+01111	regtext/7#159	1	$I4/♪THE WIND AND CLOUDS$I0/	$I4/♪THE WIND AND CLOUDS$I0/
+01112	regtext/7#160	1	$I4/♪KKADURI$I0/	$I4/♪KKADURI$I0/
+01113	regtext/7#161	1	$I4/♪FUTURE DANCIN'$I0/	$I4/♪FUTURE DANCIN'$I0/
+01114	regtext/7#162	1	$I4/♪DRAGON'S CALL$I0/	$I4/♪DRAGON'S CALL$I0/
+01115	regtext/7#163	1	$I4/♪THE GEARS OF MADNESS$I0/	$I4/♪THE GEARS OF MADNESS$I0/
+01116	regtext/7#164	1	$I4/♪HEAVENLY ENGAGE$I0/	$I4/♪HEAVENLY ENGAGE$I0/
+01117	regtext/7#165	1	$I4/♪SOUL AND SWORD$I0/	$I4/♪SOUL AND SWORD$I0/
+01118	regtext/7#166	1	$I4/♪RECOLLECT CONTINENT$I0/	$I4/♪RECOLLECT CONTINENT$I0/
+01119	regtext/7#167	1	$I4/♪HORANGI ARIRANG$I0/	$I4/♪HORANGI ARIRANG$I0/
+01120	regtext/7#168	1	$I4/♪BRAVELY FOLK SONG$I0/	$I4/♪BRAVELY FOLK SONG$I0/
+01121	regtext/7#169	1	$I4/♪WORLD ATLAS COLLAPSED$I0/	$I4/♪WORLD ATLAS COLLAPSED$I0/
+01122	regtext/7#170	1	$I4/♪ASIAN DAWN$I0/	$I4/♪ASIAN DAWN$I0/
+01123	regtext/7#171	1	$I4/♪A DESPERATE STRUGGLE$I0/	$I4/♪A DESPERATE STRUGGLE$I0/
+01124	regtext/7#172	1	$I4/♪UNWAVERING RESOLVE$I0/	$I4/♪UNWAVERING RESOLVE$I0/
+01125	regtext/7#173	1	$I4/♪GUIDED BY WIND$I0/	$I4/♪GUIDED BY WIND$I0/
+01126	regtext/7#174	1	$I4/♪EVIL REBORN$I0/	$I4/♪EVIL REBORN$I0/
+01127	regtext/7#175	1	$I4/♪RAISE THY SWORD$I0/	$I4/♪RAISE THY SWORD$I0/
+01128	regtext/7#176	1	$I4/♪BRAVE SWORD, BRAVE SOUL$I0/	$I4/♪BRAVE SWORD, BRAVE SOUL$I0/
+01129	regtext/7#177	1	$I4/♪CHASING DEATH$I0/	$I4/♪CHASING DEATH$I0/
+01130	regtext/7#178	1	$I4/♪DESTINY AWAITS NO ONE$I0/	$I4/♪DESTINY AWAITS NO ONE$I0/
+01131	regtext/7#179	1	$I4/♪NO TURNING BACK$I0/	$I4/♪NO TURNING BACK$I0/
+01132	regtext/7#180	1	$I4/♪ETERNAL STRUGGLE$I0/	$I4/♪ETERNAL STRUGGLE$I0/
+01133	regtext/7#181	1	$I4/♪HUBRIS$I0/	$I4/♪HUBRIS$I0/
+01134	regtext/7#182	1	$I4/♪CONFRONTATION$I0/	$I4/♪CONFRONTATION$I0/
+01135	regtext/7#183	1	$I4/♪SWORD OF THE PATRIOT$I0/	$I4/♪SWORD OF THE PATRIOT$I0/
+01136	regtext/7#184	1	$I4/♪ORDINARY PAIN$I0/	$I4/♪ORDINARY PAIN$I0/
+01137	regtext/7#185	1	$I4/♪HELLFIRE$I0/	$I4/♪HELLFIRE$I0/
+01138	regtext/7#186	1	$I4/♪IF THERE WERE ANY OTHER WAY$I0/	$I4/♪IF THERE WERE ANY OTHER WAY$I0/
+01139	regtext/7#187	1	$I4/♪NOTHING TO LOSE$I0/	$I4/♪NOTHING TO LOSE$I0/
+01140	regtext/7#188	1	$I4/♪MAZE OF THE BLADE$I0/	$I4/♪MAZE OF THE BLADE$I0/
+01141	regtext/7#189	1	$I4/♪LABYRINTH OF MOONLIGHT$I0/	$I4/♪LABYRINTH OF MOONLIGHT$I0/
+01142	regtext/7#190	1	$I4/♪CALL OF THE ANCIENTS$I0/	$I4/♪CALL OF THE ANCIENTS$I0/
+01143	regtext/7#191	1	$I4/♪TIME MARCHES ON$I0/	$I4/♪TIME MARCHES ON$I0/
+01144	regtext/7#192	1	$I4/♪FEARLESS EYES$I0/	$I4/♪FEARLESS EYES$I0/
+01145	regtext/7#193	1	$I4/♪WINGS OF DESPAIR$I0/	$I4/♪WINGS OF DESPAIR$I0/
+01146	regtext/7#194	1	$I4/♪PURE BREEZE$I0/	$I4/♪PURE BREEZE$I0/
+01147	regtext/7#195	1	$I4/♪THE BLADE SEEKER$I0/	$I4/♪THE BLADE SEEKER$I0/
+01148	regtext/7#196	1	$I4/♪FACE YOUR FATE$I0/	$I4/♪FACE YOUR FATE$I0/
+01149	regtext/7#197	1	$I4/♪THE EVIL MOON$I0/	$I4/♪THE EVIL MOON$I0/
+01150	regtext/7#198	1	$I4/♪NO REGRETS$I0/	$I4/♪NO REGRETS$I0/
+01151	regtext/7#199	1	$I4/♪COURAGE ABLAZE$I0/	$I4/♪COURAGE ABLAZE$I0/
+01152	regtext/7#200	1	$I4/♪EPHEMERAL DREAM$I0/	$I4/♪EPHEMERAL DREAM$I0/
+01153	regtext/7#201	1	$I4/♪ENDLESS WARFARE$I0/	$I4/♪ENDLESS WARFARE$I0/
+01154	regtext/7#202	1	$I4/♪WATER DANCE$I0/	$I4/♪WATER DANCE$I0/
+01155	regtext/7#203	1	$I4/♪FORSAKEN SANCTUARY$I0/	$I4/♪FORSAKEN SANCTUARY$I0/
+01156	regtext/7#204	1	$I4/♪CATASTROPHE$I0/	$I4/♪CATASTROPHE$I0/
+01157	regtext/7#205	1	$I4/♪BLIND LOYALTY$I0/	$I4/♪BLIND LOYALTY$I0/
+01158	regtext/7#206	1	$I4/♪THROUGH MOLTEN CAVES$I0/	$I4/♪THROUGH MOLTEN CAVES$I0/
+01159	regtext/7#207	1	$I4/♪WORLD DISTORTION$I0/	$I4/♪WORLD DISTORTION$I0/
+01160	regtext/7#208	2	$P1/削りダメージC	$P1/깎기 대미지 C
+01161	regtext/7#209	2	$P1/削りダメージB	$P1/깎기 대미지 B
+01162	regtext/7#210	2	$P1/削りダメージA	$P1/깎기 대미지 A
+01163	regtext/7#211	2	$P1/オートガード不能攻撃C	$P1/자동 가드 불능 공격 C
+01164	regtext/7#212	2	$P1/オートガード不能攻撃B	$P1/자동 가드 불능 공격 B
+01165	regtext/7#213	2	$P1/オートガード不能攻撃A	$P1/자동 가드 불능 공격 A
+01166	regtext/7#214	2	$P1/オートガードブレイクC	$P1/자동 가드 브레이크 C
+01167	regtext/7#215	2	$P1/オートガードブレイクB	$P1/자동 가드 브레이크 B
+01168	regtext/7#216	2	$P1/オートガードブレイクA	$P1/자동 가드 브레이크 A
+01169	regtext/7#217	2	$P1/吹き飛ばし	$P1/날려 버리기
+01170	regtext/7#218	2	$P1/コンボダメージアップC	$P1/콤보 대미지 업 C
+01171	regtext/7#219	2	$P1/コンボダメージアップB	$P1/콤보 대미지 업 B
+01172	regtext/7#220	2	$P1/コンボダメージアップA	$P1/콤보 대미지 업 A
+01173	regtext/7#221	2	$P1/オートカウンターC	$P1/자동 카운터 C
+01174	regtext/7#222	2	$P1/オートカウンターB	$P1/자동 카운터 B
+01175	regtext/7#223	2	$P1/オートカウンターA	$P1/자동 카운터 A
+01176	regtext/7#224	2	$P1/ガードブレイカー	$P1/가드 브레이커
+01177	regtext/7#225	2	$P1/全体攻撃強化C	$P1/전체 공격 강화 C
+01178	regtext/7#226	2	$P1/全体攻撃強化B	$P1/전체 공격 강화 B
+01179	regtext/7#227	2	$P1/全体攻撃強化A	$P1/전체 공격 강화 A
+01180	regtext/7#228	2	$P1/空中制御封じ	$P1/공중 제어 봉쇄
+01181	regtext/7#229	2	$P1/ソウルゲージダメージC	$P1/소울 게이지 대미지 C
+01182	regtext/7#230	2	$P1/ソウルゲージダメージB	$P1/소울 게이지 대미지 B
+01183	regtext/7#231	2	$P1/ソウルゲージダメージA	$P1/소울 게이지 대미지 A
+01184	regtext/7#232	2	$P1/ソウルゲージ増加アップC	$P1/소울 게이지 증가 업 C
+01185	regtext/7#233	2	$P1/ソウルゲージ増加アップB	$P1/소울 게이지 증가 업 B
+01186	regtext/7#234	2	$P1/ソウルゲージ増加アップA	$P1/소울 게이지 증가 업 A
+01187	regtext/7#235	2	$P1/ソウルゲージ回復C	$P1/소울 게이지 회복 C
+01188	regtext/7#236	2	$P1/ソウルゲージ回復B	$P1/소울 게이지 회복 B
+01189	regtext/7#237	2	$P1/ソウルゲージ回復A	$P1/소울 게이지 회복 A
+01190	regtext/7#238	2	$P1/体力リカバリーC	$P1/체력 리커버리 C
+01191	regtext/7#239	2	$P1/体力リカバリーB	$P1/체력 리커버리 B
+01192	regtext/7#240	2	$P1/体力リカバリーA	$P1/체력 리커버리 A
+01193	regtext/7#241	2	$P1/体力ドレインC	$P1/체력 드레인 C
+01194	regtext/7#242	2	$P1/体力ドレインB	$P1/체력 드레인 B
+01195	regtext/7#243	2	$P1/体力ドレインA	$P1/체력 드레인 A
+01196	regtext/7#244	2	$P1/ソウルゲージ吸収	$P1/소울 게이지 흡수
+01197	regtext/7#245	2	$P1/ライフバースト	$P1/라이프 버스트
+01198	regtext/7#246	2	$P1/自動回復力アップ	$P1/자동 회복력 업
+01199	regtext/7#247	2	$P1/ソウルゲージブーストC	$P1/소울 게이지 부스트 C
+01200	regtext/7#248	2	$P1/ソウルゲージブーストB	$P1/소울 게이지 부스트 B
+01201	regtext/7#249	2	$P1/ソウルゲージブーストA	$P1/소울 게이지 부스트 A
+01202	regtext/7#250	2	$P1/毒牙C	$P1/독니 C
+01203	regtext/7#251	2	$P1/毒牙B	$P1/독니 B
+01204	regtext/7#252	2	$P1/毒牙A	$P1/독니 A
+01205	regtext/7#253	2	$P1/インパクトエッジ	$P1/임팩트 엣지
+01206	regtext/7#254	2	$P1/オートインパクトC	$P1/자동 임팩트 C
+01207	regtext/7#255	2	$P1/オートインパクトB	$P1/자동 임팩트 B
+01208	regtext/7#256	2	$P1/オートインパクトA	$P1/자동 임팩트 A
+01209	regtext/7#257	2	$P1/インパクトヒール	$P1/임팩트 힐
+01210	regtext/7#258	2	$P1/ストロングインパクト	$P1/스트롱 임팩트
+01211	regtext/7#259	2	$P1/ソウルリフレクト	$P1/소울 리플렉트
+01212	regtext/7#260	2	$P1/達人インパクト	$P1/달인 임팩트
+01213	regtext/7#261	2	$P1/リングアウト防止C	$P1/링아웃 방지 C
+01214	regtext/7#262	2	$P1/リングアウト防止B	$P1/링아웃 방지 B
+01215	regtext/7#263	2	$P1/リングアウト防止A	$P1/링아웃 방지 A
+01216	regtext/7#264	2	$P1/オート投げ抜けC	$P1/자동 던지기 풀기 C
+01217	regtext/7#265	2	$P1/オート投げ抜けB	$P1/자동 던지기 풀기 B

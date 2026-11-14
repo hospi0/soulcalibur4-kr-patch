@@ -1,0 +1,297 @@
+번호	위치	겹침	JP	KO
+02472	text/museum#815	1	$P1/全ては謎に包まれている……	$P1/모든 것은 수수께끼에 싸여 있다……
+02473	text/museum#820	1	$P1/疾風の一太刀	$P1/질풍의 일격
+02474	text/museum#824	1	$P1/このプロフィールは、現在閲覧できません｡選択する為には【STORY】で出会い､勝利する必要があります｡	$P1/이 프로필은 현재 열람할 수 없습니다. 선택하려면 【STORY】에서 만나 승리해야 합니다.
+02475	text/museum#825	1	$P1/このイラストは現在購入できません。【CHARACTER CREATION】内のキャラクターセレクト画面で使用権を購入すると、購入できるようになります｡	$P1/이 일러스트는 현재 구입할 수 없습니다. 【CHARACTER CREATION】 내 캐릭터 선택 화면에서 사용권을 구입하면 구입할 수 있게 됩니다.
+02476	text/museum#826	1	$P1/このイラストは現在購入できません。購入する為には【STORY】で出会い､勝利する必要があります｡	$P1/이 일러스트는 현재 구입할 수 없습니다. 구입하려면 【STORY】에서 만나 승리해야 합니다.
+02477	text/museum#827	1	$P1/「御剣ＶＳダース・ベイダー」のプロモーション用イラストを閲覧できます。	$P1/「미츠루기 VS 다스 베이더」 프로모션용 일러스트를 열람할 수 있습니다.
+02478	text/museum#828	1	$P1/「御剣ＶＳダース・ベイダー」のプロモーション用イラストを購入できます。	$P1/「미츠루기 VS 다스 베이더」 프로모션용 일러스트를 구입할 수 있습니다.
+02479	text/museum#829	1	$P1/御剣ＶＳダース・ベイダー	$P1/미츠루기 VS 다스 베이더
+02480	text/museum#831	1	$P1/銀河への帰還	$P1/은하로의 귀환
+02481	text/museum#832	1	$P1/ダース・ベイダーと対戦した	$P1/다스 베이더와 대전했다
+02482	text/museum#833	1	$P1/ダース・ベイダーを使用して【STORY】をクリアした	$P1/다스 베이더로 【STORY】를 클리어했다
+02483	text/museum#834	1	$P1/ダース・ベイダーと対戦せよ	$P1/다스 베이더와 대전하라
+02484	text/museum#835	1	$P1/ダース・ベイダーを使用して【STORY】をクリアせよ	$P1/다스 베이더로 【STORY】를 클리어하라
+02485	text/museum#836	1	$P1/【TOWER OF LOST SOULS】で「登り」を制覇せよ	$P1/【TOWER OF LOST SOULS】에서 「오르기」를 제패하라
+02486	text/museum#837	1	$P1/【TOWER OF LOST SOULS】で「登り」を制覇した	$P1/【TOWER OF LOST SOULS】에서 「오르기」를 제패했다
+02487	text/museum#838	1	$P1/Xbox LIVEで20種類のスタイルと対戦せよ	$P1/Xbox LIVE에서 20종류의 스타일과 대전하라
+02488	text/museum#839	1	$P1/Xbox LIVEで20種類のスタイルと対戦した	$P1/Xbox LIVE에서 20종류의 스타일과 대전했다
+02489	text/museum#840	1	$P1/PLAYSTATION®Networkで20種類のスタイルと対戦せよ	$P1/PLAYSTATION®Network에서 20종류의 스타일과 대전하라
+02490	text/museum#841	1	$P1/PLAYSTATION®Networkで20種類のスタイルと対戦した	$P1/PLAYSTATION®Network에서 20종류의 스타일과 대전했다
+02491	text/museum#842	1	$P1/【ARCADE】で5回連続でファーストアタックを決めよ	$P1/【ARCADE】에서 5회 연속으로 퍼스트 어택을 성공시켜라
+02492	text/museum#843	1	$P1/【ARCADE】で5回連続でファーストアタックを決めた	$P1/【ARCADE】에서 5회 연속으로 퍼스트 어택을 성공시켰다
+02493	text/museum#844	1	$P1/PLAYSTATION®Networkで100回対戦した	$P1/PLAYSTATION®Network에서 100회 대전했다
+02494	text/museum#845	1	$P1/PLAYSTATION®Networkで全スタイルと対戦した	$P1/PLAYSTATION®Network에서 모든 스타일과 대전했다
+02495	text/museum#846	1	$P1/PLAYSTATION®Networkで全ステージにおいて対戦した	$P1/PLAYSTATION®Network에서 모든 스테이지에서 대전했다
+02496	text/museum#847	1	$P1/PLAYSTATION®Networkで10回勝利した	$P1/PLAYSTATION®Network에서 10회 승리했다
+02497	text/museum#848	1	$P1/PLAYSTATION®Networkで100回対戦せよ	$P1/PLAYSTATION®Network에서 100회 대전하라
+02498	text/museum#849	1	$P1/PLAYSTATION®Networkで全スタイルと対戦せよ	$P1/PLAYSTATION®Network에서 모든 스타일과 대전하라
+02499	text/museum#850	1	$P1/PLAYSTATION®Networkで全ステージにおいて対戦せよ	$P1/PLAYSTATION®Network에서 모든 스테이지에서 대전하라
+02500	text/museum#851	1	$P1/PLAYSTATION®Networkで10回勝利せよ	$P1/PLAYSTATION®Network에서 10회 승리하라
+02501	text/museum#853	1	$P1/イベントシアターをコンプリートした	$P1/이벤트 시어터를 컴플리트했다
+02502	text/museum#855	1	$P1/イベントシアターをコンプリートせよ	$P1/이벤트 시어터를 컴플리트하라
+02503	text/museum#856	1	$P1/歴史に刻まれて戦士は英雄となった	$P1/역사에 새겨져 전사는 영웅이 되었다
+02504	text/museum#857	1	$P1/8WAY-RUNでの移動距離を10000ｍ以上にせよ	$P1/8WAY-RUN에서의 이동 거리를 10000ｍ 이상으로 하라
+02505	text/museum#858	1	$P1/8WAY-RUNでの移動距離が10000ｍ以上になった	$P1/8WAY-RUN에서의 이동 거리가 10000ｍ 이상이 되었다
+02506	text/museum#859	1	$P1/このプロフィールは、現在閲覧できません。	$P1/이 프로필은 현재 열람할 수 없습니다.
+02507	text/networkvs#2	2	$P1/クイック マッチ	$P1/퀵 매치
+02508	text/networkvs#3	1	$P1/カスタム マッチ	$P1/커스텀 매치
+02509	text/networkvs#4	2	$P1/セッション作成	$P1/세션 만들기
+02510	text/networkvs#5	1	$P1/検索中	$P1/검색 중
+02511	text/networkvs#6	1	$P1/マッチング中	$P1/매칭 중
+02512	text/networkvs#13	2	$P1/ゲーマータグ（ネットワークID）	$P1/게이머 태그（네트워크 ID）
+02513	text/networkvs#15	2	$P1/勝利：$P0/	$P1/승리:$P0/
+02514	text/networkvs#19	2	$P1/敗北：$P0/	$P1/패배:$P0/
+02515	text/networkvs#23	2	$P1/連勝：$P0/	$P1/연승:$P0/
+02516	text/networkvs#31	1	$P1/バトルタイム設定	$P1/배틀 타임 설정
+02517	text/networkvs#35	1	$P1/レベル範囲	$P1/레벨 범위
+02518	text/networkvs#37	1	±10	±10
+02519	text/networkvs#38	2	±20	±20
+02520	text/networkvs#39	1	±30	±30
+02521	text/networkvs#40	2	±40	±40
+02522	text/networkvs#41	1	±50	±50
+02523	text/networkvs#48	1	$P1/バトルタイム：$P0/	$P1/배틀 타임:$P0/
+02524	text/networkvs#49	1	$P1/自動で対戦相手を探して対戦を始めます。	$P1/자동으로 대전 상대를 찾아 대전을 시작합니다.
+02525	text/networkvs#50	1	$P1/条件を設定して、対戦相手を探します。	$P1/조건을 설정해 대전 상대를 찾습니다.
+02526	text/networkvs#51	1	$P1/セッションを作成し、対戦相手を待ちます。	$P1/세션을 만들고 대전 상대를 기다립니다.
+02527	text/networkvs#52	1	$P1/セッションを検索中です。	$P1/세션을 검색 중입니다.
+02528	text/networkvs#53	1	$P1/セッションに接続中です。	$P1/세션에 접속 중입니다.
+02529	text/networkvs#54	1	$P1/セッションルールを設定します。	$P1/세션 규칙을 설정합니다.
+02530	text/networkvs#55	1	$P1/対戦相手を待っています。	$P1/대전 상대를 기다리고 있습니다.
+02531	text/networkvs#56	1	$P1/検索条件を設定します。	$P1/검색 조건을 설정합니다.
+02532	text/networkvs#57	1	$P1/参加するセッションを選択してください。	$P1/참가할 세션을 선택해 주세요.
+02533	text/networkvs#58	1	対戦結果がランキングに反映されます。	대전 결과가 랭킹에 반영됩니다.
+02534	text/networkvs#59	1	対戦結果はランキングに反映されません。	대전 결과는 랭킹에 반영되지 않습니다.
+02535	text/networkvs#60	1	$P1/１つのセッションに4人まで参加することができます、対戦結果はランキングに反映されません。	$P1/하나의 세션에 최대 4명까지 참가할 수 있으며, 대전 결과는 랭킹에 반영되지 않습니다.
+02536	text/networkvs#61	1	$P1/セッションの勝利条件を設定します。	$P1/세션의 승리 조건을 설정합니다.
+02537	text/networkvs#62	2	$P1/勝利条件となる数を設定します。	$P1/승리 조건이 되는 수를 설정합니다.
+02538	text/networkvs#64	1	$P1/バトルカウントを設定します。	$P1/배틀 카운트를 설정합니다.
+02539	text/networkvs#65	2	$P1/バトルタイムを設定します。	$P1/배틀 타임을 설정합니다.
+02540	text/networkvs#66	1	$P1/セッションに参加できる人数を設定します。	$P1/세션에 참가할 수 있는 인원수를 설정합니다.
+02541	text/networkvs#67	1	$P1/プライベート スロットの数を設定します。	$P1/프라이빗 슬롯 수를 설정합니다.
+02542	text/networkvs#69	1	$P1/自分のレベルと対戦相手のレベルの差の範囲を設定します。	$P1/자신의 레벨과 대전 상대의 레벨 차이 범위를 설정합니다.
+02543	text/networkvs#73	1	$P1/$Q19/セッションを作成する	$P1/$Q19/세션 만들기
+02544	text/networkvs#74	1	$P1/$Q20/セッションを閉じる	$P1/$Q20/세션 닫기
+02545	text/networkvs#75	1	$P1/$Q19/セッションを検索する	$P1/$Q19/세션 검색
+02546	text/networkvs#76	1	$P1/$Q2/更新	$P1/$Q2/갱신
+02547	text/networkvs#77	1	$P1/$Q3/ゲーマー カードを見る	$P1/$Q3/게이머 카드 보기
+02548	text/networkvs#78	1	$P1/$Q3/招待状を送る	$P1/$Q3/초대장 보내기
+02549	text/networkvs#79	1	$P1/$Q2/評価を送る	$P1/$Q2/평가 보내기
+02550	text/networkvs#80	1	$P1/$Q19/メニューに戻る	$P1/$Q19/메뉴로 돌아가기
+02551	text/networkvs#81	1	$P1/$Q19/準備OK	$P1/$Q19/준비 OK
+02552	text/networkvs#82	1	$P1/$Q20/セッションを抜ける	$P1/$Q20/세션 나가기
+02553	text/networkvs#83	1	$P1/$Q20/取り消す	$P1/$Q20/취소
+02554	text/networkvs#85	1	$P1/$Q95/セッションからはずす	$P1/$Q95/세션에서 제외
+02555	text/networkvs#86	1	$P1/$Q2/サイドを決める	$P1/$Q2/사이드 정하기
+02556	text/networkvs#87	1	$P1/$Q5/サイド選択	$P1/$Q5/사이드 선택
+02557	text/networkvs#88	1	$P1/$Q3/キャラクターセレクト	$P1/$Q3/캐릭터 선택
+02558	text/networkvs#89	1	$P1/セッションが見つかりませんでした。	$P1/세션을 찾지 못했습니다.
+02559	text/networkvs#90	2	$P1/接続に失敗しました。	$P1/접속에 실패했습니다.
+02560	text/networkvs#91	1	$P1/セッションを抜ける	$P1/세션 나가기
+02561	text/networkvs#92	1	$P1/ゲームに戻る	$P1/게임으로 돌아가기
+02562	text/networkvs#95	1	$P1/対戦途中でセッションから抜けるとペナルティが発生します。\nセッションから抜けますか？	$P1/대전 도중에 세션에서 나가면 페널티가 발생합니다.\n세션에서 나가시겠습니까?
+02563	text/networkvs#96	1	$P1/セッションから抜けますか？	$P1/세션에서 나가시겠습니까?
+02564	text/networkvs#97	1	$P1/セッションからはずしますか？	$P1/세션에서 제외하시겠습니까?
+02565	text/networkvs#98	1	$P1/セッションからはずしました。	$P1/세션에서 제외했습니다.
+02566	text/networkvs#99	1	$P1/セッション勝利条件	$P1/세션 승리 조건
+02567	text/networkvs#100	1	$P1/一定数勝利	$P1/일정 수 승리
+02568	text/networkvs#101	1	$P1/一定数連勝	$P1/일정 수 연승
+02569	text/networkvs#102	4	$P1/勝利数	$P1/승리 수
+02570	text/networkvs#103	2	$P1/連勝数	$P1/연승 수
+02571	text/networkvs#118	1	$P1/セッション人数	$P1/세션 인원수
+02572	text/networkvs#122	1	$P1/プライベート スロット	$P1/프라이빗 슬롯
+02573	text/networkvs#130	1	$P1/バトルカウント:$P0/	$P1/배틀 카운트:$P0/
+02574	text/networkvs#131	1	$P1/バトルタイム:$P0/	$P1/배틀 타임:$P0/
+02575	text/networkvs#132	1	$P1/ホスト:	$P1/호스트:
+02576	text/networkvs#134	1	$P1/対戦準備OK	$P1/대전 준비 OK
+02577	text/networkvs#138	1	$P1/選択中キャラクター:	$P1/선택 중인 캐릭터:
+02578	text/networkvs#139	1	$P1/選択中スタイル:	$P1/선택 중인 스타일:
+02579	text/networkvs#140	1	$P1/装備武器:	$P1/장비 무기:
+02580	text/networkvs#141	1	$P1/実績:	$P1/실적:
+02581	text/networkvs#142	1	$P1/キャラクター:	$P1/캐릭터:
+02582	text/networkvs#145	1	$P1/未選択	$P1/미선택
+02583	text/networkvs#146	1	$P1/%sさんが参加しました。	$P1/%s 님이 참가했습니다.
+02584	text/networkvs#147	1	$P1/%sさんが抜けました。	$P1/%s 님이 나갔습니다.
+02585	text/networkvs#148	1	$P1/ホストが%sさんに変更されました。	$P1/호스트가 %s 님으로 변경되었습니다.
+02586	text/networkvs#149	1	$P1/勝利$P0/	$P1/승리$P0/
+02587	text/networkvs#150	2	$P1/勝利ボーナス$P0/	$P1/승리 보너스$P0/
+02588	text/networkvs#151	1	$P1/敗北$P0/	$P1/패배$P0/
+02589	text/networkvs#152	1	$P1/敗北ペナルティ$P0/	$P1/패배 페널티$P0/
+02590	text/networkvs#165	1	$P1/レベル UP 試合$P0/	$P1/레벨 UP 경기$P0/
+02591	text/networkvs#166	2	$P1/レベル DOWN 試合$P0/	$P1/레벨 DOWN 경기$P0/
+02592	text/networkvs#167	1	$P1/レベル UP 試合勝利$P0/	$P1/레벨 UP 경기 승리$P0/
+02593	text/networkvs#168	1	$P1/レベル DOWN 試合勝利$P0/	$P1/레벨 DOWN 경기 승리$P0/
+02594	text/networkvs#169	1	$P1/レベル UP 試合勝利ボーナス$P0/	$P1/레벨 UP 경기 승리 보너스$P0/
+02595	text/networkvs#170	1	$P1/レベル DOWN 試合勝利ボーナス$P0/	$P1/레벨 DOWN 경기 승리 보너스$P0/
+02596	text/networkvs#172	1	$P1/レベル UP 試合敗北$P0/	$P1/레벨 UP 경기 패배$P0/
+02597	text/networkvs#173	1	$P1/レベル DOWN 試合敗北$P0/	$P1/레벨 DOWN 경기 패배$P0/
+02598	text/networkvs#174	1	$P1/レベル UP 試合敗北ペナルティ$P0/	$P1/레벨 UP 경기 패배 페널티$P0/
+02599	text/networkvs#175	1	$P1/レベル DOWN 試合敗北ペナルティ$P0/	$P1/레벨 DOWN 경기 패배 페널티$P0/
+02600	text/networkvs#176	1	$P1/切断$P0/	$P1/접속 끊김$P0/
+02601	text/networkvs#177	1	$P1/切断ペナルティ$P0/	$P1/접속 끊김 페널티$P0/
+02602	text/networkvs#178	1	$P1/ファーストアタック$P0/	$P1/퍼스트 어택$P0/
+02603	text/networkvs#179	1	$P1/ファーストアタックボーナス$P0/	$P1/퍼스트 어택 보너스$P0/
+02604	text/networkvs#180	1	$P1/連勝$P0/	$P1/연승$P0/
+02605	text/networkvs#181	1	$P1/連勝ボーナス$P0/	$P1/연승 보너스$P0/
+02606	text/networkvs#182	1	×%d	×%d
+02607	text/networkvs#183	1	$P1/合計$P0/	$P1/합계$P0/
+02608	text/networkvs#185	1	$P1/ランクポイント$P0/	$P1/랭크 포인트$P0/
+02609	text/networkvs#187	1	$P1/ボーナス$P0/	$P1/보너스$P0/
+02610	text/networkvs#188	1	$P1/対戦ボーナス$P0/	$P1/대전 보너스$P0/
+02611	text/networkvs#190	1	$P1/獲得金額$P0/	$P1/획득 금액$P0/
+02612	text/networkvs#191	1	$P1/所持金$P0/	$P1/소지금$P0/
+02613	text/networkvs#194	1	御前試合！	어전 시합!
+02614	text/networkvs#195	1	更なる高みを望め！	더 높은 곳을 바라라!
+02615	text/networkvs#196	1	死線をくぐり、栄誉を手にせよ！	사선을 넘어 영예를 손에 넣어라!
+02616	text/networkvs#197	1	窮地とて、踏みとどまれ！	궁지에 몰려도 버텨 내라!
+02617	text/networkvs#198	1	己の名を守り通せ！	자신의 이름을 끝까지 지켜라!
+02618	text/networkvs#202	1	$P1/セッション勝利ボーナス	$P1/세션 승리 보너스
+02619	text/networkvs#203	1	$P1/勝率：$P0/	$P1/승률:$P0/
+02620	text/networkvs#206	1	$P1/セッション作成中	$P1/세션 생성 중
+02621	text/networkvs#207	1	$P1/最大プレイヤー数	$P1/최대 플레이어 수
+02622	text/networkvs#208	1	$P1/セッション作成に失敗しました。	$P1/세션 생성에 실패했습니다.
+02623	text/networkvs#212	1	$P1/NATタイプ1	$P1/NAT 타입1
+02624	text/networkvs#213	1	$P1/NATタイプ2	$P1/NAT 타입2
+02625	text/networkvs#214	1	$P1/NATタイプ3	$P1/NAT 타입3
+02626	text/networkvs#218	1	±60	±60
+02627	text/networkvs#219	1	±80	±80
+02628	text/networkvs#220	1	±100	±100
+02629	text/networkvs#221	1	$P1/準備が出来たら決定ボタンを押してください。	$P1/준비가 되면 결정 버튼을 눌러 주세요.
+02630	text/networkvs#222	1	$P1/対戦相手の準備が整うまでしばらくお待ちください。	$P1/대전 상대의 준비가 끝날 때까지 잠시 기다려 주세요.
+02631	text/networkvs#224	1	$P1/ホスト	$P1/호스트
+02632	text/networkvs#225	1	$P1/ホストが招待をしています。 しばらくお待ち下さい。	$P1/호스트가 초대하고 있습니다. 잠시 기다려 주세요.
+02633	text/networkvs#226	1	$P1/他のプレイヤーが対戦中です。しばらくお待ち下さい。	$P1/다른 플레이어가 대전 중입니다. 잠시 기다려 주세요.
+02634	text/networkvs#227	1	$P1/他のプレイヤーがロビーに戻るのを待っています。\nしばらくお待ち下さい。	$P1/다른 플레이어가 로비로 돌아오기를 기다리고 있습니다.\n잠시 기다려 주세요.
+02635	text/networkvs#228	1	$P1/対戦相手参加待ちです。	$P1/대전 상대의 참가를 기다리는 중입니다.
+02636	text/networkvs#229	1	$P1/対戦中です。	$P1/대전 중입니다.
+02637	text/networkvs#230	1	$P1/招待中です。	$P1/초대 중입니다.
+02638	text/networkvs#231	1	$P1/対戦準備中です。	$P1/대전 준비 중입니다.
+02639	text/networkvs#232	1	$P1/$Q19/準備OK $Q20/戻る	$P1/$Q19/준비 OK $Q20/뒤로
+02640	text/networkvs#233	1	$P1/$Q19/準備OK $Q20/セッションを抜ける	$P1/$Q19/준비 OK $Q20/세션 나가기
+02641	text/networkvs#234	1	$P1/キャラクターセレクト中です。	$P1/캐릭터 선택 중입니다.
+02642	text/networkvs#235	1	$P1/ロビー画面に戻っています	$P1/로비 화면으로 돌아가는 중입니다
+02643	text/networkvs#236	1	$P1/ホストが操作中です。	$P1/호스트가 조작 중입니다.
+02644	text/networkvs#238	1	$P1/NATタイプ不明	$P1/NAT 타입 불명
+02645	text/networkvs#239	1	$P1/カスタムサーチ	$P1/커스텀 검색
+02646	text/networkvs#240	1	$P1/$Q19/準備OK $Q20/戻る $Q5/サイド選択	$P1/$Q19/준비 OK $Q20/뒤로 $Q5/사이드 선택
+02647	text/networkvs#241	1	$P1/$Q5/サイド選択 $Q3/ゲーマー カードを見る	$P1/$Q5/사이드 선택 $Q3/게이머 카드 보기
+02648	text/networkvs#242	1	$P1/$Q5/サイド選択 $Q3/招待状を送る	$P1/$Q5/사이드 선택 $Q3/초대장 보내기
+02649	text/networkvs#243	1	$P1/通信中	$P1/통신 중
+02650	text/networkvs#244	1	$P1/プライベート スロット：$P0/	$P1/프라이빗 슬롯:$P0/
+02651	text/networkvs#246	1	$P1/$Q19/準備OK $Q20/戻る $Q2/サイド選択	$P1/$Q19/준비 OK $Q20/뒤로 $Q2/사이드 선택
+02652	text/networkvs#247	1	$P1/$Q2/サイド選択 $Q3/ゲーマー カードを見る	$P1/$Q2/사이드 선택 $Q3/게이머 카드 보기
+02653	text/networkvs#248	1	$P1/$Q2/サイド選択 $Q3/招待状を送る	$P1/$Q2/사이드 선택 $Q3/초대장 보내기
+02654	text/networkvs#249	1	$P1/$Q2/サイド選択	$P1/$Q2/사이드 선택
+02655	text/networkvs#250	1	$P1/セッションから退出中です。	$P1/세션에서 퇴장하는 중입니다.
+02656	text/networkvs#251	1	$P1/退出中	$P1/퇴장 중
+02657	text/networkvs#252	1	$P1/$Q4/フレンドリストを開く	$P1/$Q4/친구 목록 열기
+02658	text/networkvs#253	1	$P1/$Q4/フレンドリストを開く $Q95/セッションからはずす	$P1/$Q4/친구 목록 열기 $Q95/세션에서 제외
+02659	text/networkvs#254	1	$P1/ホストがセッションから抜けるとセッションが解散されます。\nセッションから抜けますか？	$P1/호스트가 세션에서 나가면 세션이 해산됩니다.\n세션에서 나가시겠습니까?
+02660	text/networkvs#255	1	$P1/切断回数	$P1/접속 끊김 횟수
+02661	text/networkvs#256	1	$P1/無効試合数	$P1/무효 경기 수
+02662	text/networkvs#257	1	$P1/通信状況	$P1/통신 상태
+02663	text/networkvs#258	1	$P1/オンラインID	$P1/온라인 ID
+02664	text/networkvs#259	1	$P1/地域	$P1/지역
+02665	text/networkvs#260	1	$P1/北米	$P1/북미
+02666	text/networkvs#261	1	$P1/欧州	$P1/유럽
+02667	text/networkvs#262	1	$P1/アジア	$P1/아시아
+02668	text/networkvs#263	1	$P1/オセアニア	$P1/오세아니아
+02669	text/networkvs#264	1	$P1/南米	$P1/남미
+02670	text/networkvs#265	1	$P1/アフリカ	$P1/아프리카
+02671	text/networkvs#266	1	$P1/中東	$P1/중동
+02672	text/networkvs#267	1	$P1/ユーラシア	$P1/유라시아
+02673	text/networkvs#268	1	$P1/その他	$P1/기타
+02674	text/networkvs#269	1	$P1/ボイスチャット	$P1/보이스 채팅
+02675	text/networkvs#272	1	$P1/観戦中	$P1/관전 중
+02676	text/networkvs#273	1	$P1/観戦中です。	$P1/관전 중입니다.
+02677	text/networkvs#274	1	$P1/勝利までに必要なバトル本数を設定します。	$P1/승리까지 필요한 배틀 수를 설정합니다.
+02678	text/networkvs#275	1	$P1/バトルの制限時間を設定します。	$P1/배틀 제한 시간을 설정합니다.
+02679	text/networkvs#276	1	$P1/セッションに参加できる最大人数を設定します。	$P1/세션에 참가할 수 있는 최대 인원수를 설정합니다.
+02680	text/networkvs#277	1	$P1/フレンドのみが参加できる人数枠を設定します。	$P1/친구만 참가할 수 있는 인원 슬롯 수를 설정합니다.
+02681	text/networkvs#278	1	$P1/勝利までに必要なバトル本数を検索条件として指定します。	$P1/승리까지 필요한 배틀 수를 검색 조건으로 지정합니다.
+02682	text/networkvs#279	1	$P1/バトルの制限時間を検索条件として指定します。	$P1/배틀 제한 시간을 검색 조건으로 지정합니다.
+02683	text/networkvs#280	1	$P1/セッションに参加できる最大人数を検索条件として指定します。	$P1/세션에 참가할 수 있는 최대 인원수를 검색 조건으로 지정합니다.
+02684	text/networkvs#281	1	$P1/ホストがセッションから抜けると現在の対戦が終了されます。\nセッションから抜けますか？	$P1/호스트가 세션에서 나가면 현재 대전이 종료됩니다.\n세션에서 나가시겠습니까?
+02685	text/networkvs#282	1	$P1/ホストがセッションから抜けると\n他のプレイヤーはロビー画面に戻されます。\nセッションから抜けますか？	$P1/호스트가 세션에서 나가면\n다른 플레이어는 로비 화면으로 돌아갑니다.\n세션에서 나가시겠습니까?
+02686	text/networkvs#284	1	$P1/観戦モード	$P1/관전 모드
+02687	text/parts#1	3	$P1/武僧の手甲	$P1/무승의 손등 보호대
+02688	text/parts#2	3	$P1/獣鉄甲冑（小手）	$P1/수철갑주（소매 보호대）
+02689	text/parts#3	3	$P1/邪竜骨骸（小手）	$P1/사룡골해（소매 보호대）
+02690	text/parts#4	3	$P1/正騎士の小手	$P1/정기사의 소매 보호대
+02691	text/parts#5	3	$P1/阿修羅の腕輪	$P1/아수라의 팔찌
+02692	text/parts#6	3	$P1/簒奪者の小手	$P1/찬탈자의 소매 보호대
+02693	text/parts#7	3	$P1/凶夢の手甲	$P1/흉몽의 손등 보호대
+02694	text/parts#8	1	$P1/執行人の脚輪	$P1/집행인의 다리 고리
+02695	text/parts#9	1	$P1/執行人の腰布	$P1/집행인의 허리천
+02696	text/parts#10	1	$P1/飛龍の刺青	$P1/비룡 문신
+02697	text/parts#11	1	$P1/簒奪者のタイツ	$P1/찬탈자의 타이츠
+02698	text/parts#12	1	$P1/番人のタイツ	$P1/파수꾼의 타이츠
+02699	text/parts#13	1	$P1/ふんどし	$P1/훈도시
+02700	text/parts#14	2	$P1/タイツ	$P1/타이츠
+02701	text/parts#15	3	$P1/チェインメイル	$P1/체인 메일
+02702	text/parts#16	1	$P1/キリングスーツ	$P1/킬링 슈트
+02703	text/parts#18	1	$P1/守護の刺青	$P1/수호 문신
+02704	text/parts#19	1	$P1/太極刺青	$P1/태극 문신
+02705	text/parts#20	1	$P1/勇者の証	$P1/용사의 증표
+02706	text/parts#21	2	$P1/守護者の長靴	$P1/수호자의 장화
+02707	text/parts#22	2	$P1/執行人のブーツ	$P1/집행인의 부츠
+02708	text/parts#23	1	$P1/決闘者のブーツ	$P1/결투자의 부츠
+02709	text/parts#24	2	$P1/死神のブーツ	$P1/사신의 부츠
+02710	text/parts#25	2	$P1/阿修羅の足具	$P1/아수라의 발 보호구
+02711	text/parts#26	2	$P1/レザーブーツ	$P1/레더 부츠
+02712	text/parts#27	2	$P1/旅人のブーツ	$P1/나그네의 부츠
+02713	text/parts#28	2	$P1/メイガスブーツ	$P1/메이거스 부츠
+02714	text/parts#29	2	$P1/プロテクトグリーヴ	$P1/프로텍트 그리브
+02715	text/parts#30	3	$P1/足軽脛当て	$P1/아시가루 정강이 보호대
+02716	text/parts#31	2	$P1/忍の脛当て	$P1/닌자의 정강이 보호대
+02717	text/parts#32	1	$P1/紋付足具	$P1/문장 새긴 발 보호구
+02718	text/parts#33	2	$P1/番人のブーツ	$P1/파수꾼의 부츠
+02719	text/parts#34	2	$P1/志士の長靴	$P1/지사의 장화
+02720	text/parts#35	1	$P1/勇者の靴	$P1/용사의 신발
+02721	text/parts#37	2	$P1/海魔の胸鎧	$P1/해마의 흉갑
+02722	text/parts#38	2	$P1/守護者の胸当て	$P1/수호자의 흉갑
+02723	text/parts#39	1	$P1/執行人の胸鎧	$P1/집행인의 흉갑
+02724	text/parts#41	2	$P1/邪竜骨骸（胴）	$P1/사룡골해（몸통）
+02725	text/parts#42	2	$P1/正騎士の胸鎧	$P1/정기사의 흉갑
+02726	text/parts#43	3	$P1/阿修羅の胸当て	$P1/아수라의 흉갑
+02727	text/parts#44	2	$P1/簒奪者の胸当て	$P1/찬탈자의 흉갑
+02728	text/parts#45	2	$P1/凶夢の芯骨	$P1/흉몽의 심골
+02729	text/parts#47	2	$P1/勇士の胸当て	$P1/용맹한 전사의 흉갑
+02730	text/parts#48	1	$P1/チェイン＆プレート	$P1/체인＆플레이트
+02731	text/parts#49	2	$P1/デモニックギア	$P1/데모닉 기어
+02732	text/parts#50	3	$P1/合甲	$P1/합갑
+02733	text/parts#51	3	$P1/胴鎧直垂	$P1/몸통 갑옷 히타타레
+02734	text/parts#52	4	$P1/布手甲	$P1/천 손등 보호대
+02735	text/parts#53	3	$P1/宝珠の手甲	$P1/보주의 손등 보호대
+02736	text/parts#54	4	$P1/草紋手甲	$P1/초문 손등 보호대
+02737	text/parts#55	3	$P1/武神の小手	$P1/무신의 소매 보호대
+02738	text/parts#56	4	$P1/足軽の手蓋	$P1/아시가루의 손덮개
+02739	text/parts#58	3	$P1/海魔の小手	$P1/해마의 소매 보호대
+02740	text/parts#59	3	$P1/守護者の小手	$P1/수호자의 소매 보호대
+02741	text/parts#60	3	$P1/流浪人の手蓋	$P1/떠돌이의 손덮개
+02742	text/parts#61	3	$P1/執行人の腕輪	$P1/집행인의 팔찌
+02743	text/parts#62	3	$P1/琉球手甲	$P1/류큐 손등 보호대
+02744	text/parts#63	3	$P1/決闘者のグローブ	$P1/결투자의 글러브
+02745	text/parts#64	3	$P1/死神の小手	$P1/사신의 소매 보호대
+02746	text/parts#65	1	$P1/勇者の小手	$P1/용사의 소매 보호대
+02747	text/parts#66	1	$P1/志士の手甲	$P1/지사의 손등 보호대
+02748	text/parts#67	1	$P1/ヴェナティックグローブ	$P1/베나틱 글러브
+02749	text/parts#68	2	$P1/レザーグローブ	$P1/레더 글러브
+02750	text/parts#69	1	$P1/リーゼント	$P1/리젠트
+02751	text/parts#70	1	$P1/ショートレイジ	$P1/쇼트 레이지
+02752	text/parts#71	1	$P1/七三分け	$P1/7대3 가르마
+02753	text/parts#72	2	$P1/アフロ	$P1/아프로
+02754	text/parts#73	1	$P1/丁髷	$P1/촌마게
+02755	text/parts#74	1	$P1/鶏冠	$P1/닭볏
+02756	text/parts#75	1	$P1/禿げ上がり	$P1/대머리
+02757	text/parts#76	1	$P1/ショート（くせ毛）	$P1/쇼트（곱슬머리）
+02758	text/parts#77	1	$P1/ショートヘア	$P1/쇼트 헤어
+02759	text/parts#78	1	$P1/センター分け	$P1/가운데 가르마
+02760	text/parts#79	1	$P1/オールバック	$P1/올백
+02761	text/parts#80	1	$P1/侍結い	$P1/사무라이 묶음
+02762	text/parts#81	1	$P1/ロングウェーブ	$P1/롱 웨이브
+02763	text/parts#82	1	$P1/一厘刈り	$P1/빡빡머리
+02764	text/parts#83	1	$P1/頭上一髻	$P1/정수리 상투
+02765	text/parts#84	1	$P1/中華結い	$P1/중화풍 묶음
+02766	text/parts#85	2	$P1/コーンロウ	$P1/콘로우
+02767	text/parts#86	1	$P1/バーニングヘア	$P1/버닝 헤어

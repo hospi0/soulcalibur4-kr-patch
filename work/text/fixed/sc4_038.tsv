@@ -1,0 +1,365 @@
+번호	위치	겹침	JP	KO
+07983	tectext/waza_0c#511	1	炮烙	포락
+07984	tectext/waza_0c#514	1	ホウラク	호라쿠
+07985	tectext/waza_0c#516	1	断罪	단죄
+07986	tectext/waza_0c#519	1	ダンザイ	단자이
+07987	tectext/waza_0c#521	2	逹盆	달분
+07988	tectext/waza_0c#524	2	タイボン	타이본
+07989	tectext/waza_0c#526	2	紅繍鞋	홍수혜
+07990	tectext/waza_0c#529	2	コウシュウケイ	코슈케
+07991	tectext/waza_0c#545	1	準封師中$Q35/	준봉사 중 $Q35/
+07992	tectext/waza_0c#546	1	封凱	봉개
+07993	tectext/waza_0c#549	1	フウガイ	후가이
+07994	tectext/waza_0c#550	1	準封師中$Q33/+$Q34/	준봉사 중 $Q33/+$Q34/
+07995	tectext/waza_0c#555	1	準封師中$Q33/+$Q34/.$Q36/	준봉사 중 $Q33/+$Q34/.$Q36/
+07996	tectext/waza_0c#560	1	準封師中$Q33/+$Q34/.$Q35/	준봉사 중 $Q33/+$Q34/.$Q35/
+07997	tectext/waza_0c#565	1	準封師中$Q33/+$Q36/.$Q27/$Q29/$Q33/.$Q27/$Q24/$Q25/$Q26/$Q29/$Q34/	준봉사 중 $Q33/+$Q36/.$Q27/$Q29/$Q33/.$Q27/$Q24/$Q25/$Q26/$Q29/$Q34/
+07998	tectext/waza_0c#570	1	準封師中$Q34/+$Q36/.$Q27/$Q29/$Q34/	준봉사 중 $Q34/+$Q36/.$Q27/$Q29/$Q34/
+07999	tectext/waza_0c#575	1	準封師中$Q25/$Q34/+$Q35/or$Q31/$Q34/+$Q35/	준봉사 중 $Q25/$Q34/+$Q35/or$Q31/$Q34/+$Q35/
+08000	tectext/waza_0c#576	1	準封師～軸移動	준봉사~축 이동
+08001	tectext/waza_0c#581	1	準裁師	준재사
+08002	tectext/waza_0c#584	1	ジュンサイシ	준사이시
+08003	tectext/waza_0c#585	1	準裁師中$Q33/	준재사 중 $Q33/
+08004	tectext/waza_0c#586	1	裁乎	재호
+08005	tectext/waza_0c#589	1	サイコ	사이코
+08006	tectext/waza_0c#590	1	準裁師中$Q34/	준재사 중 $Q34/
+08007	tectext/waza_0c#591	1	業	업
+08008	tectext/waza_0c#594	1	ゴウ	고
+08009	tectext/waza_0c#595	1	準裁師中$Q35/	준재사 중 $Q35/
+08010	tectext/waza_0c#596	1	栽功蹴	재공축
+08011	tectext/waza_0c#599	1	サイコウシュウ	사이코슈
+08012	tectext/waza_0d#1	2	翻掃鐘	번소종
+08013	tectext/waza_0d#4	2	ホンソウショウ	혼소쇼
+08014	tectext/waza_0d#6	2	旋涼脚	선량각
+08015	tectext/waza_0d#9	2	センリョウキャク	센료캬쿠
+08016	tectext/waza_0d#11	2	芳躍斬	방약참
+08017	tectext/waza_0d#14	2	ホウヤクザン	호야쿠잔
+08018	tectext/waza_0d#16	2	紅躍刺	홍약자
+08019	tectext/waza_0d#19	2	コウヤクシ	코야쿠시
+08020	tectext/waza_0d#21	2	清麗歌～奉夏笙	청려가~봉하생
+08021	tectext/waza_0d#24	2	セイレイカ～ホウゲショウ	세레카~호게쇼
+08022	tectext/waza_0d#26	2	双翼律～奉夏笙	쌍익률~봉하생
+08023	tectext/waza_0d#29	2	ソウヨクリツ～ホウゲショウ	소요쿠리츠~호게쇼
+08024	tectext/waza_0d#30	2	奉夏笙中$Q34/	봉하생 중 $Q34/
+08025	tectext/waza_0d#31	2	璃拍劈	이박벽
+08026	tectext/waza_0d#34	2	リハクヘキ	리하쿠헤키
+08027	tectext/waza_0d#35	2	奉夏笙中$Q35/	봉하생 중 $Q35/
+08028	tectext/waza_0d#36	2	昇雲脚	승운각
+08029	tectext/waza_0d#39	2	ショウウンキャク	쇼운캬쿠
+08030	tectext/waza_0d#41	2	鈴韶灼明剣	영소작명검
+08031	tectext/waza_0d#44	2	レイショウシャクメイケン	레쇼샤쿠메켄
+08032	tectext/waza_0d#45	1	しゃがみ$Q26/$Q34/~$Q26/$Q34/+$Q35/	앉기 $Q26/$Q34/~$Q26/$Q34/+$Q35/
+08033	tectext/waza_0d#50	1	$Q26/$Q39/$Q33/（カウンター）~$Q33/+$Q34/~$Q29/$Q42/$Q34/+$Q35/	$Q26/$Q39/$Q33/（카운터）~$Q33/+$Q34/~$Q29/$Q42/$Q34/+$Q35/
+08034	tectext/waza_0d#56	1	清麗歌	청려가
+08035	tectext/waza_0d#59	1	セイレイカ	세레카
+08036	tectext/waza_0d#61	1	清麗歌～搦引	청려가~익인
+08037	tectext/waza_0d#64	1	セイレイカ～ジャクイン	세레카~자쿠인
+08038	tectext/waza_0d#71	1	香屈刺	향굴자
+08039	tectext/waza_0d#74	1	コウクツシ	코쿠츠시
+08040	tectext/waza_0d#76	1	燿風歌	요풍가
+08041	tectext/waza_0d#79	1	ヨウフウカ	요후카
+08042	tectext/waza_0d#81	1	涼麗燿風踏	양려요풍답
+08043	tectext/waza_0d#84	1	リョウレイヨウフウトウ	료레요후토
+08044	tectext/waza_0d#86	1	燿風歌～奉夏笙	요풍가~봉하생
+08045	tectext/waza_0d#89	1	ヨウフウカ～ホウゲショウ	요후카~호게쇼
+08046	tectext/waza_0d#91	1	紅刹斬	홍찰참
+08047	tectext/waza_0d#94	1	コウセツザン	코세츠잔
+08048	tectext/waza_0d#101	1	断茎斬	단경참
+08049	tectext/waza_0d#104	1	ダンケイザン	단케잔
+08050	tectext/waza_0d#106	1	進跼掃	진국소
+08051	tectext/waza_0d#109	1	シンキョクソウ	신쿄쿠소
+08052	tectext/waza_0d#111	1	踊翻斬	용번참
+08053	tectext/waza_0d#114	1	ヨウホンザン	요혼잔
+08054	tectext/waza_0d#116	1	跼斬	국참
+08055	tectext/waza_0d#119	1	キョクザン	쿄쿠잔
+08056	tectext/waza_0d#121	1	戻踊韻	여용운
+08057	tectext/waza_0d#124	1	レイヨウイン	레요인
+08058	tectext/waza_0d#126	1	戻踊韻～奉夏笙	여용운~봉하생
+08059	tectext/waza_0d#129	1	レイヨウイン～ホウゲショウ	레요인~호게쇼
+08060	tectext/waza_0d#131	1	翻羽斬	번우참
+08061	tectext/waza_0d#134	1	ホンウザン	혼잔
+08062	tectext/waza_0d#136	1	転剣節	전검절
+08063	tectext/waza_0d#139	1	テンケンセツ	텐켄세츠
+08064	tectext/waza_0d#141	1	転茎掃	전경소
+08065	tectext/waza_0d#144	1	テンケイソウ	텐케소
+08066	tectext/waza_0d#146	1	華律	화율
+08067	tectext/waza_0d#149	1	カリツ	카리츠
+08068	tectext/waza_0d#151	1	華衛	화위
+08069	tectext/waza_0d#154	1	カエイ	카에
+08070	tectext/waza_0d#156	1	礼舞	예무
+08071	tectext/waza_0d#159	1	レイブ	레부
+08072	tectext/waza_0d#161	1	礼紿楽	예태악
+08073	tectext/waza_0d#164	1	レイタイガク	레타이가쿠
+08074	tectext/waza_0d#166	1	礼舞～奉夏笙	예무~봉하생
+08075	tectext/waza_0d#169	1	レイブ～ホウゲショウ	레부~호게쇼
+08076	tectext/waza_0d#171	1	浪輪踏	낭륜답
+08077	tectext/waza_0d#174	2	ロウリントウ	로린토
+08078	tectext/waza_0d#176	1	浪輪踏～軸移動	낭륜답~축 이동
+08079	tectext/waza_0d#181	1	昇拍	승박
+08080	tectext/waza_0d#184	1	ショウハク	쇼하쿠
+08081	tectext/waza_0d#186	2	屈劈	굴벽
+08082	tectext/waza_0d#189	2	クッヘキ	쿳헤키
+08083	tectext/waza_0d#191	1	双翼律	쌍익률
+08084	tectext/waza_0d#194	1	ソウヨクリツ	소요쿠리츠
+08085	tectext/waza_0d#201	1	瑞律	서율
+08086	tectext/waza_0d#204	1	ズイリツ	즈이리츠
+08087	tectext/waza_0d#206	1	瑞楽	서악
+08088	tectext/waza_0d#209	1	ズイガク	즈이가쿠
+08089	tectext/waza_0d#211	1	乃遊祇	내유기
+08090	tectext/waza_0d#214	1	ダイユウシ	다이유시
+08091	tectext/waza_0d#221	1	紗拍	사박
+08092	tectext/waza_0d#224	1	シャハク	샤하쿠
+08093	tectext/waza_0d#225	1	しゃがみ$Q26/<s$Q34/s>$Q34/	앉기 $Q26/<s$Q34/s>$Q34/
+08094	tectext/waza_0d#226	1	紗紿刺	사태자
+08095	tectext/waza_0d#229	1	シャタイシ	샤타이시
+08096	tectext/waza_0d#230	1	しゃがみ$Q26/<s$Q34/s>$Q47/	앉기 $Q26/<s$Q34/s>$Q47/
+08097	tectext/waza_0d#231	1	紗紿刺～奉夏笙	사태자~봉하생
+08098	tectext/waza_0d#234	1	シャタイシ～ホウゲショウ	샤타이시~호게쇼
+08099	tectext/waza_0d#236	1	厳翻律	엄번율
+08100	tectext/waza_0d#239	1	ゲンホンリツ	겐혼리츠
+08101	tectext/waza_0d#241	1	翻羽劈	번우벽
+08102	tectext/waza_0d#244	1	ホンウヘキ	혼헤키
+08103	tectext/waza_0d#246	1	転剣拍	전검박
+08104	tectext/waza_0d#249	1	テンケンパク	텐켄파쿠
+08105	tectext/waza_0d#251	1	転屈劈	전굴벽
+08106	tectext/waza_0d#254	1	テンクッヘキ	텐쿳헤키
+08107	tectext/waza_0d#256	1	脚音	각음
+08108	tectext/waza_0d#259	1	キャクオン	캬쿠온
+08109	tectext/waza_0d#261	1	靡旒脚	미류각
+08110	tectext/waza_0d#264	1	ビリュウキャク	비류캬쿠
+08111	tectext/waza_0d#266	1	嘩鶏脚	화계각
+08112	tectext/waza_0d#269	1	カケイキャク	카케캬쿠
+08113	tectext/waza_0d#271	2	刋脚	천각
+08114	tectext/waza_0d#274	2	センキャク	센캬쿠
+08115	tectext/waza_0d#276	2	酔鶏脚	취계각
+08116	tectext/waza_0d#279	2	スイケイキャク	스이케캬쿠
+08117	tectext/waza_0d#281	1	鶏紿霖潦歌～奉夏笙	계태림료가~봉하생
+08118	tectext/waza_0d#284	2	ケイタイリンロウカ	케타이린로카
+08119	tectext/waza_0d#286	1	鶏紿霖潦歌	계태림료가
+08120	tectext/waza_0d#291	1	鶏紿霖涼踏	계태림량답
+08121	tectext/waza_0d#294	1	ケイタイリンリョウトウ	케타이린료토
+08122	tectext/waza_0d#306	1	翔鶏脚	상계각
+08123	tectext/waza_0d#309	1	ショウケイキャク	쇼케캬쿠
+08124	tectext/waza_0d#311	1	跳鶏脚	도계각
+08125	tectext/waza_0d#314	1	チョウケイキャク	초케캬쿠
+08126	tectext/waza_0d#316	1	転声脚	전성각
+08127	tectext/waza_0d#319	1	テンセイキャク	텐세캬쿠
+08128	tectext/waza_0d#321	1	転刋脚	전천각
+08129	tectext/waza_0d#324	1	テンセンキャク	텐센캬쿠
+08130	tectext/waza_0d#326	1	寿翼律	수익률
+08131	tectext/waza_0d#329	1	ジュヨクリツ	주요쿠리츠
+08132	tectext/waza_0d#331	1	寿翼律～奉夏笙	수익률~봉하생
+08133	tectext/waza_0d#334	1	ジュヨクリツ～ホウゲショウ	주요쿠리츠~호게쇼
+08134	tectext/waza_0d#336	1	奏曲	주곡
+08135	tectext/waza_0d#339	1	ソウキョク	소쿄쿠
+08136	tectext/waza_0d#341	1	歓風掃	환풍소
+08137	tectext/waza_0d#344	2	カンフウソウ	칸후소
+08138	tectext/waza_0d#346	1	歓風掃～背向け	환풍소~뒤돌아서
+08139	tectext/waza_0d#351	1	昂霧	앙무
+08140	tectext/waza_0d#354	2	コウム	코무
+08141	tectext/waza_0d#356	1	昂霧～ダウン	앙무~다운
+08142	tectext/waza_0d#361	1	螢羅律	형라율
+08143	tectext/waza_0d#364	1	ギョウラリツ	교라리츠
+08144	tectext/waza_0d#366	1	螢羅律～奉夏笙	형라율~봉하생
+08145	tectext/waza_0d#369	1	ギョウラリツ～ホウゲショウ	교라리츠~호게쇼
+08146	tectext/waza_0d#371	1	祥紿刺	상태자
+08147	tectext/waza_0d#374	2	ショウタイシ	쇼타이시
+08148	tectext/waza_0d#375	2	しゃがみ$Q46/+$Q47/	앉기 $Q46/+$Q47/
+08149	tectext/waza_0d#376	1	祥紿刺～奉夏笙	상태자~봉하생
+08150	tectext/waza_0d#380	1	立ち途中$Q33/+$Q34/.$Q34/	서는 도중 $Q33/+$Q34/.$Q34/
+08151	tectext/waza_0d#381	1	騎昂楽	기앙악
+08152	tectext/waza_0d#384	1	キコウガク	키코가쿠
+08153	tectext/waza_0d#386	1	騎昂楽～奉夏笙	기앙악~봉하생
+08154	tectext/waza_0d#389	1	キコウガク～ホウゲショウ	키코가쿠~호게쇼
+08155	tectext/waza_0d#390	1	立ち途中$Q33/+$Q34/.$Q25/$Q34/	서는 도중 $Q33/+$Q34/.$Q25/$Q34/
+08156	tectext/waza_0d#391	1	騎仙楽	기선악
+08157	tectext/waza_0d#394	1	キセンガク	키센가쿠
+08158	tectext/waza_0d#395	1	仰向けダウン中$Q33/+$Q34/	위로 누운 다운 중 $Q33/+$Q34/
+08159	tectext/waza_0d#396	2	魚河藻	어하조
+08160	tectext/waza_0d#399	2	ギョカソウ	교카소
+08161	tectext/waza_0d#400	1	うつ伏せダウン中$Q33/+$Q34/	엎드린 다운 중 $Q33/+$Q34/
+08162	tectext/waza_0d#406	1	戯歩刺	희보자
+08163	tectext/waza_0d#409	1	ギホシ	기호시
+08164	tectext/waza_0d#411	1	綽羅律	작라율
+08165	tectext/waza_0d#414	1	シャクラリツ	샤쿠라리츠
+08166	tectext/waza_0d#416	1	綽羅律～奉夏笙	작라율~봉하생
+08167	tectext/waza_0d#419	1	シャクラリツ～ホウゲショウ	샤쿠라리츠~호게쇼
+08168	tectext/waza_0d#421	1	紅明剣	홍명검
+08169	tectext/waza_0d#424	1	コウメイケン	코메켄
+08170	tectext/waza_0d#426	1	震歩	진보
+08171	tectext/waza_0d#429	1	シンホ	신호
+08172	tectext/waza_0d#431	1	震歩～奉夏笙	진보~봉하생
+08173	tectext/waza_0d#434	1	シンホ～ホウゲショウ	신호~호게쇼
+08174	tectext/waza_0d#436	1	並娑戴	병사대
+08175	tectext/waza_0d#439	1	ヘイシャタイ	헤샤타이
+08176	tectext/waza_0d#441	1	涼浄暉潤剣	양정휘윤검
+08177	tectext/waza_0d#444	1	リョウジョウキジュンケン	료조키준켄
+08178	tectext/waza_0d#446	1	裏鶏脚	이계각
+08179	tectext/waza_0d#449	1	リケイキャク	리케캬쿠
+08180	tectext/waza_0d#456	1	遊歩瑟	유보슬
+08181	tectext/waza_0d#459	1	ユウホシツ	유호시츠
+08182	tectext/waza_0d#461	1	遊歩瑟～奉夏笙	유보슬~봉하생
+08183	tectext/waza_0d#464	1	ユウホシツ～ホウゲショウ	유호시츠~호게쇼
+08184	tectext/waza_0d#466	1	遊歩灼明剣	유보작명검
+08185	tectext/waza_0d#469	1	ユウホシャクメイケン	유호샤쿠메켄
+08186	tectext/waza_0d#470	1	$Q33/+$Q35/.$Q47/＋$Q48/	$Q33/+$Q35/.$Q47/＋$Q48/
+08187	tectext/waza_0d#471	1	遊歩紅明剣	유보홍명검
+08188	tectext/waza_0d#474	1	ユウホコウメイケン	유호코메켄
+08189	tectext/waza_0d#476	1	水月脚	수월각
+08190	tectext/waza_0d#479	1	スイゲツキャク	스이게츠캬쿠
+08191	tectext/waza_0d#481	1	水月踏	수월답
+08192	tectext/waza_0d#484	1	スイゲツトウ	스이게츠토
+08193	tectext/waza_0d#486	1	乖香韻	괴향운
+08194	tectext/waza_0d#489	1	カイコウイン	카이코인
+08195	tectext/waza_0d#491	1	水月踏～奉夏笙	수월답~봉하생
+08196	tectext/waza_0d#494	1	スイゲツトウ～ホウゲショウ	스이게츠토~호게쇼
+08197	tectext/waza_0d#506	1	回提斬	회제참
+08198	tectext/waza_0d#509	1	カイテイザン	카이테잔
+08199	tectext/waza_0d#511	1	回身斬	회신참
+08200	tectext/waza_0d#514	1	カイシンザン	카이신잔
+08201	tectext/waza_0d#516	1	漣翻斬	연번참
+08202	tectext/waza_0d#519	1	レンホンザン	렌혼잔
+08203	tectext/waza_0d#521	1	綺韻	기운
+08204	tectext/waza_0d#524	1	キイン	키인
+08205	tectext/waza_0d#526	1	綺雲～奉夏笙	기운~봉하생
+08206	tectext/waza_0d#529	1	キウン～ホウゲショウ	키운~호게쇼
+08207	tectext/waza_0d#531	1	進彩楽	진채악
+08208	tectext/waza_0d#534	1	シンサイガク	신사이가쿠
+08209	tectext/waza_0d#536	2	進彩楽～搦引	진채악~익인
+08210	tectext/waza_0d#539	2	シンサイガク～ジャクイン　	신사이가쿠~자쿠인　
+08211	tectext/waza_0d#546	1	進彩楽～奉夏笙	진채악~봉하생
+08212	tectext/waza_0d#549	1	シンサイガク～ホウゲショウ	신사이가쿠~호게쇼
+08213	tectext/waza_0d#551	1	累環律	누환율
+08214	tectext/waza_0d#554	1	ルイカンリツ	루이칸리츠
+08215	tectext/waza_0d#556	1	累環律～奉夏笙	누환율~봉하생
+08216	tectext/waza_0d#559	1	ルイカンリツ～ホウゲショウ	루이칸리츠~호게쇼
+08217	tectext/waza_0d#561	1	回屈斬	회굴참
+08218	tectext/waza_0d#564	1	カイクツザン	카이쿠츠잔
+08219	tectext/waza_0d#566	1	幻隆詠	환륭영
+08220	tectext/waza_0d#569	1	ゲンリュウエイ	겐류에
+08221	tectext/waza_0d#571	1	幻隆詠～奉夏笙	환륭영~봉하생
+08222	tectext/waza_0d#574	1	ゲンリュウエイ～ホウゲショウ	겐류에~호게쇼
+08223	tectext/waza_0d#576	1	壮隆詠	장륭영
+08224	tectext/waza_0d#579	1	ソウリュウエイ	소류에
+08225	tectext/waza_0d#586	1	紅躍刺～搦引	홍약자~익인
+08226	tectext/waza_0d#589	1	コウヤクシ～ジャクイン　	코야쿠시~자쿠인　
+08227	tectext/waza_0d#591	1	鳴旒脚	명류각
+08228	tectext/waza_0d#594	1	メイリュウキャク	메류캬쿠
+08229	tectext/waza_0d#596	1	鼓燕剣～乖遊瑟	고연검~괴유슬
+08230	tectext/waza_0d#599	1	コエンケン～カイユウシツ	코엔켄~카이유시츠
+08231	tectext/waza_0d#601	1	零星脚	영성각
+08232	tectext/waza_0d#604	1	レイセイキャク	레세캬쿠
+08233	tectext/waza_0d#606	1	地平腿	지평퇴
+08234	tectext/waza_0d#609	1	チヘイタイ	치헤타이
+08235	tectext/waza_0d#611	1	進脚刺	진각자
+08236	tectext/waza_0d#614	1	シンキャクシ	신캬쿠시
+08237	tectext/waza_0d#616	1	進脚刺～奉夏笙	진각자~봉하생
+08238	tectext/waza_0d#619	1	シンキャクシ～ホウゲショウ	신캬쿠시~호게쇼
+08239	tectext/waza_0d#621	1	尚明剣	상명검
+08240	tectext/waza_0d#624	1	ショウメイケン	쇼메켄
+08241	tectext/waza_0d#626	1	洸羽斬	광우참
+08242	tectext/waza_0d#629	1	コウウザン	코우잔
+08243	tectext/waza_0d#631	1	灼明剣	작명검
+08244	tectext/waza_0d#634	1	シャクメイケン	샤쿠메켄
+08245	tectext/waza_0d#636	1	乖遊瑟	괴유슬
+08246	tectext/waza_0d#639	1	カイユウシツ	카이유시츠
+08247	tectext/waza_0d#641	1	乖退瑟	괴퇴슬
+08248	tectext/waza_0d#644	1	カイタイシツ	카이타이시츠
+08249	tectext/waza_0d#646	1	瞬宿剣	순숙검
+08250	tectext/waza_0d#649	1	シュンシュクケン	슌슈쿠켄
+08251	tectext/waza_0d#651	1	地旋斬	지선참
+08252	tectext/waza_0d#654	1	チセンザン	치센잔
+08253	tectext/waza_0d#656	1	流華蹴	유화축
+08254	tectext/waza_0d#659	1	リュウカシュウ	류카슈
+08255	tectext/waza_0d#661	1	雲雀韶	운작소
+08256	tectext/waza_0d#664	1	ウンジャクショウ	운자쿠쇼
+08257	tectext/waza_0d#666	1	瓏玲響	농령향
+08258	tectext/waza_0d#669	1	ロウレイキョウ	로레쿄
+08259	tectext/waza_0d#671	1	瑩笛宴	영적연
+08260	tectext/waza_0d#674	1	エイテキエン	에테키엔
+08261	tectext/waza_0d#676	1	玉輪韶	옥륜소
+08262	tectext/waza_0d#679	1	ギョクリンショウ	교쿠린쇼
+08263	tectext/waza_0d#681	1	天衣響	천의향
+08264	tectext/waza_0d#684	1	テンイキョウ	텐쿄
+08265	tectext/waza_0d#686	1	翠緑響～ダウン	취록향~다운
+08266	tectext/waza_0d#689	1	スイヨクキョウ	스이요쿠쿄
+08267	tectext/waza_0d#691	1	紅彩韶	홍채소
+08268	tectext/waza_0d#694	1	コウサイショウ	코사이쇼
+08269	tectext/waza_0d#700	1	$Q46/+$Q48/など	$Q46/+$Q48/ 등
+08270	tectext/waza_0d#701	1	奉夏笙	봉하생
+08271	tectext/waza_0d#704	1	ホウゲショウ	호게쇼
+08272	tectext/waza_0d#705	1	奉夏笙中$Q33/	봉하생 중 $Q33/
+08273	tectext/waza_0d#706	1	分霞斬	분하참
+08274	tectext/waza_0d#709	1	ブンカザン	분카잔
+08275	tectext/waza_0d#720	1	奉夏笙（地）中$Q35/+$Q36/	봉하생（지） 중 $Q35/+$Q36/
+08276	tectext/waza_0d#721	1	奉夏挑発（地）	봉하도발（지）
+08277	tectext/waza_0d#724	2	ホウゲチョウハツ	호게초하츠
+08278	tectext/waza_0d#725	1	奉夏笙（天）中$Q35/+$Q36/	봉하생（천） 중 $Q35/+$Q36/
+08279	tectext/waza_0d#726	1	奉夏挑発（天）	봉하도발（천）
+08280	tectext/waza_0d#730	1	奉夏笙（天）中$Q33/+$Q36/or$Q34/+$Q36/	봉하생（천） 중 $Q33/+$Q36/or$Q34/+$Q36/
+08281	tectext/waza_0d#731	1	簾奉夏	염봉하
+08282	tectext/waza_0d#734	1	レンホウゲ	렌호게
+08283	tectext/waza_0e#1	2	カーレントブラスト	커런트 블라스트
+08284	tectext/waza_0e#6	2	メゼ式・ギガテンプル	메제식·기가 템플
+08285	tectext/waza_0e#10	2	立ち途中$Q35/.$Q35/.$Q35/	서는 도중 $Q35/.$Q35/.$Q35/
+08286	tectext/waza_0e#11	2	カミラ複合式・ロンパーツイスター	카밀라 복합식·롬퍼 트위스터
+08287	tectext/waza_0e#16	2	グリットドラフト	그릿 드래프트
+08288	tectext/waza_0e#21	2	メゼ式・シンカースピンキック～クリーピング	메제식·싱커 스핀 킥~크리핑
+08289	tectext/waza_0e#26	2	キリングバイト～クリーピング	킬링 바이트~크리핑
+08290	tectext/waza_0e#30	2	クリーピング中$Q34/	크리핑 중 $Q34/
+08291	tectext/waza_0e#31	2	ライジングリベンジャー	라이징 리벤저
+08292	tectext/waza_0e#35	2	クリーピング中$Q33/+$Q35/.$Q34/	크리핑 중 $Q33/+$Q35/.$Q34/
+08293	tectext/waza_0e#36	2	キャメルボーンクラッシャー	카멜본 크러셔
+08294	tectext/waza_0e#41	2	メゼ式・リープテイルランブル	메제식·리프 테일 럼블
+08295	tectext/waza_0e#50	1	$Q26/$Q39/$Q34/ヒット時$Q34/~$Q27/$Q40/$Q35/	$Q26/$Q39/$Q34/히트 시 $Q34/~$Q27/$Q40/$Q35/
+08296	tectext/waza_0e#56	1	リフレインアクス	리프레인 액스
+08297	tectext/waza_0e#61	1	アイギスブロー	이지스 블로
+08298	tectext/waza_0e#66	1	ランバーアクス	럼버 액스
+08299	tectext/waza_0e#71	2	ローアーセルティス	로워 셀티스
+08300	tectext/waza_0e#81	1	トゥルヌ式・ウェザーエッジ	투르누식·웨더 에지
+08301	tectext/waza_0e#91	1	サンドゲイルアクス	샌드 게일 액스
+08302	tectext/waza_0e#96	1	ホッパースピニングエッジ	호퍼 스피닝 에지
+08303	tectext/waza_0e#101	1	リアサイドエッジ	리어 사이드 에지
+08304	tectext/waza_0e#106	1	リアベースカーレント	리어 베이스 커런트
+08305	tectext/waza_0e#111	1	レンドストライク	렌드 스트라이크
+08306	tectext/waza_0e#116	1	スポットストライク	스폿 스트라이크
+08307	tectext/waza_0e#121	1	ライザーグリッド	라이저 그리드
+08308	tectext/waza_0e#126	1	メゼ式・アイギスブラスト	메제식·이지스 블라스트
+08309	tectext/waza_0e#131	1	ベースレンドアッズ	베이스 렌드 애즈
+08310	tectext/waza_0e#136	1	アイギスクリッパー	이지스 클리퍼
+08311	tectext/waza_0e#141	1	ベースレンドアクス	베이스 렌드 액스
+08312	tectext/waza_0e#146	1	テイルウェポンゲイザー	테일 웨폰 게이저
+08313	tectext/waza_0e#151	1	ホッパーベースレンドアクス	호퍼 베이스 렌드 액스
+08314	tectext/waza_0e#156	1	リアレンドアッズ	리어 렌드 애즈
+08315	tectext/waza_0e#161	1	リアベースレンドアクス	리어 베이스 렌드 액스
+08316	tectext/waza_0e#166	1	グルームハイキック	그룸 하이킥
+08317	tectext/waza_0e#171	1	グルームフロントキック	그룸 프런트 킥
+08318	tectext/waza_0e#176	1	グルームフロントキック（ホールド)	그룸 프런트 킥（홀드）
+08319	tectext/waza_0e#181	1	グルームスタンプキック	그룸 스탬프 킥
+08320	tectext/waza_0e#186	1	ロンパーベースキック	롬퍼 베이스 킥
+08321	tectext/waza_0e#191	1	メゼ式・シンカースピンキック	메제식·싱커 스핀 킥
+08322	tectext/waza_0e#201	1	メゼ式・ライトニングヘッドマッシャー	메제식·라이트닝 헤드 매셔
+08323	tectext/waza_0e#206	1	グルームローキック	그룸 로킥
+08324	tectext/waza_0e#216	1	サイドアーチキック	사이드 아치 킥
+08325	tectext/waza_0e#221	1	リアグルームハイキック	리어 그룸 하이킥
+08326	tectext/waza_0e#226	1	リアグルームローキック	리어 그룸 로킥
+08327	tectext/waza_0e#231	1	ホッパーアッズ	호퍼 애즈
+08328	tectext/waza_0e#241	1	メゼ式・グレートサンドリベンジャー	메제식·그레이트 샌드 리벤저
+08329	tectext/waza_0e#246	1	メゼ式・グレートサンドリベンジャー～クリーピング	메제식·그레이트 샌드 리벤저~크리핑
+08330	tectext/waza_0e#251	1	サンドリベンジャー	샌드 리벤저
+08331	tectext/waza_0e#256	1	クイックサンドリベンジャー	퀵 샌드 리벤저
+08332	tectext/waza_0e#261	1	サンドリベンジャー～クリーピング	샌드 리벤저~크리핑
+08333	tectext/waza_0e#266	1	メゼ式・デザートワーニング	메제식·데저트 워닝
+08334	tectext/waza_0e#271	1	メゼ式・デザートワーニング（ホールド）	메제식·데저트 워닝（홀드）
+08335	tectext/waza_0e#276	1	スパイラルテイル	스파이럴 테일
+08336	tectext/waza_0e#281	1	メゼ式・ツイスターハイキック	메제식·트위스터 하이킥
+08337	tectext/waza_0e#296	1	スパイラルドラフト	스파이럴 드래프트
+08338	tectext/waza_0e#301	1	スパイラルドラフト～クリーピング	스파이럴 드래프트~크리핑
+08339	tectext/waza_0e#306	1	リバースダブルアイギススイング	리버스 더블 이지스 스윙
+08340	tectext/waza_0e#311	1	ダブルアイギススイング	더블 이지스 스윙
+08341	tectext/waza_0e#316	1	メゼ式・カーレントスピン	메제식·커런트 스핀
+08342	tectext/waza_0e#321	1	カミラ複合式・ハンティングテンペスト	카밀라 복합식·헌팅 템페스트
+08343	tectext/waza_0e#326	1	カミラ複合式・ハンティングテンペスト（ホールド）	카밀라 복합식·헌팅 템페스트（홀드）
+08344	tectext/waza_0e#331	1	トゥヌル式・デューンコメット	투누르식·듄 코멧
+08345	tectext/waza_0e#336	1	メゼ式・キャメルスクワッシャー	메제식·카멜 스쿼셔
+08346	tectext/waza_0e#340	1	$Q39/or$Q45/$Q34/ヒット時$Q34/	$Q39/or$Q45/$Q34/히트 시 $Q34/
